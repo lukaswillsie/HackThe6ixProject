@@ -20,5 +20,19 @@ def background_process():
         print(str(e))
         return str(e)
 
+@app.route('/heat_map_process')
+def heat_map_process():
+    try:
+        location = request.args.get('time_range', 0, type=str)
+        print("got here")
+        print(location)
+        # Backend process go here
+        
+        return jsonify(result=[])
+    except Exception as e:
+        print(str(e))
+        return str(e)
+
+
 if __name__ == "__main__":
     app.run()
