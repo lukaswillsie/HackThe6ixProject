@@ -9,24 +9,29 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans+JP);
 
 
-html, body { height: 100%; width: 100%; margin: 0; scroll-behavior: smooth; }
+html, body { height: 100%;
+    width: 100%; margin: 0;
+    scroll-behavior: smooth;
+    }
 
 
   .navigation-bar{
     /* background: #3db2e1; */
     font-family: Noto San JP, sans-serif;
     font-weight: bolder;
-    right: 2%;
-    top: 3%;
     list-style-type: none;
     position: fixed;
     overflow: hidden;
     color:#707070;
+    width: 100%;
+    height: 80px;
+    text-align: right;
+    background-color: #Ed7B7B;
   }
 
   .navigation-bar li{
     display: inline-block;
-    margin: 0 20px 0 0;
+    margin: 15px 20px 0 0;
   }
 
   .navigation-bar ul{
@@ -34,7 +39,7 @@ html, body { height: 100%; width: 100%; margin: 0; scroll-behavior: smooth; }
   }
 
   .navigation-bar a {
-    color:#707070;
+    color:white;
     text-transform: uppercase;
     padding: 16px 20px;
     letter-spacing: 1px;
@@ -93,10 +98,14 @@ html, body { height: 100%; width: 100%; margin: 0; scroll-behavior: smooth; }
           }
     }
 
+.logo{
+  height: 80%;
+  width: auto;
+}
 .search-bar{
     position: relative;
-    top: 40%;
-    margin: -10px auto;
+    top: 20%;
+    margin: -5px auto;
     /* -height/2 */
     width: 600px;
     height: 200px;
@@ -130,16 +139,17 @@ html, body { height: 100%; width: 100%; margin: 0; scroll-behavior: smooth; }
     height:35px;
     border:none;
     width:500px;
-    font-size:14px;
+    font-size:15px;
     outline: none;
-    margin-left: 20px;
+    margin-left: 17px;
 }
 
   .voice{
-    height:20px;
+    height:24px;
     position:relative;
-    top:8px;
+    top:10px;
     left:14px;
+    filter: hue-rotate(340deg);
   }
 
   .button{
