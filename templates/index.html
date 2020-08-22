@@ -4,7 +4,7 @@
     <meta charset="UFT-8">
     <title>COVID Risk Calculator</title>
     <link rel="stylesheet" href="../static/main.css">
-    <script type="text/javascript" src="../main.js"></script> 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </head>  
 <body>
     <nav class="navigation-bar">
@@ -18,11 +18,12 @@
         <form id='myForm'>
             <div class="bar">
                 <input type="text" class='search' id="location" name="location" placeholder="Enter your location"><br>
-                <a href="#"> <img class="voice" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/716px-Google_mic.svg.png" title="Search by Voice"></a>
+                <img class="voice" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/716px-Google_mic.svg.png" title="Search by Voice">
             </div>
             <a href='#' id=process_input> <button id="submit_button" class="button" type="submit">Search</button></a>
         </form>
     </div>
+    <script src="../static/main.js"></script> 
 
 </body>
 </html>

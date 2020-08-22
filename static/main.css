@@ -6,6 +6,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Proxima+Nova);
 @import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+JP);
 
 
 html, body { height: 100%; width: 100%; margin: 0; scroll-behavior: smooth; }
@@ -13,13 +14,14 @@ html, body { height: 100%; width: 100%; margin: 0; scroll-behavior: smooth; }
 
   .navigation-bar{
     /* background: #3db2e1; */
-    font-family: Raleway, sans-serif;
+    font-family: Noto San JP, sans-serif;
     font-weight: bolder;
     right: 2%;
     top: 3%;
     list-style-type: none;
     position: fixed;
     overflow: hidden;
+    color:#707070;
   }
 
   .navigation-bar li{
@@ -32,7 +34,7 @@ html, body { height: 100%; width: 100%; margin: 0; scroll-behavior: smooth; }
   }
 
   .navigation-bar a {
-    color: black;
+    color:#707070;
     text-transform: uppercase;
     padding: 16px 20px;
     letter-spacing: 1px;
@@ -41,6 +43,7 @@ html, body { height: 100%; width: 100%; margin: 0; scroll-behavior: smooth; }
     overflow: hidden;
     text-decoration: none;
     transition-duration: 500ms;
+    font-weight: normal;
   }
 
   .navigation-bar a:hover, .logo a:hover {
