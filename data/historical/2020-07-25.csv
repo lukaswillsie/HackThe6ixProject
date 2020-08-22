@@ -1,0 +1,3210 @@
+2020-07-25,Autauga,Alabama,01001,932,21
+2020-07-25,Baldwin,Alabama,01003,2662,18
+2020-07-25,Barbour,Alabama,01005,552,4
+2020-07-25,Bibb,Alabama,01007,318,2
+2020-07-25,Blount,Alabama,01009,637,1
+2020-07-25,Bullock,Alabama,01011,414,12
+2020-07-25,Butler,Alabama,01013,720,35
+2020-07-25,Calhoun,Alabama,01015,1062,6
+2020-07-25,Chambers,Alabama,01017,810,37
+2020-07-25,Cherokee,Alabama,01019,207,8
+2020-07-25,Chilton,Alabama,01021,595,5
+2020-07-25,Choctaw,Alabama,01023,258,12
+2020-07-25,Clarke,Alabama,01025,442,9
+2020-07-25,Clay,Alabama,01027,151,3
+2020-07-25,Cleburne,Alabama,01029,95,1
+2020-07-25,Coffee,Alabama,01031,635,5
+2020-07-25,Colbert,Alabama,01033,880,10
+2020-07-25,Conecuh,Alabama,01035,336,9
+2020-07-25,Coosa,Alabama,01037,86,2
+2020-07-25,Covington,Alabama,01039,696,19
+2020-07-25,Crenshaw,Alabama,01041,230,4
+2020-07-25,Cullman,Alabama,01043,962,8
+2020-07-25,Dale,Alabama,01045,680,16
+2020-07-25,Dallas,Alabama,01047,1241,19
+2020-07-25,DeKalb,Alabama,01049,1492,9
+2020-07-25,Elmore,Alabama,01051,1480,34
+2020-07-25,Escambia,Alabama,01053,854,15
+2020-07-25,Etowah,Alabama,01055,1652,16
+2020-07-25,Fayette,Alabama,01057,139,5
+2020-07-25,Franklin,Alabama,01059,1083,17
+2020-07-25,Geneva,Alabama,01061,186,1
+2020-07-25,Greene,Alabama,01063,232,10
+2020-07-25,Hale,Alabama,01065,425,22
+2020-07-25,Henry,Alabama,01067,216,4
+2020-07-25,Houston,Alabama,01069,1087,14
+2020-07-25,Jackson,Alabama,01071,648,5
+2020-07-25,Jefferson,Alabama,01073,10236,202
+2020-07-25,Lamar,Alabama,01075,165,1
+2020-07-25,Lauderdale,Alabama,01077,888,9
+2020-07-25,Lawrence,Alabama,01079,244,0
+2020-07-25,Lee,Alabama,01081,2332,43
+2020-07-25,Limestone,Alabama,01083,1018,10
+2020-07-25,Lowndes,Alabama,01085,540,26
+2020-07-25,Macon,Alabama,01087,291,12
+2020-07-25,Madison,Alabama,01089,4202,25
+2020-07-25,Marengo,Alabama,01091,475,11
+2020-07-25,Marion,Alabama,01093,483,23
+2020-07-25,Marshall,Alabama,01095,2664,27
+2020-07-25,Mobile,Alabama,01097,7129,180
+2020-07-25,Monroe,Alabama,01099,382,4
+2020-07-25,Montgomery,Alabama,01101,5684,138
+2020-07-25,Morgan,Alabama,01103,1936,12
+2020-07-25,Perry,Alabama,01105,397,3
+2020-07-25,Pickens,Alabama,01107,333,9
+2020-07-25,Pike,Alabama,01109,593,7
+2020-07-25,Randolph,Alabama,01111,367,11
+2020-07-25,Russell,Alabama,01113,1055,1
+2020-07-25,Shelby,Alabama,01117,2712,29
+2020-07-25,St. Clair,Alabama,01115,1016,8
+2020-07-25,Sumter,Alabama,01119,341,14
+2020-07-25,Talladega,Alabama,01121,799,9
+2020-07-25,Tallapoosa,Alabama,01123,787,79
+2020-07-25,Tuscaloosa,Alabama,01125,3542,60
+2020-07-25,Walker,Alabama,01127,1377,56
+2020-07-25,Washington,Alabama,01129,272,10
+2020-07-25,Wilcox,Alabama,01131,389,9
+2020-07-25,Winston,Alabama,01133,386,10
+2020-07-25,Aleutians East Borough,Alaska,02013,3,0
+2020-07-25,Aleutians West Census Area,Alaska,02016,86,0
+2020-07-25,Anchorage,Alaska,02020,1290,9
+2020-07-25,Bethel Census Area,Alaska,02050,20,0
+2020-07-25,Bristol Bay Borough,Alaska,02060,63,0
+2020-07-25,Denali Borough,Alaska,02068,3,0
+2020-07-25,Dillingham Census Area,Alaska,02070,21,0
+2020-07-25,Fairbanks North Star Borough,Alaska,02090,389,4
+2020-07-25,Haines Borough,Alaska,02100,8,0
+2020-07-25,Juneau City and Borough,Alaska,02110,112,2
+2020-07-25,Kenai Peninsula Borough,Alaska,02122,327,1
+2020-07-25,Ketchikan Gateway Borough,Alaska,02130,43,0
+2020-07-25,Kodiak Island Borough,Alaska,02150,14,0
+2020-07-25,Kusilvak Census Area,Alaska,02158,3,0
+2020-07-25,Lake and Peninsula Borough,Alaska,02164,5,0
+2020-07-25,Matanuska-Susitna Borough,Alaska,02170,227,2
+2020-07-25,Nome Census Area,Alaska,02180,20,0
+2020-07-25,North Slope Borough,Alaska,02185,9,0
+2020-07-25,Northwest Arctic Borough,Alaska,02188,14,0
+2020-07-25,Petersburg Borough,Alaska,02195,9,0
+2020-07-25,Prince of Wales-Hyder Census Area,Alaska,02198,3,0
+2020-07-25,Sitka City and Borough,Alaska,02220,27,0
+2020-07-25,Southeast Fairbanks Census Area,Alaska,02240,25,0
+2020-07-25,Unknown,Alaska,,17,0
+2020-07-25,Valdez-Cordova Census Area,Alaska,02261,79,0
+2020-07-25,Wrangell City and Borough,Alaska,02275,8,0
+2020-07-25,Yukon-Koyukuk Census Area,Alaska,02290,41,0
+2020-07-25,Apache,Arizona,04001,2908,128
+2020-07-25,Cochise,Arizona,04003,1363,43
+2020-07-25,Coconino,Arizona,04005,2849,112
+2020-07-25,Gila,Arizona,04007,686,21
+2020-07-25,Graham,Arizona,04009,362,6
+2020-07-25,Greenlee,Arizona,04011,40,2
+2020-07-25,La Paz,Arizona,04012,462,9
+2020-07-25,Maricopa,Arizona,04013,107291,1793
+2020-07-25,Mohave,Arizona,04015,2685,134
+2020-07-25,Navajo,Arizona,04017,5049,177
+2020-07-25,Pima,Arizona,04019,14800,417
+2020-07-25,Pinal,Arizona,04021,7378,122
+2020-07-25,Santa Cruz,Arizona,04023,2496,49
+2020-07-25,Yavapai,Arizona,04025,1539,54
+2020-07-25,Yuma,Arizona,04027,10147,221
+2020-07-25,Arkansas,Arkansas,05001,168,1
+2020-07-25,Ashley,Arkansas,05003,172,4
+2020-07-25,Baxter,Arkansas,05005,55,0
+2020-07-25,Benton,Arkansas,05007,4156,31
+2020-07-25,Boone,Arkansas,05009,106,1
+2020-07-25,Bradley,Arkansas,05011,114,2
+2020-07-25,Calhoun,Arkansas,05013,10,0
+2020-07-25,Carroll,Arkansas,05015,314,6
+2020-07-25,Chicot,Arkansas,05017,292,3
+2020-07-25,Clark,Arkansas,05019,129,0
+2020-07-25,Clay,Arkansas,05021,102,4
+2020-07-25,Cleburne,Arkansas,05023,173,5
+2020-07-25,Cleveland,Arkansas,05025,55,1
+2020-07-25,Columbia,Arkansas,05027,162,5
+2020-07-25,Conway,Arkansas,05029,121,3
+2020-07-25,Craighead,Arkansas,05031,931,8
+2020-07-25,Crawford,Arkansas,05033,438,3
+2020-07-25,Crittenden,Arkansas,05035,1072,16
+2020-07-25,Cross,Arkansas,05037,147,1
+2020-07-25,Dallas,Arkansas,05039,29,0
+2020-07-25,Desha,Arkansas,05041,125,1
+2020-07-25,Drew,Arkansas,05043,129,2
+2020-07-25,Faulkner,Arkansas,05045,1046,4
+2020-07-25,Franklin,Arkansas,05047,66,1
+2020-07-25,Fulton,Arkansas,05049,23,0
+2020-07-25,Garland,Arkansas,05051,642,5
+2020-07-25,Grant,Arkansas,05053,111,0
+2020-07-25,Greene,Arkansas,05055,216,1
+2020-07-25,Hempstead,Arkansas,05057,163,2
+2020-07-25,Hot Spring,Arkansas,05059,1392,4
+2020-07-25,Howard,Arkansas,05061,228,2
+2020-07-25,Independence,Arkansas,05063,187,0
+2020-07-25,Izard,Arkansas,05065,34,1
+2020-07-25,Jackson,Arkansas,05067,52,1
+2020-07-25,Jefferson,Arkansas,05069,1146,34
+2020-07-25,Johnson,Arkansas,05071,560,0
+2020-07-25,Lafayette,Arkansas,05073,45,2
+2020-07-25,Lawrence,Arkansas,05075,155,9
+2020-07-25,Lee,Arkansas,05077,871,6
+2020-07-25,Lincoln,Arkansas,05079,1143,11
+2020-07-25,Little River,Arkansas,05081,78,1
+2020-07-25,Logan,Arkansas,05083,120,0
+2020-07-25,Lonoke,Arkansas,05085,333,2
+2020-07-25,Madison,Arkansas,05087,245,1
+2020-07-25,Marion,Arkansas,05089,18,0
+2020-07-25,Miller,Arkansas,05091,403,3
+2020-07-25,Mississippi,Arkansas,05093,535,8
+2020-07-25,Monroe,Arkansas,05095,41,0
+2020-07-25,Montgomery,Arkansas,05097,19,0
+2020-07-25,Nevada,Arkansas,05099,123,8
+2020-07-25,Newton,Arkansas,05101,83,0
+2020-07-25,Ouachita,Arkansas,05103,61,1
+2020-07-25,Perry,Arkansas,05105,41,0
+2020-07-25,Phillips,Arkansas,05107,242,6
+2020-07-25,Pike,Arkansas,05109,55,0
+2020-07-25,Poinsett,Arkansas,05111,117,3
+2020-07-25,Polk,Arkansas,05113,120,0
+2020-07-25,Pope,Arkansas,05115,1021,6
+2020-07-25,Prairie,Arkansas,05117,56,0
+2020-07-25,Pulaski,Arkansas,05119,4297,71
+2020-07-25,Randolph,Arkansas,05121,136,2
+2020-07-25,Saline,Arkansas,05125,733,3
+2020-07-25,Scott,Arkansas,05127,30,0
+2020-07-25,Searcy,Arkansas,05129,22,0
+2020-07-25,Sebastian,Arkansas,05131,1354,13
+2020-07-25,Sevier,Arkansas,05133,896,9
+2020-07-25,Sharp,Arkansas,05135,89,5
+2020-07-25,St. Francis,Arkansas,05123,1050,3
+2020-07-25,Stone,Arkansas,05137,42,1
+2020-07-25,Union,Arkansas,05139,361,15
+2020-07-25,Unknown,Arkansas,,1381,0
+2020-07-25,Van Buren,Arkansas,05141,43,2
+2020-07-25,Washington,Arkansas,05143,5576,40
+2020-07-25,White,Arkansas,05145,212,2
+2020-07-25,Woodruff,Arkansas,05147,17,0
+2020-07-25,Yell,Arkansas,05149,951,14
+2020-07-25,Alameda,California,06001,10351,178
+2020-07-25,Alpine,California,06003,2,0
+2020-07-25,Amador,California,06005,74,0
+2020-07-25,Butte,California,06007,758,5
+2020-07-25,Calaveras,California,06009,102,1
+2020-07-25,Colusa,California,06011,263,2
+2020-07-25,Contra Costa,California,06013,6814,104
+2020-07-25,Del Norte,California,06015,87,0
+2020-07-25,El Dorado,California,06017,516,1
+2020-07-25,Fresno,California,06019,12564,112
+2020-07-25,Glenn,California,06021,251,1
+2020-07-25,Humboldt,California,06023,210,4
+2020-07-25,Imperial,California,06025,9067,180
+2020-07-25,Inyo,California,06027,41,1
+2020-07-25,Kern,California,06029,16124,123
+2020-07-25,Kings,California,06031,3809,47
+2020-07-25,Lake,California,06033,168,1
+2020-07-25,Lassen,California,06035,555,0
+2020-07-25,Los Angeles,California,06037,172325,4351
+2020-07-25,Madera,California,06039,1679,19
+2020-07-25,Marin,California,06041,4589,54
+2020-07-25,Mariposa,California,06043,46,1
+2020-07-25,Mendocino,California,06045,257,6
+2020-07-25,Merced,California,06047,3245,27
+2020-07-25,Mono,California,06051,111,1
+2020-07-25,Monterey,California,06053,3953,22
+2020-07-25,Napa,California,06055,742,8
+2020-07-25,Nevada,California,06057,255,1
+2020-07-25,Orange,California,06059,33953,562
+2020-07-25,Placer,California,06061,1605,14
+2020-07-25,Plumas,California,06063,22,0
+2020-07-25,Riverside,California,06065,34513,637
+2020-07-25,Sacramento,California,06067,8635,108
+2020-07-25,San Benito,California,06069,525,2
+2020-07-25,San Bernardino,California,06071,28990,376
+2020-07-25,San Diego,California,06073,26764,533
+2020-07-25,San Francisco,California,06075,5790,56
+2020-07-25,San Joaquin,California,06077,10190,110
+2020-07-25,San Luis Obispo,California,06079,1500,8
+2020-07-25,San Mateo,California,06081,5022,117
+2020-07-25,Santa Barbara,California,06083,5776,32
+2020-07-25,Santa Clara,California,06085,8833,185
+2020-07-25,Santa Cruz,California,06087,930,4
+2020-07-25,Shasta,California,06089,291,8
+2020-07-25,Sierra,California,06091,1,0
+2020-07-25,Siskiyou,California,06093,61,0
+2020-07-25,Solano,California,06095,3134,35
+2020-07-25,Sonoma,California,06097,2559,24
+2020-07-25,Stanislaus,California,06099,7861,87
+2020-07-25,Sutter,California,06101,637,4
+2020-07-25,Tehama,California,06103,170,1
+2020-07-25,Trinity,California,06105,4,0
+2020-07-25,Tulare,California,06107,8210,168
+2020-07-25,Tuolumne,California,06109,126,0
+2020-07-25,Ventura,California,06111,6553,67
+2020-07-25,Yolo,California,06113,1342,37
+2020-07-25,Yuba,California,06115,372,3
+2020-07-25,Adams,Colorado,08001,5535,167
+2020-07-25,Alamosa,Colorado,08003,219,7
+2020-07-25,Arapahoe,Colorado,08005,6470,360
+2020-07-25,Archuleta,Colorado,08007,25,0
+2020-07-25,Baca,Colorado,08009,14,0
+2020-07-25,Bent,Colorado,08011,5,0
+2020-07-25,Boulder,Colorado,08013,1775,74
+2020-07-25,Broomfield,Colorado,08014,378,32
+2020-07-25,Chaffee,Colorado,08015,243,19
+2020-07-25,Cheyenne,Colorado,08017,7,0
+2020-07-25,Clear Creek,Colorado,08019,25,1
+2020-07-25,Conejos,Colorado,08021,22,0
+2020-07-25,Costilla,Colorado,08023,22,0
+2020-07-25,Crowley,Colorado,08025,72,1
+2020-07-25,Custer,Colorado,08027,10,0
+2020-07-25,Delta,Colorado,08029,98,1
+2020-07-25,Denver,Colorado,08031,9101,405
+2020-07-25,Dolores,Colorado,08033,1,0
+2020-07-25,Douglas,Colorado,08035,1494,56
+2020-07-25,Eagle,Colorado,08037,944,9
+2020-07-25,El Paso,Colorado,08041,4085,126
+2020-07-25,Elbert,Colorado,08039,77,2
+2020-07-25,Fremont,Colorado,08043,87,0
+2020-07-25,Garfield,Colorado,08045,612,4
+2020-07-25,Gilpin,Colorado,08047,13,0
+2020-07-25,Grand,Colorado,08049,40,1
+2020-07-25,Gunnison,Colorado,08051,216,6
+2020-07-25,Hinsdale,Colorado,08053,3,0
+2020-07-25,Huerfano,Colorado,08055,6,1
+2020-07-25,Jackson,Colorado,08057,8,0
+2020-07-25,Jefferson,Colorado,08059,3622,221
+2020-07-25,Kit Carson,Colorado,08063,42,3
+2020-07-25,La Plata,Colorado,08067,185,2
+2020-07-25,Lake,Colorado,08065,61,0
+2020-07-25,Larimer,Colorado,08069,1238,32
+2020-07-25,Las Animas,Colorado,08071,13,0
+2020-07-25,Lincoln,Colorado,08073,6,0
+2020-07-25,Logan,Colorado,08075,645,5
+2020-07-25,Mesa,Colorado,08077,227,1
+2020-07-25,Mineral,Colorado,08079,18,0
+2020-07-25,Moffat,Colorado,08081,23,1
+2020-07-25,Montezuma,Colorado,08083,96,4
+2020-07-25,Montrose,Colorado,08085,255,13
+2020-07-25,Morgan,Colorado,08087,672,46
+2020-07-25,Otero,Colorado,08089,36,3
+2020-07-25,Ouray,Colorado,08091,12,1
+2020-07-25,Park,Colorado,08093,39,1
+2020-07-25,Phillips,Colorado,08095,20,0
+2020-07-25,Pitkin,Colorado,08097,153,2
+2020-07-25,Prowers,Colorado,08099,45,0
+2020-07-25,Pueblo,Colorado,08101,552,33
+2020-07-25,Rio Blanco,Colorado,08103,6,0
+2020-07-25,Rio Grande,Colorado,08105,87,2
+2020-07-25,Routt,Colorado,08107,94,6
+2020-07-25,Saguache,Colorado,08109,107,2
+2020-07-25,San Juan,Colorado,08111,2,0
+2020-07-25,San Miguel,Colorado,08113,73,0
+2020-07-25,Sedgwick,Colorado,08115,11,0
+2020-07-25,Summit,Colorado,08117,315,4
+2020-07-25,Teller,Colorado,08119,96,2
+2020-07-25,Washington,Colorado,08121,46,0
+2020-07-25,Weld,Colorado,08123,3386,139
+2020-07-25,Yuma,Colorado,08125,57,0
+2020-07-25,Fairfield,Connecticut,09001,17421,1402
+2020-07-25,Hartford,Connecticut,09003,12340,1408
+2020-07-25,Litchfield,Connecticut,09005,1560,138
+2020-07-25,Middlesex,Connecticut,09007,1365,188
+2020-07-25,New Haven,Connecticut,09009,12884,1095
+2020-07-25,New London,Connecticut,09011,1362,102
+2020-07-25,Tolland,Connecticut,09013,964,65
+2020-07-25,Unknown,Connecticut,,222,0
+2020-07-25,Windham,Connecticut,09015,658,15
+2020-07-25,Kent,Delaware,10001,2091,105
+2020-07-25,New Castle,Delaware,10003,6414,284
+2020-07-25,Sussex,Delaware,10005,5488,190
+2020-07-25,Unknown,Delaware,,182,0
+2020-07-25,District of Columbia,District of Columbia,11001,11717,581
+2020-07-25,Alachua,Florida,12001,3050,18
+2020-07-25,Baker,Florida,12003,285,4
+2020-07-25,Bay,Florida,12005,2862,15
+2020-07-25,Bradford,Florida,12007,228,3
+2020-07-25,Brevard,Florida,12009,4898,64
+2020-07-25,Broward,Florida,12011,48187,580
+2020-07-25,Calhoun,Florida,12013,247,7
+2020-07-25,Charlotte,Florida,12015,1660,82
+2020-07-25,Citrus,Florida,12017,1056,20
+2020-07-25,Clay,Florida,12019,2473,47
+2020-07-25,Collier,Florida,12021,8725,117
+2020-07-25,Columbia,Florida,12023,2074,10
+2020-07-25,DeSoto,Florida,12027,1164,14
+2020-07-25,Dixie,Florida,12029,225,4
+2020-07-25,Duval,Florida,12031,19288,138
+2020-07-25,Escambia,Florida,12033,6854,76
+2020-07-25,Flagler,Florida,12035,779,8
+2020-07-25,Franklin,Florida,12037,85,1
+2020-07-25,Gadsden,Florida,12039,1141,13
+2020-07-25,Gilchrist,Florida,12041,303,0
+2020-07-25,Glades,Florida,12043,384,3
+2020-07-25,Gulf,Florida,12045,242,0
+2020-07-25,Hamilton,Florida,12047,553,2
+2020-07-25,Hardee,Florida,12049,776,4
+2020-07-25,Hendry,Florida,12051,1495,32
+2020-07-25,Hernando,Florida,12053,1418,21
+2020-07-25,Highlands,Florida,12055,1018,22
+2020-07-25,Hillsborough,Florida,12057,26626,280
+2020-07-25,Holmes,Florida,12059,371,1
+2020-07-25,Indian River,Florida,12061,1941,33
+2020-07-25,Jackson,Florida,12063,1220,18
+2020-07-25,Jefferson,Florida,12065,169,5
+2020-07-25,Lafayette,Florida,12067,82,0
+2020-07-25,Lake,Florida,12069,3988,38
+2020-07-25,Lee,Florida,12071,14291,258
+2020-07-25,Leon,Florida,12073,3655,13
+2020-07-25,Levy,Florida,12075,449,2
+2020-07-25,Liberty,Florida,12077,332,2
+2020-07-25,Madison,Florida,12079,519,6
+2020-07-25,Manatee,Florida,12081,7709,154
+2020-07-25,Marion,Florida,12083,3224,48
+2020-07-25,Martin,Florida,12085,3388,63
+2020-07-25,Miami-Dade,Florida,12086,101853,1379
+2020-07-25,Monroe,Florida,12087,1114,6
+2020-07-25,Nassau,Florida,12089,919,8
+2020-07-25,Okaloosa,Florida,12091,2274,20
+2020-07-25,Okeechobee,Florida,12093,802,2
+2020-07-25,Orange,Florida,12095,26558,172
+2020-07-25,Osceola,Florida,12097,7407,51
+2020-07-25,Palm Beach,Florida,12099,29705,752
+2020-07-25,Pasco,Florida,12101,5674,66
+2020-07-25,Pinellas,Florida,12103,14985,372
+2020-07-25,Polk,Florida,12105,11197,216
+2020-07-25,Putnam,Florida,12107,1150,13
+2020-07-25,Santa Rosa,Florida,12113,2365,19
+2020-07-25,Sarasota,Florida,12115,5006,113
+2020-07-25,Seminole,Florida,12117,5969,65
+2020-07-25,St. Johns,Florida,12109,2871,19
+2020-07-25,St. Lucie,Florida,12111,4316,96
+2020-07-25,Sumter,Florida,12119,968,25
+2020-07-25,Suwannee,Florida,12121,993,27
+2020-07-25,Taylor,Florida,12123,257,3
+2020-07-25,Union,Florida,12125,183,4
+2020-07-25,Unknown,Florida,,462,0
+2020-07-25,Volusia,Florida,12127,6133,97
+2020-07-25,Wakulla,Florida,12129,477,1
+2020-07-25,Walton,Florida,12131,1016,11
+2020-07-25,Washington,Florida,12133,415,13
+2020-07-25,Appling,Georgia,13001,486,16
+2020-07-25,Atkinson,Georgia,13003,264,2
+2020-07-25,Bacon,Georgia,13005,378,5
+2020-07-25,Baker,Georgia,13007,50,3
+2020-07-25,Baldwin,Georgia,13009,822,37
+2020-07-25,Banks,Georgia,13011,203,3
+2020-07-25,Barrow,Georgia,13013,910,32
+2020-07-25,Bartow,Georgia,13015,1318,51
+2020-07-25,Ben Hill,Georgia,13017,297,1
+2020-07-25,Berrien,Georgia,13019,224,0
+2020-07-25,Bibb,Georgia,13021,2660,52
+2020-07-25,Bleckley,Georgia,13023,114,3
+2020-07-25,Brantley,Georgia,13025,196,3
+2020-07-25,Brooks,Georgia,13027,308,13
+2020-07-25,Bryan,Georgia,13029,461,6
+2020-07-25,Bulloch,Georgia,13031,903,10
+2020-07-25,Burke,Georgia,13033,316,7
+2020-07-25,Butts,Georgia,13035,402,36
+2020-07-25,Calhoun,Georgia,13037,180,6
+2020-07-25,Camden,Georgia,13039,486,4
+2020-07-25,Candler,Georgia,13043,171,1
+2020-07-25,Carroll,Georgia,13045,1511,42
+2020-07-25,Catoosa,Georgia,13047,447,8
+2020-07-25,Charlton,Georgia,13049,254,3
+2020-07-25,Chatham,Georgia,13051,4154,48
+2020-07-25,Chattahoochee,Georgia,13053,507,1
+2020-07-25,Chattooga,Georgia,13055,134,2
+2020-07-25,Cherokee,Georgia,13057,2419,52
+2020-07-25,Clarke,Georgia,13059,1439,15
+2020-07-25,Clay,Georgia,13061,69,2
+2020-07-25,Clayton,Georgia,13063,3948,92
+2020-07-25,Clinch,Georgia,13065,157,4
+2020-07-25,Cobb,Georgia,13067,10009,287
+2020-07-25,Coffee,Georgia,13069,1184,22
+2020-07-25,Colquitt,Georgia,13071,1405,21
+2020-07-25,Columbia,Georgia,13073,1439,18
+2020-07-25,Cook,Georgia,13075,334,5
+2020-07-25,Coweta,Georgia,13077,1168,17
+2020-07-25,Crawford,Georgia,13079,81,0
+2020-07-25,Crisp,Georgia,13081,349,14
+2020-07-25,Dade,Georgia,13083,95,1
+2020-07-25,Dawson,Georgia,13085,229,3
+2020-07-25,DeKalb,Georgia,13089,11025,206
+2020-07-25,Decatur,Georgia,13087,496,8
+2020-07-25,Dodge,Georgia,13091,195,2
+2020-07-25,Dooly,Georgia,13093,230,14
+2020-07-25,Dougherty,Georgia,13095,2451,162
+2020-07-25,Douglas,Georgia,13097,2027,46
+2020-07-25,Early,Georgia,13099,326,31
+2020-07-25,Echols,Georgia,13101,217,0
+2020-07-25,Effingham,Georgia,13103,524,1
+2020-07-25,Elbert,Georgia,13105,279,1
+2020-07-25,Emanuel,Georgia,13107,324,4
+2020-07-25,Evans,Georgia,13109,150,1
+2020-07-25,Fannin,Georgia,13111,229,2
+2020-07-25,Fayette,Georgia,13113,788,23
+2020-07-25,Floyd,Georgia,13115,1017,15
+2020-07-25,Forsyth,Georgia,13117,1597,16
+2020-07-25,Franklin,Georgia,13119,321,3
+2020-07-25,Fulton,Georgia,13121,15649,372
+2020-07-25,Gilmer,Georgia,13123,421,3
+2020-07-25,Glascock,Georgia,13125,19,0
+2020-07-25,Glynn,Georgia,13127,2083,19
+2020-07-25,Gordon,Georgia,13129,802,21
+2020-07-25,Grady,Georgia,13131,346,4
+2020-07-25,Greene,Georgia,13133,203,11
+2020-07-25,Gwinnett,Georgia,13135,15134,216
+2020-07-25,Habersham,Georgia,13137,931,48
+2020-07-25,Hall,Georgia,13139,4845,71
+2020-07-25,Hancock,Georgia,13141,255,34
+2020-07-25,Haralson,Georgia,13143,162,6
+2020-07-25,Harris,Georgia,13145,551,14
+2020-07-25,Hart,Georgia,13147,198,0
+2020-07-25,Heard,Georgia,13149,118,3
+2020-07-25,Henry,Georgia,13151,2547,38
+2020-07-25,Houston,Georgia,13153,1466,40
+2020-07-25,Irwin,Georgia,13155,124,1
+2020-07-25,Jackson,Georgia,13157,766,13
+2020-07-25,Jasper,Georgia,13159,106,1
+2020-07-25,Jeff Davis,Georgia,13161,276,5
+2020-07-25,Jefferson,Georgia,13163,356,5
+2020-07-25,Jenkins,Georgia,13165,209,19
+2020-07-25,Johnson,Georgia,13167,205,4
+2020-07-25,Jones,Georgia,13169,218,1
+2020-07-25,Lamar,Georgia,13171,192,8
+2020-07-25,Lanier,Georgia,13173,192,4
+2020-07-25,Laurens,Georgia,13175,570,1
+2020-07-25,Lee,Georgia,13177,480,22
+2020-07-25,Liberty,Georgia,13179,475,2
+2020-07-25,Lincoln,Georgia,13181,101,3
+2020-07-25,Long,Georgia,13183,95,1
+2020-07-25,Lowndes,Georgia,13185,2608,25
+2020-07-25,Lumpkin,Georgia,13187,240,5
+2020-07-25,Macon,Georgia,13193,158,10
+2020-07-25,Madison,Georgia,13195,274,4
+2020-07-25,Marion,Georgia,13197,122,4
+2020-07-25,McDuffie,Georgia,13189,228,9
+2020-07-25,McIntosh,Georgia,13191,124,2
+2020-07-25,Meriwether,Georgia,13199,320,5
+2020-07-25,Miller,Georgia,13201,94,0
+2020-07-25,Mitchell,Georgia,13205,552,41
+2020-07-25,Monroe,Georgia,13207,361,22
+2020-07-25,Montgomery,Georgia,13209,105,0
+2020-07-25,Morgan,Georgia,13211,147,0
+2020-07-25,Murray,Georgia,13213,451,2
+2020-07-25,Muscogee,Georgia,13215,3781,75
+2020-07-25,Newton,Georgia,13217,1355,24
+2020-07-25,Oconee,Georgia,13219,338,15
+2020-07-25,Oglethorpe,Georgia,13221,160,7
+2020-07-25,Paulding,Georgia,13223,1205,18
+2020-07-25,Peach,Georgia,13225,243,10
+2020-07-25,Pickens,Georgia,13227,211,5
+2020-07-25,Pierce,Georgia,13229,347,5
+2020-07-25,Pike,Georgia,13231,161,3
+2020-07-25,Polk,Georgia,13233,509,5
+2020-07-25,Pulaski,Georgia,13235,75,2
+2020-07-25,Putnam,Georgia,13237,303,17
+2020-07-25,Quitman,Georgia,13239,25,1
+2020-07-25,Rabun,Georgia,13241,150,3
+2020-07-25,Randolph,Georgia,13243,235,26
+2020-07-25,Richmond,Georgia,13245,2721,74
+2020-07-25,Rockdale,Georgia,13247,976,12
+2020-07-25,Schley,Georgia,13249,41,1
+2020-07-25,Screven,Georgia,13251,147,9
+2020-07-25,Seminole,Georgia,13253,93,2
+2020-07-25,Spalding,Georgia,13255,735,36
+2020-07-25,Stephens,Georgia,13257,474,6
+2020-07-25,Stewart,Georgia,13259,237,5
+2020-07-25,Sumter,Georgia,13261,693,55
+2020-07-25,Talbot,Georgia,13263,119,3
+2020-07-25,Taliaferro,Georgia,13265,5,0
+2020-07-25,Tattnall,Georgia,13267,317,1
+2020-07-25,Taylor,Georgia,13269,55,2
+2020-07-25,Telfair,Georgia,13271,233,5
+2020-07-25,Terrell,Georgia,13273,274,29
+2020-07-25,Thomas,Georgia,13275,821,38
+2020-07-25,Tift,Georgia,13277,1150,34
+2020-07-25,Toombs,Georgia,13279,488,6
+2020-07-25,Towns,Georgia,13281,98,1
+2020-07-25,Treutlen,Georgia,13283,76,2
+2020-07-25,Troup,Georgia,13285,2069,52
+2020-07-25,Turner,Georgia,13287,205,18
+2020-07-25,Twiggs,Georgia,13289,67,2
+2020-07-25,Union,Georgia,13291,167,6
+2020-07-25,Unknown,Georgia,,2057,7
+2020-07-25,Upson,Georgia,13293,440,45
+2020-07-25,Walker,Georgia,13295,453,14
+2020-07-25,Walton,Georgia,13297,737,32
+2020-07-25,Ware,Georgia,13299,983,19
+2020-07-25,Warren,Georgia,13301,45,0
+2020-07-25,Washington,Georgia,13303,326,1
+2020-07-25,Wayne,Georgia,13305,502,2
+2020-07-25,Webster,Georgia,13307,36,2
+2020-07-25,Wheeler,Georgia,13309,80,1
+2020-07-25,White,Georgia,13311,253,5
+2020-07-25,Whitfield,Georgia,13313,2571,22
+2020-07-25,Wilcox,Georgia,13315,151,18
+2020-07-25,Wilkes,Georgia,13317,161,3
+2020-07-25,Wilkinson,Georgia,13319,155,10
+2020-07-25,Worth,Georgia,13321,397,23
+2020-07-25,Unknown,Guam,,1306,6
+2020-07-25,Hawaii,Hawaii,15001,117,0
+2020-07-25,Honolulu,Hawaii,15003,1291,19
+2020-07-25,Kauai,Hawaii,15007,43,0
+2020-07-25,Maui,Hawaii,15009,146,6
+2020-07-25,Ada,Idaho,16001,6942,45
+2020-07-25,Adams,Idaho,16003,15,0
+2020-07-25,Bannock,Idaho,16005,294,1
+2020-07-25,Bear Lake,Idaho,16007,9,0
+2020-07-25,Benewah,Idaho,16009,41,0
+2020-07-25,Bingham,Idaho,16011,160,2
+2020-07-25,Blaine,Idaho,16013,560,6
+2020-07-25,Boise,Idaho,16015,32,0
+2020-07-25,Bonner,Idaho,16017,130,0
+2020-07-25,Bonneville,Idaho,16019,491,1
+2020-07-25,Boundary,Idaho,16021,29,0
+2020-07-25,Camas,Idaho,16025,1,0
+2020-07-25,Canyon,Idaho,16027,4014,27
+2020-07-25,Caribou,Idaho,16029,23,0
+2020-07-25,Cassia,Idaho,16031,409,1
+2020-07-25,Clearwater,Idaho,16035,14,0
+2020-07-25,Custer,Idaho,16037,7,0
+2020-07-25,Elmore,Idaho,16039,140,3
+2020-07-25,Franklin,Idaho,16041,46,0
+2020-07-25,Fremont,Idaho,16043,37,0
+2020-07-25,Gem,Idaho,16045,120,0
+2020-07-25,Gooding,Idaho,16047,115,0
+2020-07-25,Idaho,Idaho,16049,24,0
+2020-07-25,Jefferson,Idaho,16051,87,1
+2020-07-25,Jerome,Idaho,16053,369,6
+2020-07-25,Kootenai,Idaho,16055,1257,4
+2020-07-25,Latah,Idaho,16057,68,0
+2020-07-25,Lemhi,Idaho,16059,8,0
+2020-07-25,Lincoln,Idaho,16063,48,0
+2020-07-25,Madison,Idaho,16065,116,0
+2020-07-25,Minidoka,Idaho,16067,369,1
+2020-07-25,Nez Perce,Idaho,16069,122,19
+2020-07-25,Oneida,Idaho,16071,9,0
+2020-07-25,Owyhee,Idaho,16073,181,0
+2020-07-25,Payette,Idaho,16075,277,2
+2020-07-25,Power,Idaho,16077,32,0
+2020-07-25,Shoshone,Idaho,16079,40,0
+2020-07-25,Teton,Idaho,16081,52,0
+2020-07-25,Twin Falls,Idaho,16083,1028,28
+2020-07-25,Valley,Idaho,16085,42,1
+2020-07-25,Washington,Idaho,16087,162,2
+2020-07-25,Adams,Illinois,17001,324,1
+2020-07-25,Alexander,Illinois,17003,35,0
+2020-07-25,Bond,Illinois,17005,36,1
+2020-07-25,Boone,Illinois,17007,684,23
+2020-07-25,Brown,Illinois,17009,12,0
+2020-07-25,Bureau,Illinois,17011,71,2
+2020-07-25,Calhoun,Illinois,17013,5,0
+2020-07-25,Carroll,Illinois,17015,29,2
+2020-07-25,Cass,Illinois,17017,167,11
+2020-07-25,Champaign,Illinois,17019,1366,18
+2020-07-25,Christian,Illinois,17021,76,5
+2020-07-25,Clark,Illinois,17023,53,0
+2020-07-25,Clay,Illinois,17025,9,0
+2020-07-25,Clinton,Illinois,17027,294,17
+2020-07-25,Coles,Illinois,17029,290,17
+2020-07-25,Cook,Illinois,17031,101955,4829
+2020-07-25,Crawford,Illinois,17033,29,0
+2020-07-25,Cumberland,Illinois,17035,39,2
+2020-07-25,De Witt,Illinois,17039,24,0
+2020-07-25,DeKalb,Illinois,17037,787,24
+2020-07-25,Douglas,Illinois,17041,92,1
+2020-07-25,DuPage,Illinois,17043,10771,507
+2020-07-25,Edgar,Illinois,17045,24,0
+2020-07-25,Edwards,Illinois,17047,6,0
+2020-07-25,Effingham,Illinois,17049,59,1
+2020-07-25,Fayette,Illinois,17051,41,3
+2020-07-25,Ford,Illinois,17053,36,1
+2020-07-25,Franklin,Illinois,17055,91,0
+2020-07-25,Fulton,Illinois,17057,23,0
+2020-07-25,Gallatin,Illinois,17059,32,0
+2020-07-25,Greene,Illinois,17061,14,0
+2020-07-25,Grundy,Illinois,17063,240,5
+2020-07-25,Hamilton,Illinois,17065,11,0
+2020-07-25,Hancock,Illinois,17067,26,1
+2020-07-25,Hardin,Illinois,17069,9,0
+2020-07-25,Henderson,Illinois,17071,9,0
+2020-07-25,Henry,Illinois,17073,160,1
+2020-07-25,Iroquois,Illinois,17075,205,5
+2020-07-25,Jackson,Illinois,17077,487,19
+2020-07-25,Jasper,Illinois,17079,48,7
+2020-07-25,Jefferson,Illinois,17081,153,17
+2020-07-25,Jersey,Illinois,17083,59,1
+2020-07-25,Jo Daviess,Illinois,17085,92,1
+2020-07-25,Johnson,Illinois,17087,49,0
+2020-07-25,Kane,Illinois,17089,8738,294
+2020-07-25,Kankakee,Illinois,17091,1654,66
+2020-07-25,Kendall,Illinois,17093,1249,23
+2020-07-25,Knox,Illinois,17095,216,1
+2020-07-25,LaSalle,Illinois,17099,409,18
+2020-07-25,Lake,Illinois,17097,11366,439
+2020-07-25,Lawrence,Illinois,17101,34,0
+2020-07-25,Lee,Illinois,17103,125,2
+2020-07-25,Livingston,Illinois,17105,69,2
+2020-07-25,Logan,Illinois,17107,65,0
+2020-07-25,Macon,Illinois,17115,325,22
+2020-07-25,Macoupin,Illinois,17117,106,3
+2020-07-25,Madison,Illinois,17119,1762,71
+2020-07-25,Marion,Illinois,17121,113,0
+2020-07-25,Marshall,Illinois,17123,16,0
+2020-07-25,Mason,Illinois,17125,37,0
+2020-07-25,Massac,Illinois,17127,28,0
+2020-07-25,McDonough,Illinois,17109,121,15
+2020-07-25,McHenry,Illinois,17111,2681,111
+2020-07-25,McLean,Illinois,17113,456,15
+2020-07-25,Menard,Illinois,17129,39,0
+2020-07-25,Mercer,Illinois,17131,46,0
+2020-07-25,Monroe,Illinois,17133,220,13
+2020-07-25,Montgomery,Illinois,17135,125,2
+2020-07-25,Morgan,Illinois,17137,153,5
+2020-07-25,Moultrie,Illinois,17139,44,0
+2020-07-25,Ogle,Illinois,17141,362,5
+2020-07-25,Peoria,Illinois,17143,984,32
+2020-07-25,Perry,Illinois,17145,87,1
+2020-07-25,Piatt,Illinois,17147,31,0
+2020-07-25,Pike,Illinois,17149,10,0
+2020-07-25,Pope,Illinois,17151,6,0
+2020-07-25,Pulaski,Illinois,17153,89,0
+2020-07-25,Putnam,Illinois,17155,7,0
+2020-07-25,Randolph,Illinois,17157,399,7
+2020-07-25,Richland,Illinois,17159,11,0
+2020-07-25,Rock Island,Illinois,17161,1460,30
+2020-07-25,Saline,Illinois,17165,77,0
+2020-07-25,Sangamon,Illinois,17167,783,34
+2020-07-25,Schuyler,Illinois,17169,14,0
+2020-07-25,Scott,Illinois,17171,6,0
+2020-07-25,Shelby,Illinois,17173,36,1
+2020-07-25,St. Clair,Illinois,17163,3433,153
+2020-07-25,Stark,Illinois,17175,6,0
+2020-07-25,Stephenson,Illinois,17177,304,6
+2020-07-25,Tazewell,Illinois,17179,271,8
+2020-07-25,Union,Illinois,17181,266,21
+2020-07-25,Unknown,Illinois,,1230,192
+2020-07-25,Vermilion,Illinois,17183,170,2
+2020-07-25,Wabash,Illinois,17185,25,0
+2020-07-25,Warren,Illinois,17187,164,0
+2020-07-25,Washington,Illinois,17189,43,0
+2020-07-25,Wayne,Illinois,17191,28,1
+2020-07-25,White,Illinois,17193,41,0
+2020-07-25,Whiteside,Illinois,17195,280,16
+2020-07-25,Will,Illinois,17197,8024,338
+2020-07-25,Williamson,Illinois,17199,248,4
+2020-07-25,Winnebago,Illinois,17201,3486,115
+2020-07-25,Woodford,Illinois,17203,69,3
+2020-07-25,Adams,Indiana,18001,70,2
+2020-07-25,Allen,Indiana,18003,3333,161
+2020-07-25,Bartholomew,Indiana,18005,680,48
+2020-07-25,Benton,Indiana,18007,56,0
+2020-07-25,Blackford,Indiana,18009,53,2
+2020-07-25,Boone,Indiana,18011,589,48
+2020-07-25,Brown,Indiana,18013,62,1
+2020-07-25,Carroll,Indiana,18015,121,2
+2020-07-25,Cass,Indiana,18017,1713,10
+2020-07-25,Clark,Indiana,18019,912,52
+2020-07-25,Clay,Indiana,18021,82,5
+2020-07-25,Clinton,Indiana,18023,322,4
+2020-07-25,Crawford,Indiana,18025,39,1
+2020-07-25,Daviess,Indiana,18027,203,20
+2020-07-25,DeKalb,Indiana,18033,197,5
+2020-07-25,Dearborn,Indiana,18029,393,28
+2020-07-25,Decatur,Indiana,18031,295,35
+2020-07-25,Delaware,Indiana,18035,550,53
+2020-07-25,Dubois,Indiana,18037,531,10
+2020-07-25,Elkhart,Indiana,18039,4396,74
+2020-07-25,Fayette,Indiana,18041,192,7
+2020-07-25,Floyd,Indiana,18043,572,46
+2020-07-25,Fountain,Indiana,18045,53,2
+2020-07-25,Franklin,Indiana,18047,181,9
+2020-07-25,Fulton,Indiana,18049,108,1
+2020-07-25,Gibson,Indiana,18051,179,2
+2020-07-25,Grant,Indiana,18053,649,32
+2020-07-25,Greene,Indiana,18055,226,37
+2020-07-25,Hamilton,Indiana,18057,2209,110
+2020-07-25,Hancock,Indiana,18059,574,38
+2020-07-25,Harrison,Indiana,18061,246,24
+2020-07-25,Hendricks,Indiana,18063,1654,121
+2020-07-25,Henry,Indiana,18065,345,18
+2020-07-25,Howard,Indiana,18067,739,64
+2020-07-25,Huntington,Indiana,18069,115,2
+2020-07-25,Jackson,Indiana,18071,525,5
+2020-07-25,Jasper,Indiana,18073,181,2
+2020-07-25,Jay,Indiana,18075,80,0
+2020-07-25,Jefferson,Indiana,18077,143,2
+2020-07-25,Jennings,Indiana,18079,194,14
+2020-07-25,Johnson,Indiana,18081,1561,126
+2020-07-25,Knox,Indiana,18083,102,0
+2020-07-25,Kosciusko,Indiana,18085,773,10
+2020-07-25,LaGrange,Indiana,18087,524,10
+2020-07-25,LaPorte,Indiana,18091,747,29
+2020-07-25,Lake,Indiana,18089,6628,281
+2020-07-25,Lawrence,Indiana,18093,294,28
+2020-07-25,Madison,Indiana,18095,767,75
+2020-07-25,Marion,Indiana,18097,13685,759
+2020-07-25,Marshall,Indiana,18099,700,19
+2020-07-25,Martin,Indiana,18101,39,0
+2020-07-25,Miami,Indiana,18103,235,2
+2020-07-25,Monroe,Indiana,18105,578,32
+2020-07-25,Montgomery,Indiana,18107,317,22
+2020-07-25,Morgan,Indiana,18109,397,34
+2020-07-25,Newton,Indiana,18111,105,11
+2020-07-25,Noble,Indiana,18113,598,29
+2020-07-25,Ohio,Indiana,18115,36,2
+2020-07-25,Orange,Indiana,18117,159,26
+2020-07-25,Owen,Indiana,18119,70,1
+2020-07-25,Parke,Indiana,18121,43,0
+2020-07-25,Perry,Indiana,18123,174,13
+2020-07-25,Pike,Indiana,18125,23,0
+2020-07-25,Porter,Indiana,18127,1021,40
+2020-07-25,Posey,Indiana,18129,133,0
+2020-07-25,Pulaski,Indiana,18131,71,1
+2020-07-25,Putnam,Indiana,18133,210,8
+2020-07-25,Randolph,Indiana,18135,120,4
+2020-07-25,Ripley,Indiana,18137,176,7
+2020-07-25,Rush,Indiana,18139,104,4
+2020-07-25,Scott,Indiana,18143,222,11
+2020-07-25,Shelby,Indiana,18145,771,32
+2020-07-25,Spencer,Indiana,18147,104,1
+2020-07-25,St. Joseph,Indiana,18141,2754,80
+2020-07-25,Starke,Indiana,18149,149,5
+2020-07-25,Steuben,Indiana,18151,182,3
+2020-07-25,Sullivan,Indiana,18153,69,1
+2020-07-25,Switzerland,Indiana,18155,39,0
+2020-07-25,Tippecanoe,Indiana,18157,963,12
+2020-07-25,Tipton,Indiana,18159,69,3
+2020-07-25,Union,Indiana,18161,44,0
+2020-07-25,Vanderburgh,Indiana,18163,1397,7
+2020-07-25,Vermillion,Indiana,18165,23,0
+2020-07-25,Vigo,Indiana,18167,361,10
+2020-07-25,Wabash,Indiana,18169,143,3
+2020-07-25,Warren,Indiana,18171,20,1
+2020-07-25,Warrick,Indiana,18173,419,31
+2020-07-25,Washington,Indiana,18175,84,1
+2020-07-25,Wayne,Indiana,18177,485,7
+2020-07-25,Wells,Indiana,18179,127,1
+2020-07-25,White,Indiana,18181,320,10
+2020-07-25,Whitley,Indiana,18183,133,6
+2020-07-25,Adair,Iowa,19001,20,0
+2020-07-25,Adams,Iowa,19003,12,0
+2020-07-25,Allamakee,Iowa,19005,144,4
+2020-07-25,Appanoose,Iowa,19007,36,3
+2020-07-25,Audubon,Iowa,19009,26,1
+2020-07-25,Benton,Iowa,19011,110,1
+2020-07-25,Black Hawk,Iowa,19013,2838,61
+2020-07-25,Boone,Iowa,19015,212,1
+2020-07-25,Bremer,Iowa,19017,164,7
+2020-07-25,Buchanan,Iowa,19019,88,1
+2020-07-25,Buena Vista,Iowa,19021,1774,12
+2020-07-25,Butler,Iowa,19023,93,2
+2020-07-25,Calhoun,Iowa,19025,72,2
+2020-07-25,Carroll,Iowa,19027,161,1
+2020-07-25,Cass,Iowa,19029,36,0
+2020-07-25,Cedar,Iowa,19031,109,1
+2020-07-25,Cerro Gordo,Iowa,19033,523,16
+2020-07-25,Cherokee,Iowa,19035,94,1
+2020-07-25,Chickasaw,Iowa,19037,45,0
+2020-07-25,Clarke,Iowa,19039,161,3
+2020-07-25,Clay,Iowa,19041,165,1
+2020-07-25,Clayton,Iowa,19043,78,3
+2020-07-25,Clinton,Iowa,19045,221,2
+2020-07-25,Crawford,Iowa,19047,693,3
+2020-07-25,Dallas,Iowa,19049,1650,34
+2020-07-25,Davis,Iowa,19051,48,1
+2020-07-25,Decatur,Iowa,19053,17,0
+2020-07-25,Delaware,Iowa,19055,75,1
+2020-07-25,Des Moines,Iowa,19057,127,2
+2020-07-25,Dickinson,Iowa,19059,355,4
+2020-07-25,Dubuque,Iowa,19061,1340,26
+2020-07-25,Emmet,Iowa,19063,139,1
+2020-07-25,Fayette,Iowa,19065,72,0
+2020-07-25,Floyd,Iowa,19067,95,2
+2020-07-25,Franklin,Iowa,19069,167,3
+2020-07-25,Fremont,Iowa,19071,23,0
+2020-07-25,Greene,Iowa,19073,37,0
+2020-07-25,Grundy,Iowa,19075,65,1
+2020-07-25,Guthrie,Iowa,19077,118,5
+2020-07-25,Hamilton,Iowa,19079,217,1
+2020-07-25,Hancock,Iowa,19081,102,2
+2020-07-25,Hardin,Iowa,19083,129,0
+2020-07-25,Harrison,Iowa,19085,82,0
+2020-07-25,Henry,Iowa,19087,104,3
+2020-07-25,Howard,Iowa,19089,44,0
+2020-07-25,Humboldt,Iowa,19091,72,1
+2020-07-25,Ida,Iowa,19093,28,0
+2020-07-25,Iowa,Iowa,19095,73,1
+2020-07-25,Jackson,Iowa,19097,120,0
+2020-07-25,Jasper,Iowa,19099,427,22
+2020-07-25,Jefferson,Iowa,19101,71,0
+2020-07-25,Johnson,Iowa,19103,1735,10
+2020-07-25,Jones,Iowa,19105,106,1
+2020-07-25,Keokuk,Iowa,19107,27,1
+2020-07-25,Kossuth,Iowa,19109,72,0
+2020-07-25,Lee,Iowa,19111,72,2
+2020-07-25,Linn,Iowa,19113,1800,87
+2020-07-25,Louisa,Iowa,19115,374,13
+2020-07-25,Lucas,Iowa,19117,40,4
+2020-07-25,Lyon,Iowa,19119,89,0
+2020-07-25,Madison,Iowa,19121,85,2
+2020-07-25,Mahaska,Iowa,19123,132,17
+2020-07-25,Marion,Iowa,19125,129,0
+2020-07-25,Marshall,Iowa,19127,1285,22
+2020-07-25,Mills,Iowa,19129,66,0
+2020-07-25,Mitchell,Iowa,19131,76,0
+2020-07-25,Monona,Iowa,19133,86,0
+2020-07-25,Monroe,Iowa,19135,65,7
+2020-07-25,Montgomery,Iowa,19137,31,2
+2020-07-25,Muscatine,Iowa,19139,764,46
+2020-07-25,O'Brien,Iowa,19141,110,1
+2020-07-25,Osceola,Iowa,19143,74,0
+2020-07-25,Page,Iowa,19145,41,0
+2020-07-25,Palo Alto,Iowa,19147,62,0
+2020-07-25,Plymouth,Iowa,19149,408,6
+2020-07-25,Pocahontas,Iowa,19151,111,1
+2020-07-25,Polk,Iowa,19153,8985,191
+2020-07-25,Pottawattamie,Iowa,19155,1027,18
+2020-07-25,Poweshiek,Iowa,19157,123,8
+2020-07-25,Ringgold,Iowa,19159,21,1
+2020-07-25,Sac,Iowa,19161,75,0
+2020-07-25,Scott,Iowa,19163,1458,11
+2020-07-25,Shelby,Iowa,19165,133,0
+2020-07-25,Sioux,Iowa,19167,557,1
+2020-07-25,Story,Iowa,19169,1035,11
+2020-07-25,Tama,Iowa,19171,519,29
+2020-07-25,Taylor,Iowa,19173,88,0
+2020-07-25,Union,Iowa,19175,64,1
+2020-07-25,Unknown,Iowa,,8,0
+2020-07-25,Van Buren,Iowa,19177,23,1
+2020-07-25,Wapello,Iowa,19179,781,31
+2020-07-25,Warren,Iowa,19181,457,1
+2020-07-25,Washington,Iowa,19183,277,9
+2020-07-25,Wayne,Iowa,19185,13,1
+2020-07-25,Webster,Iowa,19187,581,5
+2020-07-25,Winnebago,Iowa,19189,66,0
+2020-07-25,Winneshiek,Iowa,19191,69,1
+2020-07-25,Woodbury,Iowa,19193,3539,47
+2020-07-25,Worth,Iowa,19195,48,0
+2020-07-25,Wright,Iowa,19197,427,1
+2020-07-25,Allen,Kansas,20001,12,0
+2020-07-25,Anderson,Kansas,20003,25,0
+2020-07-25,Atchison,Kansas,20005,56,0
+2020-07-25,Barber,Kansas,20007,4,0
+2020-07-25,Barton,Kansas,20009,92,3
+2020-07-25,Bourbon,Kansas,20011,66,1
+2020-07-25,Brown,Kansas,20013,25,0
+2020-07-25,Butler,Kansas,20015,172,0
+2020-07-25,Chase,Kansas,20017,6,0
+2020-07-25,Chautauqua,Kansas,20019,5,0
+2020-07-25,Cherokee,Kansas,20021,65,1
+2020-07-25,Cheyenne,Kansas,20023,2,0
+2020-07-25,Clark,Kansas,20025,40,1
+2020-07-25,Clay,Kansas,20027,15,2
+2020-07-25,Cloud,Kansas,20029,27,0
+2020-07-25,Coffey,Kansas,20031,63,8
+2020-07-25,Comanche,Kansas,20033,3,0
+2020-07-25,Cowley,Kansas,20035,128,2
+2020-07-25,Crawford,Kansas,20037,367,1
+2020-07-25,Decatur,Kansas,20039,6,0
+2020-07-25,Dickinson,Kansas,20041,35,1
+2020-07-25,Doniphan,Kansas,20043,39,0
+2020-07-25,Douglas,Kansas,20045,597,2
+2020-07-25,Edwards,Kansas,20047,9,0
+2020-07-25,Elk,Kansas,20049,1,0
+2020-07-25,Ellis,Kansas,20051,107,1
+2020-07-25,Ellsworth,Kansas,20053,15,0
+2020-07-25,Finney,Kansas,20055,1672,10
+2020-07-25,Ford,Kansas,20057,2069,10
+2020-07-25,Franklin,Kansas,20059,135,1
+2020-07-25,Geary,Kansas,20061,173,1
+2020-07-25,Gove,Kansas,20063,3,0
+2020-07-25,Graham,Kansas,20065,16,0
+2020-07-25,Grant,Kansas,20067,88,2
+2020-07-25,Gray,Kansas,20069,47,0
+2020-07-25,Greeley,Kansas,20071,3,0
+2020-07-25,Greenwood,Kansas,20073,14,0
+2020-07-25,Hamilton,Kansas,20075,38,0
+2020-07-25,Harper,Kansas,20077,8,0
+2020-07-25,Harvey,Kansas,20079,140,3
+2020-07-25,Haskell,Kansas,20081,38,0
+2020-07-25,Hodgeman,Kansas,20083,10,0
+2020-07-25,Jackson,Kansas,20085,131,1
+2020-07-25,Jefferson,Kansas,20087,48,0
+2020-07-25,Jewell,Kansas,20089,7,0
+2020-07-25,Johnson,Kansas,20091,4387,94
+2020-07-25,Kearny,Kansas,20093,53,1
+2020-07-25,Kingman,Kansas,20095,6,0
+2020-07-25,Kiowa,Kansas,20097,6,0
+2020-07-25,Labette,Kansas,20099,106,0
+2020-07-25,Lane,Kansas,20101,5,0
+2020-07-25,Leavenworth,Kansas,20103,1372,7
+2020-07-25,Lincoln,Kansas,20105,6,0
+2020-07-25,Linn,Kansas,20107,26,0
+2020-07-25,Logan,Kansas,20109,2,0
+2020-07-25,Lyon,Kansas,20111,600,8
+2020-07-25,Marion,Kansas,20115,42,1
+2020-07-25,Marshall,Kansas,20117,7,0
+2020-07-25,McPherson,Kansas,20113,123,0
+2020-07-25,Meade,Kansas,20119,43,0
+2020-07-25,Miami,Kansas,20121,96,0
+2020-07-25,Mitchell,Kansas,20123,22,0
+2020-07-25,Montgomery,Kansas,20125,120,4
+2020-07-25,Morris,Kansas,20127,7,0
+2020-07-25,Morton,Kansas,20129,9,2
+2020-07-25,Nemaha,Kansas,20131,41,0
+2020-07-25,Neosho,Kansas,20133,49,0
+2020-07-25,Ness,Kansas,20135,5,0
+2020-07-25,Norton,Kansas,20137,21,0
+2020-07-25,Osage,Kansas,20139,33,0
+2020-07-25,Osborne,Kansas,20141,3,0
+2020-07-25,Ottawa,Kansas,20143,28,0
+2020-07-25,Pawnee,Kansas,20145,8,0
+2020-07-25,Phillips,Kansas,20147,41,7
+2020-07-25,Pottawatomie,Kansas,20149,105,0
+2020-07-25,Pratt,Kansas,20151,32,0
+2020-07-25,Reno,Kansas,20155,197,1
+2020-07-25,Republic,Kansas,20157,25,0
+2020-07-25,Rice,Kansas,20159,22,0
+2020-07-25,Riley,Kansas,20161,419,4
+2020-07-25,Rooks,Kansas,20163,14,0
+2020-07-25,Rush,Kansas,20165,5,0
+2020-07-25,Russell,Kansas,20167,8,0
+2020-07-25,Saline,Kansas,20169,318,3
+2020-07-25,Scott,Kansas,20171,22,0
+2020-07-25,Sedgwick,Kansas,20173,3579,36
+2020-07-25,Seward,Kansas,20175,1154,4
+2020-07-25,Shawnee,Kansas,20177,1268,17
+2020-07-25,Sheridan,Kansas,20179,7,0
+2020-07-25,Sherman,Kansas,20181,10,0
+2020-07-25,Smith,Kansas,20183,3,0
+2020-07-25,Stafford,Kansas,20185,2,0
+2020-07-25,Stanton,Kansas,20187,18,0
+2020-07-25,Stevens,Kansas,20189,40,0
+2020-07-25,Sumner,Kansas,20191,85,2
+2020-07-25,Thomas,Kansas,20193,25,0
+2020-07-25,Trego,Kansas,20195,3,0
+2020-07-25,Wabaunsee,Kansas,20197,39,0
+2020-07-25,Washington,Kansas,20201,2,0
+2020-07-25,Wichita,Kansas,20203,2,0
+2020-07-25,Wilson,Kansas,20205,7,0
+2020-07-25,Woodson,Kansas,20207,11,0
+2020-07-25,Wyandotte,Kansas,20209,4153,91
+2020-07-25,Adair,Kentucky,21001,198,19
+2020-07-25,Allen,Kentucky,21003,210,8
+2020-07-25,Anderson,Kentucky,21005,47,1
+2020-07-25,Ballard,Kentucky,21007,28,0
+2020-07-25,Barren,Kentucky,21009,247,2
+2020-07-25,Bath,Kentucky,21011,27,1
+2020-07-25,Bell,Kentucky,21013,221,1
+2020-07-25,Boone,Kentucky,21015,922,24
+2020-07-25,Bourbon,Kentucky,21017,63,1
+2020-07-25,Boyd,Kentucky,21019,137,3
+2020-07-25,Boyle,Kentucky,21021,98,0
+2020-07-25,Bracken,Kentucky,21023,27,0
+2020-07-25,Breathitt,Kentucky,21025,19,0
+2020-07-25,Breckinridge,Kentucky,21027,41,2
+2020-07-25,Bullitt,Kentucky,21029,257,4
+2020-07-25,Butler,Kentucky,21031,286,15
+2020-07-25,Caldwell,Kentucky,21033,42,0
+2020-07-25,Calloway,Kentucky,21035,150,2
+2020-07-25,Campbell,Kentucky,21037,458,13
+2020-07-25,Carlisle,Kentucky,21039,16,1
+2020-07-25,Carroll,Kentucky,21041,134,2
+2020-07-25,Carter,Kentucky,21043,79,1
+2020-07-25,Casey,Kentucky,21045,150,9
+2020-07-25,Christian,Kentucky,21047,474,5
+2020-07-25,Clark,Kentucky,21049,128,7
+2020-07-25,Clay,Kentucky,21051,132,4
+2020-07-25,Clinton,Kentucky,21053,20,0
+2020-07-25,Crittenden,Kentucky,21055,23,1
+2020-07-25,Cumberland,Kentucky,21057,32,0
+2020-07-25,Daviess,Kentucky,21059,633,7
+2020-07-25,Edmonson,Kentucky,21061,87,12
+2020-07-25,Elliott,Kentucky,21063,7,0
+2020-07-25,Estill,Kentucky,21065,10,0
+2020-07-25,Fayette,Kentucky,21067,2758,44
+2020-07-25,Fleming,Kentucky,21069,43,0
+2020-07-25,Floyd,Kentucky,21071,74,1
+2020-07-25,Franklin,Kentucky,21073,211,5
+2020-07-25,Fulton,Kentucky,21075,39,1
+2020-07-25,Gallatin,Kentucky,21077,77,8
+2020-07-25,Garrard,Kentucky,21079,56,0
+2020-07-25,Grant,Kentucky,21081,84,5
+2020-07-25,Graves,Kentucky,21083,423,21
+2020-07-25,Grayson,Kentucky,21085,166,11
+2020-07-25,Green,Kentucky,21087,29,1
+2020-07-25,Greenup,Kentucky,21089,64,0
+2020-07-25,Hancock,Kentucky,21091,40,0
+2020-07-25,Hardin,Kentucky,21093,437,8
+2020-07-25,Harlan,Kentucky,21095,157,2
+2020-07-25,Harrison,Kentucky,21097,107,0
+2020-07-25,Hart,Kentucky,21099,76,0
+2020-07-25,Henderson,Kentucky,21101,276,4
+2020-07-25,Henry,Kentucky,21103,73,2
+2020-07-25,Hickman,Kentucky,21105,16,0
+2020-07-25,Hopkins,Kentucky,21107,372,35
+2020-07-25,Jackson,Kentucky,21109,125,14
+2020-07-25,Jefferson,Kentucky,21111,6080,233
+2020-07-25,Jessamine,Kentucky,21113,230,0
+2020-07-25,Johnson,Kentucky,21115,19,0
+2020-07-25,Kenton,Kentucky,21117,1179,38
+2020-07-25,Knott,Kentucky,21119,31,0
+2020-07-25,Knox,Kentucky,21121,159,8
+2020-07-25,Larue,Kentucky,21123,50,1
+2020-07-25,Laurel,Kentucky,21125,317,4
+2020-07-25,Lawrence,Kentucky,21127,25,0
+2020-07-25,Lee,Kentucky,21129,3,0
+2020-07-25,Leslie,Kentucky,21131,20,0
+2020-07-25,Letcher,Kentucky,21133,34,0
+2020-07-25,Lewis,Kentucky,21135,29,0
+2020-07-25,Lincoln,Kentucky,21137,82,1
+2020-07-25,Livingston,Kentucky,21139,32,0
+2020-07-25,Logan,Kentucky,21141,289,21
+2020-07-25,Lyon,Kentucky,21143,26,3
+2020-07-25,Madison,Kentucky,21151,305,1
+2020-07-25,Magoffin,Kentucky,21153,14,0
+2020-07-25,Marion,Kentucky,21155,89,0
+2020-07-25,Marshall,Kentucky,21157,110,2
+2020-07-25,Martin,Kentucky,21159,24,0
+2020-07-25,Mason,Kentucky,21161,46,1
+2020-07-25,McCracken,Kentucky,21145,292,3
+2020-07-25,McCreary,Kentucky,21147,26,0
+2020-07-25,McLean,Kentucky,21149,37,0
+2020-07-25,Meade,Kentucky,21163,69,2
+2020-07-25,Menifee,Kentucky,21165,22,0
+2020-07-25,Mercer,Kentucky,21167,37,0
+2020-07-25,Metcalfe,Kentucky,21169,24,2
+2020-07-25,Monroe,Kentucky,21171,77,2
+2020-07-25,Montgomery,Kentucky,21173,96,0
+2020-07-25,Morgan,Kentucky,21175,27,0
+2020-07-25,Muhlenberg,Kentucky,21177,614,9
+2020-07-25,Nelson,Kentucky,21179,173,2
+2020-07-25,Nicholas,Kentucky,21181,20,0
+2020-07-25,Ohio,Kentucky,21183,333,5
+2020-07-25,Oldham,Kentucky,21185,468,9
+2020-07-25,Owen,Kentucky,21187,28,0
+2020-07-25,Owsley,Kentucky,21189,6,0
+2020-07-25,Pendleton,Kentucky,21191,30,0
+2020-07-25,Perry,Kentucky,21193,153,2
+2020-07-25,Pike,Kentucky,21195,191,3
+2020-07-25,Powell,Kentucky,21197,34,0
+2020-07-25,Pulaski,Kentucky,21199,220,2
+2020-07-25,Robertson,Kentucky,21201,2,0
+2020-07-25,Rockcastle,Kentucky,21203,46,0
+2020-07-25,Rowan,Kentucky,21205,54,0
+2020-07-25,Russell,Kentucky,21207,94,5
+2020-07-25,Scott,Kentucky,21209,250,0
+2020-07-25,Shelby,Kentucky,21211,659,22
+2020-07-25,Simpson,Kentucky,21213,121,5
+2020-07-25,Spencer,Kentucky,21215,74,0
+2020-07-25,Taylor,Kentucky,21217,92,1
+2020-07-25,Todd,Kentucky,21219,31,0
+2020-07-25,Trigg,Kentucky,21221,45,0
+2020-07-25,Trimble,Kentucky,21223,27,0
+2020-07-25,Union,Kentucky,21225,45,0
+2020-07-25,Warren,Kentucky,21227,2199,21
+2020-07-25,Washington,Kentucky,21229,48,0
+2020-07-25,Wayne,Kentucky,21231,49,0
+2020-07-25,Webster,Kentucky,21233,73,1
+2020-07-25,Whitley,Kentucky,21235,93,1
+2020-07-25,Wolfe,Kentucky,21237,8,0
+2020-07-25,Woodford,Kentucky,21239,109,0
+2020-07-25,Acadia,Louisiana,22001,2111,62
+2020-07-25,Allen,Louisiana,22003,917,16
+2020-07-25,Ascension,Louisiana,22005,2175,65
+2020-07-25,Assumption,Louisiana,22007,484,18
+2020-07-25,Avoyelles,Louisiana,22009,781,23
+2020-07-25,Beauregard,Louisiana,22011,591,11
+2020-07-25,Bienville,Louisiana,22013,339,28
+2020-07-25,Bossier,Louisiana,22015,1776,58
+2020-07-25,Caddo,Louisiana,22017,5469,264
+2020-07-25,Calcasieu,Louisiana,22019,5127,92
+2020-07-25,Caldwell,Louisiana,22021,168,1
+2020-07-25,Cameron,Louisiana,22023,150,0
+2020-07-25,Catahoula,Louisiana,22025,238,3
+2020-07-25,Claiborne,Louisiana,22027,189,10
+2020-07-25,Concordia,Louisiana,22029,221,7
+2020-07-25,De Soto,Louisiana,22031,552,23
+2020-07-25,East Baton Rouge,Louisiana,22033,9393,306
+2020-07-25,East Carroll,Louisiana,22035,483,1
+2020-07-25,East Feliciana,Louisiana,22037,442,35
+2020-07-25,Evangeline,Louisiana,22039,608,2
+2020-07-25,Franklin,Louisiana,22041,681,16
+2020-07-25,Grant,Louisiana,22043,209,3
+2020-07-25,Iberia,Louisiana,22045,1869,56
+2020-07-25,Iberville,Louisiana,22047,999,46
+2020-07-25,Jackson,Louisiana,22049,332,18
+2020-07-25,Jefferson,Louisiana,22051,13128,507
+2020-07-25,Jefferson Davis,Louisiana,22053,866,22
+2020-07-25,LaSalle,Louisiana,22059,183,1
+2020-07-25,Lafayette,Louisiana,22055,5519,73
+2020-07-25,Lafourche,Louisiana,22057,2237,94
+2020-07-25,Lincoln,Louisiana,22061,610,22
+2020-07-25,Livingston,Louisiana,22063,2212,47
+2020-07-25,Madison,Louisiana,22065,515,6
+2020-07-25,Morehouse,Louisiana,22067,371,11
+2020-07-25,Natchitoches,Louisiana,22069,586,15
+2020-07-25,Orleans,Louisiana,22071,9752,548
+2020-07-25,Ouachita,Louisiana,22073,3916,97
+2020-07-25,Plaquemines,Louisiana,22075,367,18
+2020-07-25,Pointe Coupee,Louisiana,22077,580,29
+2020-07-25,Rapides,Louisiana,22079,2585,96
+2020-07-25,Red River,Louisiana,22081,162,9
+2020-07-25,Richland,Louisiana,22083,447,5
+2020-07-25,Sabine,Louisiana,22085,432,4
+2020-07-25,St. Bernard,Louisiana,22087,909,23
+2020-07-25,St. Charles,Louisiana,22089,1174,50
+2020-07-25,St. Helena,Louisiana,22091,207,1
+2020-07-25,St. James,Louisiana,22093,556,30
+2020-07-25,St. John the Baptist,Louisiana,22095,1244,88
+2020-07-25,St. Landry,Louisiana,22097,1774,69
+2020-07-25,St. Martin,Louisiana,22099,1358,34
+2020-07-25,St. Mary,Louisiana,22101,1238,40
+2020-07-25,St. Tammany,Louisiana,22103,4136,191
+2020-07-25,Tangipahoa,Louisiana,22105,2692,54
+2020-07-25,Tensas,Louisiana,22107,47,0
+2020-07-25,Terrebonne,Louisiana,22109,2332,69
+2020-07-25,Union,Louisiana,22111,533,31
+2020-07-25,Unknown,Louisiana,,122,112
+2020-07-25,Vermilion,Louisiana,22113,996,12
+2020-07-25,Vernon,Louisiana,22115,544,18
+2020-07-25,Washington,Louisiana,22117,1059,55
+2020-07-25,Webster,Louisiana,22119,745,12
+2020-07-25,West Baton Rouge,Louisiana,22121,524,33
+2020-07-25,West Carroll,Louisiana,22123,218,5
+2020-07-25,West Feliciana,Louisiana,22125,315,15
+2020-07-25,Winn,Louisiana,22127,351,5
+2020-07-25,Androscoggin,Maine,23001,532,5
+2020-07-25,Aroostook,Maine,23003,31,1
+2020-07-25,Cumberland,Maine,23005,2004,68
+2020-07-25,Franklin,Maine,23007,45,1
+2020-07-25,Hancock,Maine,23009,19,1
+2020-07-25,Kennebec,Maine,23011,157,10
+2020-07-25,Knox,Maine,23013,25,1
+2020-07-25,Lincoln,Maine,23015,33,0
+2020-07-25,Oxford,Maine,23017,48,0
+2020-07-25,Penobscot,Maine,23019,139,5
+2020-07-25,Piscataquis,Maine,23021,3,0
+2020-07-25,Sagadahoc,Maine,23023,40,0
+2020-07-25,Somerset,Maine,23025,34,1
+2020-07-25,Unknown,Maine,,1,0
+2020-07-25,Waldo,Maine,23027,60,14
+2020-07-25,Washington,Maine,23029,5,0
+2020-07-25,York,Maine,23031,614,12
+2020-07-25,Allegany,Maryland,24001,252,18
+2020-07-25,Anne Arundel,Maryland,24003,6351,214
+2020-07-25,Baltimore,Maryland,24005,10813,524
+2020-07-25,Baltimore city,Maryland,24510,10224,397
+2020-07-25,Calvert,Maryland,24009,529,27
+2020-07-25,Caroline,Maryland,24011,393,3
+2020-07-25,Carroll,Maryland,24013,1357,115
+2020-07-25,Cecil,Maryland,24015,597,30
+2020-07-25,Charles,Maryland,24017,1721,90
+2020-07-25,Dorchester,Maryland,24019,305,5
+2020-07-25,Frederick,Maryland,24021,2877,120
+2020-07-25,Garrett,Maryland,24023,42,0
+2020-07-25,Harford,Maryland,24025,1582,67
+2020-07-25,Howard,Maryland,24027,3319,102
+2020-07-25,Kent,Maryland,24029,229,23
+2020-07-25,Montgomery,Maryland,24031,16960,782
+2020-07-25,Prince George's,Maryland,24033,21890,730
+2020-07-25,Queen Anne's,Maryland,24035,358,23
+2020-07-25,Somerset,Maryland,24039,114,3
+2020-07-25,St. Mary's,Maryland,24037,822,52
+2020-07-25,Talbot,Maryland,24041,298,4
+2020-07-25,Unknown,Maryland,,0,14
+2020-07-25,Washington,Maryland,24043,864,30
+2020-07-25,Wicomico,Maryland,24045,1228,42
+2020-07-25,Worcester,Maryland,24047,492,18
+2020-07-25,Barnstable,Massachusetts,25001,1684,155
+2020-07-25,Berkshire,Massachusetts,25003,638,45
+2020-07-25,Bristol,Massachusetts,25005,8843,616
+2020-07-25,Dukes,Massachusetts,25007,64,0
+2020-07-25,Essex,Massachusetts,25009,16915,1162
+2020-07-25,Franklin,Massachusetts,25011,393,59
+2020-07-25,Hampden,Massachusetts,25013,7259,683
+2020-07-25,Hampshire,Massachusetts,25015,1082,126
+2020-07-25,Middlesex,Massachusetts,25017,25250,1955
+2020-07-25,Nantucket,Massachusetts,25019,30,1
+2020-07-25,Norfolk,Massachusetts,25021,9934,976
+2020-07-25,Plymouth,Massachusetts,25023,8967,702
+2020-07-25,Suffolk,Massachusetts,25025,20827,1046
+2020-07-25,Unknown,Massachusetts,,323,6
+2020-07-25,Worcester,Massachusetts,25027,13059,978
+2020-07-25,Alcona,Michigan,26001,27,1
+2020-07-25,Alger,Michigan,26003,5,0
+2020-07-25,Allegan,Michigan,26005,465,7
+2020-07-25,Alpena,Michigan,26007,125,13
+2020-07-25,Antrim,Michigan,26009,34,0
+2020-07-25,Arenac,Michigan,26011,40,2
+2020-07-25,Baraga,Michigan,26013,5,0
+2020-07-25,Barry,Michigan,26015,168,2
+2020-07-25,Bay,Michigan,26017,510,31
+2020-07-25,Benzie,Michigan,26019,28,1
+2020-07-25,Berrien,Michigan,26021,1265,63
+2020-07-25,Branch,Michigan,26023,1120,25
+2020-07-25,Calhoun,Michigan,26025,688,39
+2020-07-25,Cass,Michigan,26027,258,8
+2020-07-25,Charlevoix,Michigan,26029,44,2
+2020-07-25,Cheboygan,Michigan,26031,33,2
+2020-07-25,Chippewa,Michigan,26033,27,0
+2020-07-25,Clare,Michigan,26035,48,3
+2020-07-25,Clinton,Michigan,26037,353,12
+2020-07-25,Crawford,Michigan,26039,94,5
+2020-07-25,Delta,Michigan,26041,58,3
+2020-07-25,Dickinson,Michigan,26043,40,2
+2020-07-25,Eaton,Michigan,26045,405,7
+2020-07-25,Emmet,Michigan,26047,52,2
+2020-07-25,Genesee,Michigan,26049,3268,294
+2020-07-25,Gladwin,Michigan,26051,31,2
+2020-07-25,Gogebic,Michigan,26053,54,1
+2020-07-25,Grand Traverse,Michigan,26055,159,5
+2020-07-25,Gratiot,Michigan,26057,130,15
+2020-07-25,Hillsdale,Michigan,26059,224,25
+2020-07-25,Houghton,Michigan,26061,41,0
+2020-07-25,Huron,Michigan,26063,131,3
+2020-07-25,Ingham,Michigan,26065,1341,29
+2020-07-25,Ionia,Michigan,26067,258,5
+2020-07-25,Iosco,Michigan,26069,124,11
+2020-07-25,Iron,Michigan,26071,12,1
+2020-07-25,Isabella,Michigan,26073,192,8
+2020-07-25,Jackson,Michigan,26075,2344,54
+2020-07-25,Kalamazoo,Michigan,26077,1411,76
+2020-07-25,Kalkaska,Michigan,26079,49,4
+2020-07-25,Kent,Michigan,26081,6654,152
+2020-07-25,Keweenaw,Michigan,26083,2,0
+2020-07-25,Lake,Michigan,26085,15,0
+2020-07-25,Lapeer,Michigan,26087,677,39
+2020-07-25,Leelanau,Michigan,26089,59,0
+2020-07-25,Lenawee,Michigan,26091,1079,15
+2020-07-25,Livingston,Michigan,26093,745,29
+2020-07-25,Luce,Michigan,26095,4,0
+2020-07-25,Mackinac,Michigan,26097,16,0
+2020-07-25,Macomb,Michigan,26099,9020,941
+2020-07-25,Manistee,Michigan,26101,42,0
+2020-07-25,Marquette,Michigan,26103,112,11
+2020-07-25,Mason,Michigan,26105,94,0
+2020-07-25,Mecosta,Michigan,26107,49,2
+2020-07-25,Menominee,Michigan,26109,69,0
+2020-07-25,Midland,Michigan,26111,260,9
+2020-07-25,Missaukee,Michigan,26113,40,1
+2020-07-25,Monroe,Michigan,26115,784,21
+2020-07-25,Montcalm,Michigan,26117,169,1
+2020-07-25,Montmorency,Michigan,26119,7,0
+2020-07-25,Muskegon,Michigan,26121,1072,56
+2020-07-25,Newaygo,Michigan,26123,242,0
+2020-07-25,Oakland,Michigan,26125,13823,1127
+2020-07-25,Oceana,Michigan,26127,456,5
+2020-07-25,Ogemaw,Michigan,26129,49,2
+2020-07-25,Ontonagon,Michigan,26131,3,0
+2020-07-25,Osceola,Michigan,26133,64,0
+2020-07-25,Oscoda,Michigan,26135,23,1
+2020-07-25,Otsego,Michigan,26137,139,10
+2020-07-25,Ottawa,Michigan,26139,1583,53
+2020-07-25,Presque Isle,Michigan,26141,14,1
+2020-07-25,Roscommon,Michigan,26143,45,0
+2020-07-25,Saginaw,Michigan,26145,1695,124
+2020-07-25,Sanilac,Michigan,26151,87,6
+2020-07-25,Schoolcraft,Michigan,26153,8,0
+2020-07-25,Shiawassee,Michigan,26155,299,28
+2020-07-25,St. Clair,Michigan,26147,689,53
+2020-07-25,St. Joseph,Michigan,26149,497,6
+2020-07-25,Tuscola,Michigan,26157,268,27
+2020-07-25,Unknown,Michigan,,15,2
+2020-07-25,Van Buren,Michigan,26159,350,10
+2020-07-25,Washtenaw,Michigan,26161,2725,119
+2020-07-25,Wayne,Michigan,26163,25902,2784
+2020-07-25,Wexford,Michigan,26165,59,4
+2020-07-25,Aitkin,Minnesota,27001,24,0
+2020-07-25,Anoka,Minnesota,27003,2950,111
+2020-07-25,Becker,Minnesota,27005,101,0
+2020-07-25,Beltrami,Minnesota,27007,146,0
+2020-07-25,Benton,Minnesota,27009,283,3
+2020-07-25,Big Stone,Minnesota,27011,20,0
+2020-07-25,Blue Earth,Minnesota,27013,750,3
+2020-07-25,Brown,Minnesota,27015,70,2
+2020-07-25,Carlton,Minnesota,27017,112,0
+2020-07-25,Carver,Minnesota,27019,643,2
+2020-07-25,Cass,Minnesota,27021,41,2
+2020-07-25,Chippewa,Minnesota,27023,87,1
+2020-07-25,Chisago,Minnesota,27025,147,1
+2020-07-25,Clay,Minnesota,27027,697,39
+2020-07-25,Clearwater,Minnesota,27029,14,0
+2020-07-25,Cook,Minnesota,27031,2,0
+2020-07-25,Cottonwood,Minnesota,27033,158,0
+2020-07-25,Crow Wing,Minnesota,27035,152,12
+2020-07-25,Dakota,Minnesota,27037,3386,102
+2020-07-25,Dodge,Minnesota,27039,118,0
+2020-07-25,Douglas,Minnesota,27041,113,0
+2020-07-25,Faribault,Minnesota,27043,73,0
+2020-07-25,Fillmore,Minnesota,27045,53,0
+2020-07-25,Freeborn,Minnesota,27047,336,1
+2020-07-25,Goodhue,Minnesota,27049,157,8
+2020-07-25,Grant,Minnesota,27051,36,1
+2020-07-25,Hennepin,Minnesota,27053,16067,806
+2020-07-25,Houston,Minnesota,27055,34,0
+2020-07-25,Hubbard,Minnesota,27057,18,0
+2020-07-25,Isanti,Minnesota,27059,99,0
+2020-07-25,Itasca,Minnesota,27061,116,12
+2020-07-25,Jackson,Minnesota,27063,64,0
+2020-07-25,Kanabec,Minnesota,27065,22,1
+2020-07-25,Kandiyohi,Minnesota,27067,633,1
+2020-07-25,Kittson,Minnesota,27069,3,0
+2020-07-25,Koochiching,Minnesota,27071,55,3
+2020-07-25,Lac qui Parle,Minnesota,27073,6,0
+2020-07-25,Lake,Minnesota,27075,13,0
+2020-07-25,Lake of the Woods,Minnesota,27077,1,0
+2020-07-25,Le Sueur,Minnesota,27079,174,1
+2020-07-25,Lincoln,Minnesota,27081,51,0
+2020-07-25,Lyon,Minnesota,27083,395,3
+2020-07-25,Mahnomen,Minnesota,27087,17,1
+2020-07-25,Marshall,Minnesota,27089,25,0
+2020-07-25,Martin,Minnesota,27091,192,5
+2020-07-25,McLeod,Minnesota,27085,115,0
+2020-07-25,Meeker,Minnesota,27093,79,2
+2020-07-25,Mille Lacs,Minnesota,27095,50,3
+2020-07-25,Morrison,Minnesota,27097,74,1
+2020-07-25,Mower,Minnesota,27099,1035,2
+2020-07-25,Murray,Minnesota,27101,115,1
+2020-07-25,Nicollet,Minnesota,27103,262,13
+2020-07-25,Nobles,Minnesota,27105,1725,6
+2020-07-25,Norman,Minnesota,27107,30,0
+2020-07-25,Olmsted,Minnesota,27109,1497,21
+2020-07-25,Otter Tail,Minnesota,27111,146,1
+2020-07-25,Pennington,Minnesota,27113,62,1
+2020-07-25,Pine,Minnesota,27115,121,0
+2020-07-25,Pipestone,Minnesota,27117,130,8
+2020-07-25,Polk,Minnesota,27119,108,3
+2020-07-25,Pope,Minnesota,27121,31,0
+2020-07-25,Ramsey,Minnesota,27123,6164,253
+2020-07-25,Red Lake,Minnesota,27125,8,0
+2020-07-25,Redwood,Minnesota,27127,28,0
+2020-07-25,Renville,Minnesota,27129,46,4
+2020-07-25,Rice,Minnesota,27131,944,8
+2020-07-25,Rock,Minnesota,27133,60,0
+2020-07-25,Roseau,Minnesota,27135,34,0
+2020-07-25,Scott,Minnesota,27139,1144,11
+2020-07-25,Sherburne,Minnesota,27141,499,5
+2020-07-25,Sibley,Minnesota,27143,71,2
+2020-07-25,St. Louis,Minnesota,27137,319,17
+2020-07-25,Stearns,Minnesota,27145,2712,19
+2020-07-25,Steele,Minnesota,27147,306,1
+2020-07-25,Stevens,Minnesota,27149,15,0
+2020-07-25,Swift,Minnesota,27151,48,1
+2020-07-25,Todd,Minnesota,27153,407,2
+2020-07-25,Traverse,Minnesota,27155,9,0
+2020-07-25,Unknown,Minnesota,,206,40
+2020-07-25,Wabasha,Minnesota,27157,65,0
+2020-07-25,Wadena,Minnesota,27159,20,0
+2020-07-25,Waseca,Minnesota,27161,111,0
+2020-07-25,Washington,Minnesota,27163,1631,41
+2020-07-25,Watonwan,Minnesota,27165,288,0
+2020-07-25,Wilkin,Minnesota,27167,23,3
+2020-07-25,Winona,Minnesota,27169,207,16
+2020-07-25,Wright,Minnesota,27171,692,5
+2020-07-25,Yellow Medicine,Minnesota,27173,40,0
+2020-07-25,Adams,Mississippi,28001,490,22
+2020-07-25,Alcorn,Mississippi,28003,267,3
+2020-07-25,Amite,Mississippi,28005,172,4
+2020-07-25,Attala,Mississippi,28007,456,23
+2020-07-25,Benton,Mississippi,28009,88,0
+2020-07-25,Bolivar,Mississippi,28011,741,25
+2020-07-25,Calhoun,Mississippi,28013,335,8
+2020-07-25,Carroll,Mississippi,28015,231,11
+2020-07-25,Chickasaw,Mississippi,28017,385,19
+2020-07-25,Choctaw,Mississippi,28019,105,4
+2020-07-25,Claiborne,Mississippi,28021,373,12
+2020-07-25,Clarke,Mississippi,28023,275,25
+2020-07-25,Clay,Mississippi,28025,335,13
+2020-07-25,Coahoma,Mississippi,28027,508,7
+2020-07-25,Copiah,Mississippi,28029,810,21
+2020-07-25,Covington,Mississippi,28031,523,8
+2020-07-25,DeSoto,Mississippi,28033,2784,23
+2020-07-25,Forrest,Mississippi,28035,1373,46
+2020-07-25,Franklin,Mississippi,28037,83,2
+2020-07-25,George,Mississippi,28039,233,5
+2020-07-25,Greene,Mississippi,28041,187,10
+2020-07-25,Grenada,Mississippi,28043,760,16
+2020-07-25,Hancock,Mississippi,28045,247,14
+2020-07-25,Harrison,Mississippi,28047,1774,25
+2020-07-25,Hinds,Mississippi,28049,4413,82
+2020-07-25,Holmes,Mississippi,28051,737,44
+2020-07-25,Humphreys,Mississippi,28053,241,10
+2020-07-25,Issaquena,Mississippi,28055,18,1
+2020-07-25,Itawamba,Mississippi,28057,243,9
+2020-07-25,Jackson,Mississippi,28059,1552,26
+2020-07-25,Jasper,Mississippi,28061,329,6
+2020-07-25,Jefferson,Mississippi,28063,158,4
+2020-07-25,Jefferson Davis,Mississippi,28065,170,5
+2020-07-25,Jones,Mississippi,28067,1522,54
+2020-07-25,Kemper,Mississippi,28069,207,15
+2020-07-25,Lafayette,Mississippi,28071,700,4
+2020-07-25,Lamar,Mississippi,28073,923,10
+2020-07-25,Lauderdale,Mississippi,28075,1199,84
+2020-07-25,Lawrence,Mississippi,28077,269,3
+2020-07-25,Leake,Mississippi,28079,723,24
+2020-07-25,Lee,Mississippi,28081,968,26
+2020-07-25,Leflore,Mississippi,28083,719,57
+2020-07-25,Lincoln,Mississippi,28085,661,38
+2020-07-25,Lowndes,Mississippi,28087,794,22
+2020-07-25,Madison,Mississippi,28089,2026,50
+2020-07-25,Marion,Mississippi,28091,487,15
+2020-07-25,Marshall,Mississippi,28093,443,5
+2020-07-25,Monroe,Mississippi,28095,572,44
+2020-07-25,Montgomery,Mississippi,28097,249,3
+2020-07-25,Neshoba,Mississippi,28099,1143,82
+2020-07-25,Newton,Mississippi,28101,467,10
+2020-07-25,Noxubee,Mississippi,28103,361,10
+2020-07-25,Oktibbeha,Mississippi,28105,800,31
+2020-07-25,Panola,Mississippi,28107,711,9
+2020-07-25,Pearl River,Mississippi,28109,419,34
+2020-07-25,Perry,Mississippi,28111,164,6
+2020-07-25,Pike,Mississippi,28113,703,28
+2020-07-25,Pontotoc,Mississippi,28115,595,6
+2020-07-25,Prentiss,Mississippi,28117,245,6
+2020-07-25,Quitman,Mississippi,28119,159,1
+2020-07-25,Rankin,Mississippi,28121,1763,23
+2020-07-25,Scott,Mississippi,28123,926,16
+2020-07-25,Sharkey,Mississippi,28125,102,0
+2020-07-25,Simpson,Mississippi,28127,613,12
+2020-07-25,Smith,Mississippi,28129,347,12
+2020-07-25,Stone,Mississippi,28131,121,2
+2020-07-25,Sunflower,Mississippi,28133,771,14
+2020-07-25,Tallahatchie,Mississippi,28135,344,5
+2020-07-25,Tate,Mississippi,28137,550,19
+2020-07-25,Tippah,Mississippi,28139,232,11
+2020-07-25,Tishomingo,Mississippi,28141,219,3
+2020-07-25,Tunica,Mississippi,28143,180,4
+2020-07-25,Union,Mississippi,28145,402,12
+2020-07-25,Walthall,Mississippi,28147,386,15
+2020-07-25,Warren,Mississippi,28149,842,23
+2020-07-25,Washington,Mississippi,28151,1261,23
+2020-07-25,Wayne,Mississippi,28153,669,21
+2020-07-25,Webster,Mississippi,28155,161,11
+2020-07-25,Wilkinson,Mississippi,28157,145,12
+2020-07-25,Winston,Mississippi,28159,475,14
+2020-07-25,Yalobusha,Mississippi,28161,275,9
+2020-07-25,Yazoo,Mississippi,28163,688,9
+2020-07-25,Adair,Missouri,29001,119,0
+2020-07-25,Andrew,Missouri,29003,73,1
+2020-07-25,Atchison,Missouri,29005,13,0
+2020-07-25,Audrain,Missouri,29007,181,1
+2020-07-25,Barry,Missouri,29009,187,0
+2020-07-25,Barton,Missouri,29011,52,0
+2020-07-25,Bates,Missouri,29013,29,1
+2020-07-25,Benton,Missouri,29015,51,0
+2020-07-25,Bollinger,Missouri,29017,49,0
+2020-07-25,Boone,Missouri,29019,1039,3
+2020-07-25,Buchanan,Missouri,29021,1015,10
+2020-07-25,Butler,Missouri,29023,189,2
+2020-07-25,Caldwell,Missouri,29025,27,1
+2020-07-25,Callaway,Missouri,29027,90,1
+2020-07-25,Camden,Missouri,29029,187,3
+2020-07-25,Cape Girardeau,Missouri,29031,520,3
+2020-07-25,Carroll,Missouri,29033,69,0
+2020-07-25,Carter,Missouri,29035,10,1
+2020-07-25,Cass,Missouri,29037,517,9
+2020-07-25,Cedar,Missouri,29039,31,0
+2020-07-25,Chariton,Missouri,29041,13,0
+2020-07-25,Christian,Missouri,29043,211,1
+2020-07-25,Clark,Missouri,29045,2,0
+2020-07-25,Clay,Missouri,29047,705,22
+2020-07-25,Clinton,Missouri,29049,53,0
+2020-07-25,Cole,Missouri,29051,222,2
+2020-07-25,Cooper,Missouri,29053,43,0
+2020-07-25,Crawford,Missouri,29055,33,0
+2020-07-25,Dade,Missouri,29057,10,0
+2020-07-25,Dallas,Missouri,29059,40,1
+2020-07-25,Daviess,Missouri,29061,17,0
+2020-07-25,DeKalb,Missouri,29063,27,1
+2020-07-25,Dent,Missouri,29065,9,0
+2020-07-25,Douglas,Missouri,29067,43,1
+2020-07-25,Dunklin,Missouri,29069,194,3
+2020-07-25,Franklin,Missouri,29071,443,18
+2020-07-25,Gasconade,Missouri,29073,13,0
+2020-07-25,Gentry,Missouri,29075,73,9
+2020-07-25,Greene,Missouri,29077,1016,10
+2020-07-25,Grundy,Missouri,29079,24,1
+2020-07-25,Harrison,Missouri,29081,44,1
+2020-07-25,Henry,Missouri,29083,49,3
+2020-07-25,Hickory,Missouri,29085,8,0
+2020-07-25,Holt,Missouri,29087,2,0
+2020-07-25,Howard,Missouri,29089,37,0
+2020-07-25,Howell,Missouri,29091,98,0
+2020-07-25,Iron,Missouri,29093,8,0
+2020-07-25,Jackson,Missouri,29095,2554,53
+2020-07-25,Jasper,Missouri,29097,1092,4
+2020-07-25,Jefferson,Missouri,29099,1122,25
+2020-07-25,Johnson,Missouri,29101,416,2
+2020-07-25,Joplin,Missouri,,395,18
+2020-07-25,Kansas City,Missouri,,4718,54
+2020-07-25,Knox,Missouri,29103,4,0
+2020-07-25,Laclede,Missouri,29105,170,1
+2020-07-25,Lafayette,Missouri,29107,125,2
+2020-07-25,Lawrence,Missouri,29109,134,2
+2020-07-25,Lewis,Missouri,29111,20,1
+2020-07-25,Lincoln,Missouri,29113,212,1
+2020-07-25,Linn,Missouri,29115,28,1
+2020-07-25,Livingston,Missouri,29117,37,0
+2020-07-25,Macon,Missouri,29121,38,0
+2020-07-25,Madison,Missouri,29123,15,0
+2020-07-25,Maries,Missouri,29125,10,0
+2020-07-25,Marion,Missouri,29127,82,1
+2020-07-25,McDonald,Missouri,29119,958,7
+2020-07-25,Mercer,Missouri,29129,8,0
+2020-07-25,Miller,Missouri,29131,60,0
+2020-07-25,Mississippi,Missouri,29133,121,0
+2020-07-25,Moniteau,Missouri,29135,87,2
+2020-07-25,Monroe,Missouri,29137,9,0
+2020-07-25,Montgomery,Missouri,29139,27,0
+2020-07-25,Morgan,Missouri,29141,42,0
+2020-07-25,New Madrid,Missouri,29143,127,1
+2020-07-25,Newton,Missouri,29145,730,3
+2020-07-25,Nodaway,Missouri,29147,72,0
+2020-07-25,Oregon,Missouri,29149,12,0
+2020-07-25,Osage,Missouri,29151,29,0
+2020-07-25,Ozark,Missouri,29153,4,0
+2020-07-25,Pemiscot,Missouri,29155,179,6
+2020-07-25,Perry,Missouri,29157,187,3
+2020-07-25,Pettis,Missouri,29159,288,3
+2020-07-25,Phelps,Missouri,29161,59,0
+2020-07-25,Pike,Missouri,29163,54,1
+2020-07-25,Platte,Missouri,29165,261,6
+2020-07-25,Polk,Missouri,29167,150,0
+2020-07-25,Pulaski,Missouri,29169,170,1
+2020-07-25,Putnam,Missouri,29171,4,0
+2020-07-25,Ralls,Missouri,29173,16,0
+2020-07-25,Randolph,Missouri,29175,26,1
+2020-07-25,Ray,Missouri,29177,47,0
+2020-07-25,Reynolds,Missouri,29179,10,0
+2020-07-25,Ripley,Missouri,29181,36,0
+2020-07-25,Saline,Missouri,29195,368,6
+2020-07-25,Schuyler,Missouri,29197,9,0
+2020-07-25,Scotland,Missouri,29199,11,1
+2020-07-25,Scott,Missouri,29201,286,13
+2020-07-25,Shannon,Missouri,29203,40,0
+2020-07-25,Shelby,Missouri,29205,9,0
+2020-07-25,St. Charles,Missouri,29183,2866,86
+2020-07-25,St. Clair,Missouri,29185,12,0
+2020-07-25,St. Francois,Missouri,29187,252,2
+2020-07-25,St. Louis,Missouri,29189,10687,628
+2020-07-25,St. Louis city,Missouri,29510,3895,164
+2020-07-25,Ste. Genevieve,Missouri,29186,37,1
+2020-07-25,Stoddard,Missouri,29207,188,9
+2020-07-25,Stone,Missouri,29209,58,1
+2020-07-25,Sullivan,Missouri,29211,124,0
+2020-07-25,Taney,Missouri,29213,237,3
+2020-07-25,Texas,Missouri,29215,21,0
+2020-07-25,Vernon,Missouri,29217,44,0
+2020-07-25,Warren,Missouri,29219,127,0
+2020-07-25,Washington,Missouri,29221,46,1
+2020-07-25,Wayne,Missouri,29223,12,0
+2020-07-25,Webster,Missouri,29225,93,1
+2020-07-25,Worth,Missouri,29227,5,0
+2020-07-25,Wright,Missouri,29229,53,0
+2020-07-25,Beaverhead,Montana,30001,31,0
+2020-07-25,Big Horn,Montana,30003,217,5
+2020-07-25,Blaine,Montana,30005,7,0
+2020-07-25,Broadwater,Montana,30007,9,0
+2020-07-25,Carbon,Montana,30009,46,0
+2020-07-25,Cascade,Montana,30013,111,2
+2020-07-25,Chouteau,Montana,30015,3,0
+2020-07-25,Custer,Montana,30017,47,0
+2020-07-25,Daniels,Montana,30019,1,0
+2020-07-25,Dawson,Montana,30021,10,0
+2020-07-25,Deer Lodge,Montana,30023,14,0
+2020-07-25,Fallon,Montana,30025,2,0
+2020-07-25,Fergus,Montana,30027,4,0
+2020-07-25,Flathead,Montana,30029,174,2
+2020-07-25,Gallatin,Montana,30031,760,1
+2020-07-25,Garfield,Montana,30033,12,0
+2020-07-25,Glacier,Montana,30035,51,1
+2020-07-25,Golden Valley,Montana,30037,3,0
+2020-07-25,Granite,Montana,30039,6,0
+2020-07-25,Hill,Montana,30041,39,0
+2020-07-25,Jefferson,Montana,30043,18,0
+2020-07-25,Judith Basin,Montana,30045,1,0
+2020-07-25,Lake,Montana,30047,136,1
+2020-07-25,Lewis and Clark,Montana,30049,101,1
+2020-07-25,Liberty,Montana,30051,1,0
+2020-07-25,Lincoln,Montana,30053,53,1
+2020-07-25,Madison,Montana,30057,58,1
+2020-07-25,McCone,Montana,30055,1,0
+2020-07-25,Meagher,Montana,30059,4,0
+2020-07-25,Missoula,Montana,30063,204,1
+2020-07-25,Musselshell,Montana,30065,1,0
+2020-07-25,Park,Montana,30067,40,0
+2020-07-25,Pondera,Montana,30073,8,0
+2020-07-25,Powder River,Montana,30075,1,0
+2020-07-25,Ravalli,Montana,30081,51,1
+2020-07-25,Richland,Montana,30083,41,0
+2020-07-25,Roosevelt,Montana,30085,9,0
+2020-07-25,Rosebud,Montana,30087,19,1
+2020-07-25,Sanders,Montana,30089,7,0
+2020-07-25,Sheridan,Montana,30091,3,0
+2020-07-25,Silver Bow,Montana,30093,35,0
+2020-07-25,Stillwater,Montana,30095,16,0
+2020-07-25,Sweet Grass,Montana,30097,4,1
+2020-07-25,Teton,Montana,30099,15,0
+2020-07-25,Toole,Montana,30101,31,6
+2020-07-25,Treasure,Montana,30103,2,0
+2020-07-25,Valley,Montana,30105,7,0
+2020-07-25,Wheatland,Montana,30107,2,0
+2020-07-25,Wibaux,Montana,30109,1,0
+2020-07-25,Yellowstone,Montana,30111,843,21
+2020-07-25,Adams,Nebraska,31001,324,11
+2020-07-25,Antelope,Nebraska,31003,17,1
+2020-07-25,Banner,Nebraska,31007,2,0
+2020-07-25,Boone,Nebraska,31011,7,0
+2020-07-25,Box Butte,Nebraska,31013,9,0
+2020-07-25,Boyd,Nebraska,31015,1,0
+2020-07-25,Buffalo,Nebraska,31019,273,1
+2020-07-25,Burt,Nebraska,31021,17,0
+2020-07-25,Butler,Nebraska,31023,53,0
+2020-07-25,Cass,Nebraska,31025,136,1
+2020-07-25,Cedar,Nebraska,31027,20,0
+2020-07-25,Chase,Nebraska,31029,4,0
+2020-07-25,Cherry,Nebraska,31031,4,0
+2020-07-25,Cheyenne,Nebraska,31033,23,0
+2020-07-25,Clay,Nebraska,31035,43,0
+2020-07-25,Colfax,Nebraska,31037,688,4
+2020-07-25,Cuming,Nebraska,31039,47,0
+2020-07-25,Custer,Nebraska,31041,41,4
+2020-07-25,Dakota,Nebraska,31043,1887,41
+2020-07-25,Dawes,Nebraska,31045,4,0
+2020-07-25,Dawson,Nebraska,31047,912,9
+2020-07-25,Deuel,Nebraska,31049,1,0
+2020-07-25,Dixon,Nebraska,31051,56,2
+2020-07-25,Dodge,Nebraska,31053,737,8
+2020-07-25,Douglas,Nebraska,31055,9587,122
+2020-07-25,Fillmore,Nebraska,31059,21,1
+2020-07-25,Franklin,Nebraska,31061,8,0
+2020-07-25,Frontier,Nebraska,31063,3,0
+2020-07-25,Furnas,Nebraska,31065,12,1
+2020-07-25,Gage,Nebraska,31067,74,4
+2020-07-25,Garden,Nebraska,31069,4,0
+2020-07-25,Garfield,Nebraska,31071,3,0
+2020-07-25,Gosper,Nebraska,31073,13,0
+2020-07-25,Greeley,Nebraska,31077,7,0
+2020-07-25,Hall,Nebraska,31079,1676,46
+2020-07-25,Hamilton,Nebraska,31081,87,13
+2020-07-25,Harlan,Nebraska,31083,1,0
+2020-07-25,Hitchcock,Nebraska,31087,1,0
+2020-07-25,Holt,Nebraska,31089,6,0
+2020-07-25,Hooker,Nebraska,31091,4,0
+2020-07-25,Howard,Nebraska,31093,51,4
+2020-07-25,Jefferson,Nebraska,31095,13,0
+2020-07-25,Johnson,Nebraska,31097,11,0
+2020-07-25,Kearney,Nebraska,31099,20,0
+2020-07-25,Keith,Nebraska,31101,13,0
+2020-07-25,Kimball,Nebraska,31105,15,0
+2020-07-25,Knox,Nebraska,31107,27,0
+2020-07-25,Lancaster,Nebraska,31109,2758,14
+2020-07-25,Lincoln,Nebraska,31111,77,2
+2020-07-25,Madison,Nebraska,31119,409,6
+2020-07-25,McPherson,Nebraska,31117,4,0
+2020-07-25,Merrick,Nebraska,31121,43,0
+2020-07-25,Morrill,Nebraska,31123,56,0
+2020-07-25,Nance,Nebraska,31125,6,0
+2020-07-25,Nemaha,Nebraska,31127,10,0
+2020-07-25,Nuckolls,Nebraska,31129,5,0
+2020-07-25,Otoe,Nebraska,31131,38,0
+2020-07-25,Pawnee,Nebraska,31133,5,0
+2020-07-25,Perkins,Nebraska,31135,8,0
+2020-07-25,Phelps,Nebraska,31137,32,0
+2020-07-25,Pierce,Nebraska,31139,16,0
+2020-07-25,Platte,Nebraska,31141,733,3
+2020-07-25,Polk,Nebraska,31143,20,0
+2020-07-25,Red Willow,Nebraska,31145,13,0
+2020-07-25,Richardson,Nebraska,31147,17,1
+2020-07-25,Rock,Nebraska,31149,2,0
+2020-07-25,Saline,Nebraska,31151,571,2
+2020-07-25,Sarpy,Nebraska,31153,1717,8
+2020-07-25,Saunders,Nebraska,31155,112,2
+2020-07-25,Scotts Bluff,Nebraska,31157,274,6
+2020-07-25,Seward,Nebraska,31159,65,1
+2020-07-25,Sheridan,Nebraska,31161,9,0
+2020-07-25,Sherman,Nebraska,31163,5,0
+2020-07-25,Sioux,Nebraska,31165,5,0
+2020-07-25,Stanton,Nebraska,31167,25,0
+2020-07-25,Thayer,Nebraska,31169,24,0
+2020-07-25,Thomas,Nebraska,31171,1,0
+2020-07-25,Thurston,Nebraska,31173,185,3
+2020-07-25,Valley,Nebraska,31175,9,0
+2020-07-25,Washington,Nebraska,31177,87,1
+2020-07-25,Wayne,Nebraska,31179,35,0
+2020-07-25,Webster,Nebraska,31181,10,0
+2020-07-25,Wheeler,Nebraska,31183,1,0
+2020-07-25,York,Nebraska,31185,62,0
+2020-07-25,Carson City,Nevada,32510,275,7
+2020-07-25,Churchill,Nevada,32001,44,1
+2020-07-25,Clark,Nevada,32003,35786,601
+2020-07-25,Douglas,Nevada,32005,134,0
+2020-07-25,Elko,Nevada,32007,386,2
+2020-07-25,Eureka,Nevada,32011,2,0
+2020-07-25,Humboldt,Nevada,32013,93,4
+2020-07-25,Lander,Nevada,32015,47,1
+2020-07-25,Lincoln,Nevada,32017,3,0
+2020-07-25,Lyon,Nevada,32019,169,3
+2020-07-25,Mineral,Nevada,32021,11,0
+2020-07-25,Nye,Nevada,32023,292,7
+2020-07-25,Pershing,Nevada,32027,13,0
+2020-07-25,Storey,Nevada,32029,3,0
+2020-07-25,Washoe,Nevada,32031,4724,106
+2020-07-25,White Pine,Nevada,32033,11,1
+2020-07-25,Belknap,New Hampshire,33001,101,4
+2020-07-25,Carroll,New Hampshire,33003,79,1
+2020-07-25,Cheshire,New Hampshire,33005,80,2
+2020-07-25,Coos,New Hampshire,33007,16,0
+2020-07-25,Grafton,New Hampshire,33009,99,1
+2020-07-25,Hillsborough,New Hampshire,33011,3655,272
+2020-07-25,Merrimack,New Hampshire,33013,450,21
+2020-07-25,Rockingham,New Hampshire,33015,1581,94
+2020-07-25,Strafford,New Hampshire,33017,316,13
+2020-07-25,Sullivan,New Hampshire,33019,38,1
+2020-07-25,Atlantic,New Jersey,34001,3237,240
+2020-07-25,Bergen,New Jersey,34003,20455,2044
+2020-07-25,Burlington,New Jersey,34005,5608,469
+2020-07-25,Camden,New Jersey,34007,8081,566
+2020-07-25,Cape May,New Jersey,34009,785,86
+2020-07-25,Cumberland,New Jersey,34011,3131,154
+2020-07-25,Essex,New Jersey,34013,19510,2101
+2020-07-25,Gloucester,New Jersey,34015,2952,203
+2020-07-25,Hudson,New Jersey,34017,19504,1498
+2020-07-25,Hunterdon,New Jersey,34019,1171,126
+2020-07-25,Mercer,New Jersey,34021,7942,612
+2020-07-25,Middlesex,New Jersey,34023,17726,1399
+2020-07-25,Monmouth,New Jersey,34025,9922,854
+2020-07-25,Morris,New Jersey,34027,7205,827
+2020-07-25,Ocean,New Jersey,34029,10241,1011
+2020-07-25,Passaic,New Jersey,34031,17430,1241
+2020-07-25,Salem,New Jersey,34033,860,81
+2020-07-25,Somerset,New Jersey,34035,5198,555
+2020-07-25,Sussex,New Jersey,34037,1308,195
+2020-07-25,Union,New Jersey,34039,16510,1345
+2020-07-25,Unknown,New Jersey,,680,0
+2020-07-25,Warren,New Jersey,34041,1322,169
+2020-07-25,Bernalillo,New Mexico,35001,4318,110
+2020-07-25,Catron,New Mexico,35003,4,1
+2020-07-25,Chaves,New Mexico,35005,260,4
+2020-07-25,Cibola,New Mexico,35006,299,17
+2020-07-25,Colfax,New Mexico,35007,12,1
+2020-07-25,Curry,New Mexico,35009,357,2
+2020-07-25,Doña Ana,New Mexico,35013,1979,16
+2020-07-25,Eddy,New Mexico,35015,217,2
+2020-07-25,Grant,New Mexico,35017,63,1
+2020-07-25,Guadalupe,New Mexico,35019,28,0
+2020-07-25,Harding,New Mexico,35021,1,0
+2020-07-25,Hidalgo,New Mexico,35023,85,0
+2020-07-25,Lea,New Mexico,35025,508,2
+2020-07-25,Lincoln,New Mexico,35027,68,1
+2020-07-25,Los Alamos,New Mexico,35028,16,0
+2020-07-25,Luna,New Mexico,35029,185,3
+2020-07-25,McKinley,New Mexico,35031,3896,210
+2020-07-25,Mora,New Mexico,35033,6,0
+2020-07-25,Otero,New Mexico,35035,1034,10
+2020-07-25,Quay,New Mexico,35037,30,1
+2020-07-25,Rio Arriba,New Mexico,35039,271,2
+2020-07-25,Roosevelt,New Mexico,35041,108,1
+2020-07-25,San Juan,New Mexico,35045,2910,178
+2020-07-25,San Miguel,New Mexico,35047,37,0
+2020-07-25,Sandoval,New Mexico,35043,994,33
+2020-07-25,Santa Fe,New Mexico,35049,483,3
+2020-07-25,Sierra,New Mexico,35051,25,0
+2020-07-25,Socorro,New Mexico,35053,68,5
+2020-07-25,Taos,New Mexico,35055,83,1
+2020-07-25,Torrance,New Mexico,35057,95,1
+2020-07-25,Union,New Mexico,35059,22,0
+2020-07-25,Valencia,New Mexico,35061,326,2
+2020-07-25,Albany,New York,36001,2438,166
+2020-07-25,Allegany,New York,36003,74,0
+2020-07-25,Broome,New York,36007,966,72
+2020-07-25,Cattaraugus,New York,36009,150,5
+2020-07-25,Cayuga,New York,36011,139,1
+2020-07-25,Chautauqua,New York,36013,216,4
+2020-07-25,Chemung,New York,36015,160,5
+2020-07-25,Chenango,New York,36017,203,3
+2020-07-25,Clinton,New York,36019,119,4
+2020-07-25,Columbia,New York,36021,500,43
+2020-07-25,Cortland,New York,36023,84,0
+2020-07-25,Delaware,New York,36025,98,0
+2020-07-25,Dutchess,New York,36027,4412,162
+2020-07-25,Erie,New York,36029,8282,619
+2020-07-25,Essex,New York,36031,62,0
+2020-07-25,Franklin,New York,36033,42,1
+2020-07-25,Fulton,New York,36035,270,20
+2020-07-25,Genesee,New York,36037,261,6
+2020-07-25,Greene,New York,36039,279,5
+2020-07-25,Hamilton,New York,36041,7,0
+2020-07-25,Herkimer,New York,36043,224,1
+2020-07-25,Jefferson,New York,36045,126,0
+2020-07-25,Lewis,New York,36049,34,0
+2020-07-25,Livingston,New York,36051,162,4
+2020-07-25,Madison,New York,36053,390,6
+2020-07-25,Monroe,New York,36055,4570,266
+2020-07-25,Montgomery,New York,36057,147,5
+2020-07-25,Nassau,New York,36059,42915,2705
+2020-07-25,New York City,New York,,228220,22947
+2020-07-25,Niagara,New York,36063,1420,68
+2020-07-25,Oneida,New York,36065,2000,109
+2020-07-25,Onondaga,New York,36067,3378,185
+2020-07-25,Ontario,New York,36069,338,26
+2020-07-25,Orange,New York,36071,11009,403
+2020-07-25,Orleans,New York,36073,289,41
+2020-07-25,Oswego,New York,36075,236,0
+2020-07-25,Otsego,New York,36077,103,6
+2020-07-25,Putnam,New York,36079,1403,61
+2020-07-25,Rensselaer,New York,36083,681,39
+2020-07-25,Rockland,New York,36087,13837,470
+2020-07-25,Saratoga,New York,36091,679,5
+2020-07-25,Schenectady,New York,36093,975,36
+2020-07-25,Schoharie,New York,36095,67,0
+2020-07-25,Schuyler,New York,36097,20,0
+2020-07-25,Seneca,New York,36099,83,0
+2020-07-25,St. Lawrence,New York,36089,257,4
+2020-07-25,Steuben,New York,36101,288,19
+2020-07-25,Suffolk,New York,36103,42822,2043
+2020-07-25,Sullivan,New York,36105,1476,32
+2020-07-25,Tioga,New York,36107,178,19
+2020-07-25,Tompkins,New York,36109,223,2
+2020-07-25,Ulster,New York,36111,1916,49
+2020-07-25,Warren,New York,36113,293,31
+2020-07-25,Washington,New York,36115,252,11
+2020-07-25,Wayne,New York,36117,240,1
+2020-07-25,Westchester,New York,36119,35737,1576
+2020-07-25,Wyoming,New York,36121,110,3
+2020-07-25,Yates,New York,36123,51,6
+2020-07-25,Alamance,North Carolina,37001,1920,40
+2020-07-25,Alexander,North Carolina,37003,250,2
+2020-07-25,Alleghany,North Carolina,37005,61,0
+2020-07-25,Anson,North Carolina,37007,279,2
+2020-07-25,Ashe,North Carolina,37009,83,1
+2020-07-25,Avery,North Carolina,37011,60,0
+2020-07-25,Beaufort,North Carolina,37013,258,1
+2020-07-25,Bertie,North Carolina,37015,204,4
+2020-07-25,Bladen,North Carolina,37017,523,5
+2020-07-25,Brunswick,North Carolina,37019,1059,15
+2020-07-25,Buncombe,North Carolina,37021,1400,51
+2020-07-25,Burke,North Carolina,37023,1415,24
+2020-07-25,Cabarrus,North Carolina,37025,2129,38
+2020-07-25,Caldwell,North Carolina,37027,936,7
+2020-07-25,Camden,North Carolina,37029,52,2
+2020-07-25,Carteret,North Carolina,37031,238,4
+2020-07-25,Caswell,North Carolina,37033,172,2
+2020-07-25,Catawba,North Carolina,37035,1694,15
+2020-07-25,Chatham,North Carolina,37037,1162,49
+2020-07-25,Cherokee,North Carolina,37039,183,3
+2020-07-25,Chowan,North Carolina,37041,92,0
+2020-07-25,Clay,North Carolina,37043,50,0
+2020-07-25,Cleveland,North Carolina,37045,809,13
+2020-07-25,Columbus,North Carolina,37047,741,42
+2020-07-25,Craven,North Carolina,37049,569,8
+2020-07-25,Cumberland,North Carolina,37051,2276,49
+2020-07-25,Currituck,North Carolina,37053,62,0
+2020-07-25,Dare,North Carolina,37055,176,1
+2020-07-25,Davidson,North Carolina,37057,1510,16
+2020-07-25,Davie,North Carolina,37059,294,3
+2020-07-25,Duplin,North Carolina,37061,1846,40
+2020-07-25,Durham,North Carolina,37063,5469,76
+2020-07-25,Edgecombe,North Carolina,37065,503,10
+2020-07-25,Forsyth,North Carolina,37067,4515,41
+2020-07-25,Franklin,North Carolina,37069,682,25
+2020-07-25,Gaston,North Carolina,37071,2635,24
+2020-07-25,Gates,North Carolina,37073,36,2
+2020-07-25,Graham,North Carolina,37075,15,0
+2020-07-25,Granville,North Carolina,37077,1087,25
+2020-07-25,Greene,North Carolina,37079,270,3
+2020-07-25,Guilford,North Carolina,37081,4651,139
+2020-07-25,Halifax,North Carolina,37083,545,5
+2020-07-25,Harnett,North Carolina,37085,987,35
+2020-07-25,Haywood,North Carolina,37087,219,0
+2020-07-25,Henderson,North Carolina,37089,1265,53
+2020-07-25,Hertford,North Carolina,37091,228,11
+2020-07-25,Hoke,North Carolina,37093,608,7
+2020-07-25,Hyde,North Carolina,37095,35,0
+2020-07-25,Iredell,North Carolina,37097,1482,16
+2020-07-25,Jackson,North Carolina,37099,348,3
+2020-07-25,Johnston,North Carolina,37101,2595,43
+2020-07-25,Jones,North Carolina,37103,45,3
+2020-07-25,Lee,North Carolina,37105,1055,9
+2020-07-25,Lenoir,North Carolina,37107,479,11
+2020-07-25,Lincoln,North Carolina,37109,633,2
+2020-07-25,Macon,North Carolina,37113,421,1
+2020-07-25,Madison,North Carolina,37115,28,0
+2020-07-25,Martin,North Carolina,37117,201,6
+2020-07-25,McDowell,North Carolina,37111,454,5
+2020-07-25,Mecklenburg,North Carolina,37119,19041,188
+2020-07-25,Mitchell,North Carolina,37121,68,2
+2020-07-25,Montgomery,North Carolina,37123,499,13
+2020-07-25,Moore,North Carolina,37125,795,20
+2020-07-25,Nash,North Carolina,37127,830,10
+2020-07-25,New Hanover,North Carolina,37129,2052,15
+2020-07-25,Northampton,North Carolina,37131,252,16
+2020-07-25,Onslow,North Carolina,37133,707,9
+2020-07-25,Orange,North Carolina,37135,1191,45
+2020-07-25,Pamlico,North Carolina,37137,50,1
+2020-07-25,Pasquotank,North Carolina,37139,295,17
+2020-07-25,Pender,North Carolina,37141,552,3
+2020-07-25,Perquimans,North Carolina,37143,54,2
+2020-07-25,Person,North Carolina,37145,169,1
+2020-07-25,Pitt,North Carolina,37147,1421,10
+2020-07-25,Polk,North Carolina,37149,124,5
+2020-07-25,Randolph,North Carolina,37151,1904,35
+2020-07-25,Richmond,North Carolina,37153,432,8
+2020-07-25,Robeson,North Carolina,37155,2175,49
+2020-07-25,Rockingham,North Carolina,37157,401,3
+2020-07-25,Rowan,North Carolina,37159,1853,48
+2020-07-25,Rutherford,North Carolina,37161,560,13
+2020-07-25,Sampson,North Carolina,37163,1374,10
+2020-07-25,Scotland,North Carolina,37165,225,2
+2020-07-25,Stanly,North Carolina,37167,764,6
+2020-07-25,Stokes,North Carolina,37169,215,2
+2020-07-25,Surry,North Carolina,37171,748,4
+2020-07-25,Swain,North Carolina,37173,90,2
+2020-07-25,Transylvania,North Carolina,37175,106,1
+2020-07-25,Tyrrell,North Carolina,37177,83,1
+2020-07-25,Union,North Carolina,37179,2470,35
+2020-07-25,Vance,North Carolina,37181,681,40
+2020-07-25,Wake,North Carolina,37183,9914,105
+2020-07-25,Warren,North Carolina,37185,225,6
+2020-07-25,Washington,North Carolina,37187,97,3
+2020-07-25,Watauga,North Carolina,37189,203,0
+2020-07-25,Wayne,North Carolina,37191,2195,36
+2020-07-25,Wilkes,North Carolina,37193,694,9
+2020-07-25,Wilson,North Carolina,37195,1272,28
+2020-07-25,Yadkin,North Carolina,37197,439,6
+2020-07-25,Yancey,North Carolina,37199,68,0
+2020-07-25,Barnes,North Dakota,38003,30,0
+2020-07-25,Benson,North Dakota,38005,47,1
+2020-07-25,Billings,North Dakota,38007,1,0
+2020-07-25,Bottineau,North Dakota,38009,9,0
+2020-07-25,Bowman,North Dakota,38011,6,0
+2020-07-25,Burke,North Dakota,38013,12,0
+2020-07-25,Burleigh,North Dakota,38015,729,3
+2020-07-25,Cass,North Dakota,38017,2765,75
+2020-07-25,Cavalier,North Dakota,38019,28,0
+2020-07-25,Dickey,North Dakota,38021,8,0
+2020-07-25,Divide,North Dakota,38023,1,0
+2020-07-25,Dunn,North Dakota,38025,26,0
+2020-07-25,Eddy,North Dakota,38027,8,0
+2020-07-25,Emmons,North Dakota,38029,12,1
+2020-07-25,Foster,North Dakota,38031,9,0
+2020-07-25,Golden Valley,North Dakota,38033,4,0
+2020-07-25,Grand Forks,North Dakota,38035,575,4
+2020-07-25,Grant,North Dakota,38037,4,0
+2020-07-25,Griggs,North Dakota,38039,11,0
+2020-07-25,Hettinger,North Dakota,38041,6,0
+2020-07-25,Kidder,North Dakota,38043,8,0
+2020-07-25,LaMoure,North Dakota,38045,14,0
+2020-07-25,Logan,North Dakota,38047,1,0
+2020-07-25,McHenry,North Dakota,38049,12,1
+2020-07-25,McIntosh,North Dakota,38051,11,1
+2020-07-25,McKenzie,North Dakota,38053,62,0
+2020-07-25,McLean,North Dakota,38055,21,0
+2020-07-25,Mercer,North Dakota,38057,18,0
+2020-07-25,Morton,North Dakota,38059,218,3
+2020-07-25,Mountrail,North Dakota,38061,101,1
+2020-07-25,Nelson,North Dakota,38063,5,0
+2020-07-25,Oliver,North Dakota,38065,5,0
+2020-07-25,Pembina,North Dakota,38067,24,0
+2020-07-25,Pierce,North Dakota,38069,8,0
+2020-07-25,Ramsey,North Dakota,38071,28,1
+2020-07-25,Ransom,North Dakota,38073,25,0
+2020-07-25,Renville,North Dakota,38075,9,0
+2020-07-25,Richland,North Dakota,38077,69,0
+2020-07-25,Rolette,North Dakota,38079,17,0
+2020-07-25,Sargent,North Dakota,38081,8,0
+2020-07-25,Sheridan,North Dakota,38083,5,0
+2020-07-25,Sioux,North Dakota,38085,49,0
+2020-07-25,Slope,North Dakota,38087,3,0
+2020-07-25,Stark,North Dakota,38089,142,3
+2020-07-25,Steele,North Dakota,38091,8,0
+2020-07-25,Stutsman,North Dakota,38093,93,2
+2020-07-25,Towner,North Dakota,38095,5,0
+2020-07-25,Traill,North Dakota,38097,35,0
+2020-07-25,Unknown,North Dakota,,4,4
+2020-07-25,Walsh,North Dakota,38099,95,0
+2020-07-25,Ward,North Dakota,38101,139,1
+2020-07-25,Wells,North Dakota,38103,12,0
+2020-07-25,Williams,North Dakota,38105,195,2
+2020-07-25,Saipan,Northern Mariana Islands,69110,39,2
+2020-07-25,Tinian,Northern Mariana Islands,69120,1,0
+2020-07-25,Adams,Ohio,39001,40,2
+2020-07-25,Allen,Ohio,39003,522,41
+2020-07-25,Ashland,Ohio,39005,113,4
+2020-07-25,Ashtabula,Ohio,39007,507,44
+2020-07-25,Athens,Ohio,39009,315,1
+2020-07-25,Auglaize,Ohio,39011,165,5
+2020-07-25,Belmont,Ohio,39013,584,26
+2020-07-25,Brown,Ohio,39015,82,1
+2020-07-25,Butler,Ohio,39017,2382,54
+2020-07-25,Carroll,Ohio,39019,93,4
+2020-07-25,Champaign,Ohio,39021,83,1
+2020-07-25,Clark,Ohio,39023,988,11
+2020-07-25,Clermont,Ohio,39025,715,9
+2020-07-25,Clinton,Ohio,39027,126,4
+2020-07-25,Columbiana,Ohio,39029,1489,60
+2020-07-25,Coshocton,Ohio,39031,172,5
+2020-07-25,Crawford,Ohio,39033,155,5
+2020-07-25,Cuyahoga,Ohio,39035,11584,449
+2020-07-25,Darke,Ohio,39037,274,26
+2020-07-25,Defiance,Ohio,39039,106,4
+2020-07-25,Delaware,Ohio,39041,1048,17
+2020-07-25,Erie,Ohio,39043,428,23
+2020-07-25,Fairfield,Ohio,39045,1048,18
+2020-07-25,Fayette,Ohio,39047,66,0
+2020-07-25,Franklin,Ohio,39049,15548,487
+2020-07-25,Fulton,Ohio,39051,113,0
+2020-07-25,Gallia,Ohio,39053,41,1
+2020-07-25,Geauga,Ohio,39055,498,43
+2020-07-25,Greene,Ohio,39057,538,11
+2020-07-25,Guernsey,Ohio,39059,96,6
+2020-07-25,Hamilton,Ohio,39061,8436,224
+2020-07-25,Hancock,Ohio,39063,215,2
+2020-07-25,Hardin,Ohio,39065,142,12
+2020-07-25,Harrison,Ohio,39067,16,1
+2020-07-25,Henry,Ohio,39069,90,0
+2020-07-25,Highland,Ohio,39071,94,1
+2020-07-25,Hocking,Ohio,39073,102,9
+2020-07-25,Holmes,Ohio,39075,311,5
+2020-07-25,Huron,Ohio,39077,328,3
+2020-07-25,Jackson,Ohio,39079,55,0
+2020-07-25,Jefferson,Ohio,39081,168,2
+2020-07-25,Knox,Ohio,39083,116,2
+2020-07-25,Lake,Ohio,39085,900,27
+2020-07-25,Lawrence,Ohio,39087,175,0
+2020-07-25,Licking,Ohio,39089,910,24
+2020-07-25,Logan,Ohio,39091,100,1
+2020-07-25,Lorain,Ohio,39093,1463,75
+2020-07-25,Lucas,Ohio,39095,4006,311
+2020-07-25,Madison,Ohio,39097,271,9
+2020-07-25,Mahoning,Ohio,39099,2232,244
+2020-07-25,Marion,Ohio,39101,2820,41
+2020-07-25,Medina,Ohio,39103,746,32
+2020-07-25,Meigs,Ohio,39105,23,0
+2020-07-25,Mercer,Ohio,39107,423,11
+2020-07-25,Miami,Ohio,39109,650,34
+2020-07-25,Monroe,Ohio,39111,89,17
+2020-07-25,Montgomery,Ohio,39113,3456,53
+2020-07-25,Morgan,Ohio,39115,16,0
+2020-07-25,Morrow,Ohio,39117,148,1
+2020-07-25,Muskingum,Ohio,39119,140,1
+2020-07-25,Noble,Ohio,39121,16,0
+2020-07-25,Ottawa,Ohio,39123,308,24
+2020-07-25,Paulding,Ohio,39125,53,0
+2020-07-25,Perry,Ohio,39127,68,1
+2020-07-25,Pickaway,Ohio,39129,2307,42
+2020-07-25,Pike,Ohio,39131,46,0
+2020-07-25,Portage,Ohio,39133,635,59
+2020-07-25,Preble,Ohio,39135,122,2
+2020-07-25,Putnam,Ohio,39137,170,16
+2020-07-25,Richland,Ohio,39139,477,8
+2020-07-25,Ross,Ohio,39141,253,5
+2020-07-25,Sandusky,Ohio,39143,271,15
+2020-07-25,Scioto,Ohio,39145,122,0
+2020-07-25,Seneca,Ohio,39147,101,2
+2020-07-25,Shelby,Ohio,39149,112,4
+2020-07-25,Stark,Ohio,39151,1514,122
+2020-07-25,Summit,Ohio,39153,2879,212
+2020-07-25,Trumbull,Ohio,39155,1286,94
+2020-07-25,Tuscarawas,Ohio,39157,717,11
+2020-07-25,Union,Ohio,39159,169,1
+2020-07-25,Van Wert,Ohio,39161,60,1
+2020-07-25,Vinton,Ohio,39163,26,2
+2020-07-25,Warren,Ohio,39165,1383,30
+2020-07-25,Washington,Ohio,39167,178,21
+2020-07-25,Wayne,Ohio,39169,443,58
+2020-07-25,Williams,Ohio,39171,103,3
+2020-07-25,Wood,Ohio,39173,713,55
+2020-07-25,Wyandot,Ohio,39175,92,5
+2020-07-25,Adair,Oklahoma,40001,227,5
+2020-07-25,Alfalfa,Oklahoma,40003,1,0
+2020-07-25,Atoka,Oklahoma,40005,55,0
+2020-07-25,Beaver,Oklahoma,40007,36,0
+2020-07-25,Beckham,Oklahoma,40009,30,0
+2020-07-25,Blaine,Oklahoma,40011,27,0
+2020-07-25,Bryan,Oklahoma,40013,303,1
+2020-07-25,Caddo,Oklahoma,40015,272,12
+2020-07-25,Canadian,Oklahoma,40017,795,4
+2020-07-25,Carter,Oklahoma,40019,243,3
+2020-07-25,Cherokee,Oklahoma,40021,211,1
+2020-07-25,Choctaw,Oklahoma,40023,152,1
+2020-07-25,Cimarron,Oklahoma,40025,1,0
+2020-07-25,Cleveland,Oklahoma,40027,2048,41
+2020-07-25,Coal,Oklahoma,40029,24,0
+2020-07-25,Comanche,Oklahoma,40031,659,9
+2020-07-25,Cotton,Oklahoma,40033,16,2
+2020-07-25,Craig,Oklahoma,40035,53,0
+2020-07-25,Creek,Oklahoma,40037,341,12
+2020-07-25,Custer,Oklahoma,40039,158,0
+2020-07-25,Delaware,Oklahoma,40041,351,19
+2020-07-25,Dewey,Oklahoma,40043,4,0
+2020-07-25,Ellis,Oklahoma,40045,4,0
+2020-07-25,Garfield,Oklahoma,40047,227,3
+2020-07-25,Garvin,Oklahoma,40049,172,4
+2020-07-25,Grady,Oklahoma,40051,352,6
+2020-07-25,Grant,Oklahoma,40053,6,0
+2020-07-25,Greer,Oklahoma,40055,78,7
+2020-07-25,Harmon,Oklahoma,40057,5,0
+2020-07-25,Harper,Oklahoma,40059,4,0
+2020-07-25,Haskell,Oklahoma,40061,24,0
+2020-07-25,Hughes,Oklahoma,40063,53,1
+2020-07-25,Jackson,Oklahoma,40065,346,3
+2020-07-25,Jefferson,Oklahoma,40067,23,0
+2020-07-25,Johnston,Oklahoma,40069,28,0
+2020-07-25,Kay,Oklahoma,40071,172,9
+2020-07-25,Kingfisher,Oklahoma,40073,75,0
+2020-07-25,Kiowa,Oklahoma,40075,23,1
+2020-07-25,Latimer,Oklahoma,40077,37,1
+2020-07-25,Le Flore,Oklahoma,40079,120,1
+2020-07-25,Lincoln,Oklahoma,40081,74,2
+2020-07-25,Logan,Oklahoma,40083,143,1
+2020-07-25,Love,Oklahoma,40085,60,0
+2020-07-25,Major,Oklahoma,40093,22,1
+2020-07-25,Marshall,Oklahoma,40095,59,0
+2020-07-25,Mayes,Oklahoma,40097,234,5
+2020-07-25,McClain,Oklahoma,40087,336,4
+2020-07-25,McCurtain,Oklahoma,40089,762,20
+2020-07-25,McIntosh,Oklahoma,40091,124,1
+2020-07-25,Murray,Oklahoma,40099,49,0
+2020-07-25,Muskogee,Oklahoma,40101,316,16
+2020-07-25,Noble,Oklahoma,40103,71,2
+2020-07-25,Nowata,Oklahoma,40105,45,1
+2020-07-25,Okfuskee,Oklahoma,40107,33,0
+2020-07-25,Oklahoma,Oklahoma,40109,7415,90
+2020-07-25,Okmulgee,Oklahoma,40111,280,0
+2020-07-25,Osage,Oklahoma,40113,284,10
+2020-07-25,Ottawa,Oklahoma,40115,260,2
+2020-07-25,Pawnee,Oklahoma,40117,101,3
+2020-07-25,Payne,Oklahoma,40119,583,3
+2020-07-25,Pittsburg,Oklahoma,40121,125,3
+2020-07-25,Pontotoc,Oklahoma,40123,124,2
+2020-07-25,Pottawatomie,Oklahoma,40125,270,6
+2020-07-25,Pushmataha,Oklahoma,40127,53,0
+2020-07-25,Roger Mills,Oklahoma,40129,6,0
+2020-07-25,Rogers,Oklahoma,40131,577,12
+2020-07-25,Seminole,Oklahoma,40133,127,5
+2020-07-25,Sequoyah,Oklahoma,40135,138,3
+2020-07-25,Stephens,Oklahoma,40137,142,1
+2020-07-25,Texas,Oklahoma,40139,1016,7
+2020-07-25,Tillman,Oklahoma,40141,43,1
+2020-07-25,Tulsa,Oklahoma,40143,7307,90
+2020-07-25,Wagoner,Oklahoma,40145,562,20
+2020-07-25,Washington,Oklahoma,40147,526,39
+2020-07-25,Washita,Oklahoma,40149,17,0
+2020-07-25,Woods,Oklahoma,40151,14,0
+2020-07-25,Woodward,Oklahoma,40153,27,0
+2020-07-25,Baker,Oregon,41001,19,0
+2020-07-25,Benton,Oregon,41003,133,6
+2020-07-25,Clackamas,Oregon,41005,1255,34
+2020-07-25,Clatsop,Oregon,41007,68,0
+2020-07-25,Columbia,Oregon,41009,67,0
+2020-07-25,Coos,Oregon,41011,79,0
+2020-07-25,Crook,Oregon,41013,31,1
+2020-07-25,Curry,Oregon,41015,13,0
+2020-07-25,Deschutes,Oregon,41017,439,3
+2020-07-25,Douglas,Oregon,41019,116,1
+2020-07-25,Gilliam,Oregon,41021,3,0
+2020-07-25,Grant,Oregon,41023,2,0
+2020-07-25,Harney,Oregon,41025,6,0
+2020-07-25,Hood River,Oregon,41027,149,0
+2020-07-25,Jackson,Oregon,41029,276,0
+2020-07-25,Jefferson,Oregon,41031,253,0
+2020-07-25,Josephine,Oregon,41033,84,1
+2020-07-25,Klamath,Oregon,41035,180,1
+2020-07-25,Lake,Oregon,41037,31,0
+2020-07-25,Lane,Oregon,41039,440,3
+2020-07-25,Lincoln,Oregon,41041,379,8
+2020-07-25,Linn,Oregon,41043,218,10
+2020-07-25,Malheur,Oregon,41045,566,7
+2020-07-25,Marion,Oregon,41047,2385,64
+2020-07-25,Morrow,Oregon,41049,232,1
+2020-07-25,Multnomah,Oregon,41051,3883,81
+2020-07-25,Polk,Oregon,41053,243,12
+2020-07-25,Sherman,Oregon,41055,8,0
+2020-07-25,Tillamook,Oregon,41057,24,0
+2020-07-25,Umatilla,Oregon,41059,1638,16
+2020-07-25,Union,Oregon,41061,385,2
+2020-07-25,Wallowa,Oregon,41063,18,1
+2020-07-25,Wasco,Oregon,41065,141,3
+2020-07-25,Washington,Oregon,41067,2457,22
+2020-07-25,Yamhill,Oregon,41071,271,9
+2020-07-25,Adams,Pennsylvania,42001,442,17
+2020-07-25,Allegheny,Pennsylvania,42003,7161,222
+2020-07-25,Armstrong,Pennsylvania,42005,151,6
+2020-07-25,Beaver,Pennsylvania,42007,1101,82
+2020-07-25,Bedford,Pennsylvania,42009,113,4
+2020-07-25,Berks,Pennsylvania,42011,5008,362
+2020-07-25,Blair,Pennsylvania,42013,171,2
+2020-07-25,Bradford,Pennsylvania,42015,75,3
+2020-07-25,Bucks,Pennsylvania,42017,6664,574
+2020-07-25,Butler,Pennsylvania,42019,544,14
+2020-07-25,Cambria,Pennsylvania,42021,215,3
+2020-07-25,Cameron,Pennsylvania,42023,5,0
+2020-07-25,Carbon,Pennsylvania,42025,345,28
+2020-07-25,Centre,Pennsylvania,42027,313,9
+2020-07-25,Chester,Pennsylvania,42029,4586,343
+2020-07-25,Clarion,Pennsylvania,42031,72,2
+2020-07-25,Clearfield,Pennsylvania,42033,114,0
+2020-07-25,Clinton,Pennsylvania,42035,107,5
+2020-07-25,Columbia,Pennsylvania,42037,446,35
+2020-07-25,Crawford,Pennsylvania,42039,118,1
+2020-07-25,Cumberland,Pennsylvania,42041,1106,70
+2020-07-25,Dauphin,Pennsylvania,42043,2526,152
+2020-07-25,Delaware,Pennsylvania,42045,8250,720
+2020-07-25,Elk,Pennsylvania,42047,39,2
+2020-07-25,Erie,Pennsylvania,42049,847,15
+2020-07-25,Fayette,Pennsylvania,42051,307,4
+2020-07-25,Forest,Pennsylvania,42053,7,0
+2020-07-25,Franklin,Pennsylvania,42055,1186,46
+2020-07-25,Fulton,Pennsylvania,42057,21,2
+2020-07-25,Greene,Pennsylvania,42059,97,0
+2020-07-25,Huntingdon,Pennsylvania,42061,279,4
+2020-07-25,Indiana,Pennsylvania,42063,206,6
+2020-07-25,Jefferson,Pennsylvania,42065,49,1
+2020-07-25,Juniata,Pennsylvania,42067,122,6
+2020-07-25,Lackawanna,Pennsylvania,42069,1851,212
+2020-07-25,Lancaster,Pennsylvania,42071,5263,401
+2020-07-25,Lawrence,Pennsylvania,42073,280,11
+2020-07-25,Lebanon,Pennsylvania,42075,1541,54
+2020-07-25,Lehigh,Pennsylvania,42077,4667,334
+2020-07-25,Luzerne,Pennsylvania,42079,3130,183
+2020-07-25,Lycoming,Pennsylvania,42081,292,20
+2020-07-25,McKean,Pennsylvania,42083,26,1
+2020-07-25,Mercer,Pennsylvania,42085,293,9
+2020-07-25,Mifflin,Pennsylvania,42087,89,1
+2020-07-25,Monroe,Pennsylvania,42089,1551,120
+2020-07-25,Montgomery,Pennsylvania,42091,9444,844
+2020-07-25,Montour,Pennsylvania,42093,89,3
+2020-07-25,Northampton,Pennsylvania,42095,3727,289
+2020-07-25,Northumberland,Pennsylvania,42097,379,11
+2020-07-25,Perry,Pennsylvania,42099,106,5
+2020-07-25,Philadelphia,Pennsylvania,42101,29303,1676
+2020-07-25,Pike,Pennsylvania,42103,521,21
+2020-07-25,Potter,Pennsylvania,42105,20,0
+2020-07-25,Schuylkill,Pennsylvania,42107,843,49
+2020-07-25,Snyder,Pennsylvania,42109,87,2
+2020-07-25,Somerset,Pennsylvania,42111,106,2
+2020-07-25,Sullivan,Pennsylvania,42113,10,0
+2020-07-25,Susquehanna,Pennsylvania,42115,204,26
+2020-07-25,Tioga,Pennsylvania,42117,35,2
+2020-07-25,Union,Pennsylvania,42119,119,2
+2020-07-25,Venango,Pennsylvania,42121,53,0
+2020-07-25,Warren,Pennsylvania,42123,14,1
+2020-07-25,Washington,Pennsylvania,42125,654,10
+2020-07-25,Wayne,Pennsylvania,42127,152,8
+2020-07-25,Westmoreland,Pennsylvania,42129,1271,43
+2020-07-25,Wyoming,Pennsylvania,42131,56,7
+2020-07-25,York,Pennsylvania,42133,2152,80
+2020-07-25,Adjuntas,Puerto Rico,72001,74,0
+2020-07-25,Aguada,Puerto Rico,72003,89,0
+2020-07-25,Aguadilla,Puerto Rico,72005,142,0
+2020-07-25,Aguas Buenas,Puerto Rico,72007,91,0
+2020-07-25,Aibonito,Puerto Rico,72009,67,0
+2020-07-25,Anasco,Puerto Rico,72011,99,0
+2020-07-25,Arecibo,Puerto Rico,72013,224,0
+2020-07-25,Arroyo,Puerto Rico,72015,68,0
+2020-07-25,Barceloneta,Puerto Rico,72017,51,0
+2020-07-25,Barranquitas,Puerto Rico,72019,154,0
+2020-07-25,Bayamon,Puerto Rico,72021,912,0
+2020-07-25,Cabo Rojo,Puerto Rico,72023,152,0
+2020-07-25,Caguas,Puerto Rico,72025,486,0
+2020-07-25,Camuy,Puerto Rico,72027,78,0
+2020-07-25,Canovanas,Puerto Rico,72029,247,0
+2020-07-25,Carolina,Puerto Rico,72031,740,0
+2020-07-25,Catano,Puerto Rico,72033,119,0
+2020-07-25,Cayey,Puerto Rico,72035,152,0
+2020-07-25,Ceiba,Puerto Rico,72037,48,0
+2020-07-25,Ciales,Puerto Rico,72039,102,0
+2020-07-25,Cidra,Puerto Rico,72041,119,0
+2020-07-25,Coamo,Puerto Rico,72043,89,0
+2020-07-25,Comerio,Puerto Rico,72045,92,0
+2020-07-25,Corozal,Puerto Rico,72047,107,0
+2020-07-25,Culebra,Puerto Rico,72049,14,0
+2020-07-25,Dorado,Puerto Rico,72051,203,0
+2020-07-25,Fajardo,Puerto Rico,72053,154,0
+2020-07-25,Florida,Puerto Rico,72054,103,0
+2020-07-25,Guanica,Puerto Rico,72055,52,0
+2020-07-25,Guayama,Puerto Rico,72057,114,0
+2020-07-25,Guayanilla,Puerto Rico,72059,97,0
+2020-07-25,Guaynabo,Puerto Rico,72061,605,0
+2020-07-25,Gurabo,Puerto Rico,72063,172,0
+2020-07-25,Hatillo,Puerto Rico,72065,72,0
+2020-07-25,Hormigueros,Puerto Rico,72067,73,0
+2020-07-25,Humacao,Puerto Rico,72069,136,0
+2020-07-25,Isabela,Puerto Rico,72071,97,0
+2020-07-25,Jayuya,Puerto Rico,72073,172,0
+2020-07-25,Juana Diaz,Puerto Rico,72075,152,0
+2020-07-25,Juncos,Puerto Rico,72077,83,0
+2020-07-25,Lajas,Puerto Rico,72079,63,0
+2020-07-25,Lares,Puerto Rico,72081,111,0
+2020-07-25,Las Marias,Puerto Rico,72083,42,0
+2020-07-25,Las Piedras,Puerto Rico,72085,116,0
+2020-07-25,Loiza,Puerto Rico,72087,69,0
+2020-07-25,Luquillo,Puerto Rico,72089,81,0
+2020-07-25,Manati,Puerto Rico,72091,134,0
+2020-07-25,Maricao,Puerto Rico,72093,38,0
+2020-07-25,Maunabo,Puerto Rico,72095,44,0
+2020-07-25,Mayaguez,Puerto Rico,72097,370,0
+2020-07-25,Moca,Puerto Rico,72099,122,0
+2020-07-25,Morovis,Puerto Rico,72101,161,0
+2020-07-25,Naguabo,Puerto Rico,72103,69,0
+2020-07-25,Naranjito,Puerto Rico,72105,151,0
+2020-07-25,Orocovis,Puerto Rico,72107,143,0
+2020-07-25,Patillas,Puerto Rico,72109,85,0
+2020-07-25,Penuelas,Puerto Rico,72111,50,0
+2020-07-25,Ponce,Puerto Rico,72113,360,0
+2020-07-25,Quebradillas,Puerto Rico,72115,56,0
+2020-07-25,Rincon,Puerto Rico,72117,76,0
+2020-07-25,Rio Grande,Puerto Rico,72119,190,0
+2020-07-25,Sabana Grande,Puerto Rico,72121,98,0
+2020-07-25,Salinas,Puerto Rico,72123,129,0
+2020-07-25,San German,Puerto Rico,72125,116,0
+2020-07-25,San Juan,Puerto Rico,72127,1923,0
+2020-07-25,San Lorenzo,Puerto Rico,72129,110,0
+2020-07-25,San Sebastian,Puerto Rico,72131,151,0
+2020-07-25,Santa Isabel,Puerto Rico,72133,78,0
+2020-07-25,Toa Alta,Puerto Rico,72135,335,0
+2020-07-25,Toa Baja,Puerto Rico,72137,316,0
+2020-07-25,Trujillo Alto,Puerto Rico,72139,324,0
+2020-07-25,Unknown,Puerto Rico,,833,0
+2020-07-25,Utuado,Puerto Rico,72141,51,0
+2020-07-25,Vega Alta,Puerto Rico,72143,145,0
+2020-07-25,Vega Baja,Puerto Rico,72145,250,0
+2020-07-25,Vieques,Puerto Rico,72147,31,0
+2020-07-25,Villalba,Puerto Rico,72149,69,0
+2020-07-25,Yabucoa,Puerto Rico,72151,74,0
+2020-07-25,Yauco,Puerto Rico,72153,175,0
+2020-07-25,Bristol,Rhode Island,44001,290,15
+2020-07-25,Kent,Rhode Island,44003,1351,101
+2020-07-25,Newport,Rhode Island,44005,365,6
+2020-07-25,Providence,Rhode Island,44007,14033,801
+2020-07-25,Unknown,Rhode Island,,1611,15
+2020-07-25,Washington,Rhode Island,44009,574,64
+2020-07-25,Abbeville,South Carolina,45001,264,4
+2020-07-25,Aiken,South Carolina,45003,1199,23
+2020-07-25,Allendale,South Carolina,45005,139,3
+2020-07-25,Anderson,South Carolina,45007,1658,35
+2020-07-25,Bamberg,South Carolina,45009,358,6
+2020-07-25,Barnwell,South Carolina,45011,269,2
+2020-07-25,Beaufort,South Carolina,45013,2896,34
+2020-07-25,Berkeley,South Carolina,45015,3412,53
+2020-07-25,Calhoun,South Carolina,45017,259,3
+2020-07-25,Charleston,South Carolina,45019,10503,132
+2020-07-25,Cherokee,South Carolina,45021,468,19
+2020-07-25,Chester,South Carolina,45023,439,7
+2020-07-25,Chesterfield,South Carolina,45025,606,19
+2020-07-25,Clarendon,South Carolina,45027,663,49
+2020-07-25,Colleton,South Carolina,45029,657,29
+2020-07-25,Darlington,South Carolina,45031,847,26
+2020-07-25,Dillon,South Carolina,45033,486,21
+2020-07-25,Dorchester,South Carolina,45035,2417,32
+2020-07-25,Edgefield,South Carolina,45037,218,6
+2020-07-25,Fairfield,South Carolina,45039,474,23
+2020-07-25,Florence,South Carolina,45041,2430,79
+2020-07-25,Georgetown,South Carolina,45043,1090,16
+2020-07-25,Greenville,South Carolina,45045,9266,155
+2020-07-25,Greenwood,South Carolina,45047,1115,14
+2020-07-25,Hampton,South Carolina,45049,249,6
+2020-07-25,Horry,South Carolina,45051,7369,105
+2020-07-25,Jasper,South Carolina,45053,407,7
+2020-07-25,Kershaw,South Carolina,45055,1127,21
+2020-07-25,Lancaster,South Carolina,45057,892,20
+2020-07-25,Laurens,South Carolina,45059,1094,28
+2020-07-25,Lee,South Carolina,45061,427,25
+2020-07-25,Lexington,South Carolina,45063,4154,85
+2020-07-25,Marion,South Carolina,45067,444,12
+2020-07-25,Marlboro,South Carolina,45069,389,4
+2020-07-25,McCormick,South Carolina,45065,93,2
+2020-07-25,Newberry,South Carolina,45071,653,6
+2020-07-25,Oconee,South Carolina,45073,633,3
+2020-07-25,Orangeburg,South Carolina,45075,1851,47
+2020-07-25,Pickens,South Carolina,45077,1540,16
+2020-07-25,Richland,South Carolina,45079,6938,126
+2020-07-25,Saluda,South Carolina,45081,371,6
+2020-07-25,Spartanburg,South Carolina,45083,3405,74
+2020-07-25,Sumter,South Carolina,45085,2056,40
+2020-07-25,Union,South Carolina,45087,262,1
+2020-07-25,Williamsburg,South Carolina,45089,729,18
+2020-07-25,York,South Carolina,45091,2792,23
+2020-07-25,Aurora,South Dakota,46003,37,0
+2020-07-25,Beadle,South Dakota,46005,580,9
+2020-07-25,Bennett,South Dakota,46007,5,0
+2020-07-25,Bon Homme,South Dakota,46009,13,0
+2020-07-25,Brookings,South Dakota,46011,108,0
+2020-07-25,Brown,South Dakota,46013,374,2
+2020-07-25,Brule,South Dakota,46015,38,0
+2020-07-25,Buffalo,South Dakota,46017,105,3
+2020-07-25,Butte,South Dakota,46019,8,1
+2020-07-25,Campbell,South Dakota,46021,1,0
+2020-07-25,Charles Mix,South Dakota,46023,99,0
+2020-07-25,Clark,South Dakota,46025,16,0
+2020-07-25,Clay,South Dakota,46027,104,0
+2020-07-25,Codington,South Dakota,46029,109,0
+2020-07-25,Corson,South Dakota,46031,24,0
+2020-07-25,Custer,South Dakota,46033,11,0
+2020-07-25,Davison,South Dakota,46035,78,1
+2020-07-25,Day,South Dakota,46037,21,0
+2020-07-25,Deuel,South Dakota,46039,7,0
+2020-07-25,Dewey,South Dakota,46041,53,0
+2020-07-25,Douglas,South Dakota,46043,16,0
+2020-07-25,Edmunds,South Dakota,46045,10,0
+2020-07-25,Fall River,South Dakota,46047,14,0
+2020-07-25,Faulk,South Dakota,46049,26,1
+2020-07-25,Grant,South Dakota,46051,18,0
+2020-07-25,Gregory,South Dakota,46053,6,0
+2020-07-25,Haakon,South Dakota,46055,1,0
+2020-07-25,Hamlin,South Dakota,46057,14,0
+2020-07-25,Hand,South Dakota,46059,7,0
+2020-07-25,Hanson,South Dakota,46061,16,0
+2020-07-25,Hughes,South Dakota,46065,82,2
+2020-07-25,Hutchinson,South Dakota,46067,23,0
+2020-07-25,Hyde,South Dakota,46069,3,0
+2020-07-25,Jackson,South Dakota,46071,7,1
+2020-07-25,Jerauld,South Dakota,46073,39,1
+2020-07-25,Jones,South Dakota,46075,1,0
+2020-07-25,Kingsbury,South Dakota,46077,10,0
+2020-07-25,Lake,South Dakota,46079,63,2
+2020-07-25,Lawrence,South Dakota,46081,25,0
+2020-07-25,Lincoln,South Dakota,46083,467,1
+2020-07-25,Lyman,South Dakota,46085,84,1
+2020-07-25,Marshall,South Dakota,46091,8,0
+2020-07-25,McCook,South Dakota,46087,23,1
+2020-07-25,McPherson,South Dakota,46089,6,0
+2020-07-25,Meade,South Dakota,46093,63,1
+2020-07-25,Mellette,South Dakota,46095,21,0
+2020-07-25,Miner,South Dakota,46097,11,0
+2020-07-25,Minnehaha,South Dakota,46099,3983,62
+2020-07-25,Moody,South Dakota,46101,27,0
+2020-07-25,Oglala Lakota,South Dakota,46102,132,1
+2020-07-25,Pennington,South Dakota,46103,774,25
+2020-07-25,Perkins,South Dakota,46105,4,0
+2020-07-25,Potter,South Dakota,46107,1,0
+2020-07-25,Roberts,South Dakota,46109,63,0
+2020-07-25,Sanborn,South Dakota,46111,12,0
+2020-07-25,Spink,South Dakota,46115,18,0
+2020-07-25,Stanley,South Dakota,46117,14,0
+2020-07-25,Sully,South Dakota,46119,1,0
+2020-07-25,Todd,South Dakota,46121,66,3
+2020-07-25,Tripp,South Dakota,46123,20,0
+2020-07-25,Turner,South Dakota,46125,42,0
+2020-07-25,Union,South Dakota,46127,172,2
+2020-07-25,Walworth,South Dakota,46129,18,0
+2020-07-25,Yankton,South Dakota,46135,96,2
+2020-07-25,Ziebach,South Dakota,46137,7,0
+2020-07-25,Anderson,Tennessee,47001,396,4
+2020-07-25,Bedford,Tennessee,47003,741,10
+2020-07-25,Benton,Tennessee,47005,44,1
+2020-07-25,Bledsoe,Tennessee,47007,647,1
+2020-07-25,Blount,Tennessee,47009,756,7
+2020-07-25,Bradley,Tennessee,47011,1390,9
+2020-07-25,Campbell,Tennessee,47013,132,1
+2020-07-25,Cannon,Tennessee,47015,88,0
+2020-07-25,Carroll,Tennessee,47017,121,2
+2020-07-25,Carter,Tennessee,47019,274,3
+2020-07-25,Cheatham,Tennessee,47021,418,4
+2020-07-25,Chester,Tennessee,47023,136,0
+2020-07-25,Claiborne,Tennessee,47025,152,0
+2020-07-25,Clay,Tennessee,47027,41,0
+2020-07-25,Cocke,Tennessee,47029,265,1
+2020-07-25,Coffee,Tennessee,47031,261,0
+2020-07-25,Crockett,Tennessee,47033,141,3
+2020-07-25,Cumberland,Tennessee,47035,290,6
+2020-07-25,Davidson,Tennessee,47037,19374,186
+2020-07-25,DeKalb,Tennessee,47041,198,1
+2020-07-25,Decatur,Tennessee,47039,89,0
+2020-07-25,Dickson,Tennessee,47043,471,0
+2020-07-25,Dyer,Tennessee,47045,424,5
+2020-07-25,Fayette,Tennessee,47047,519,8
+2020-07-25,Fentress,Tennessee,47049,49,0
+2020-07-25,Franklin,Tennessee,47051,188,3
+2020-07-25,Gibson,Tennessee,47053,379,1
+2020-07-25,Giles,Tennessee,47055,256,5
+2020-07-25,Grainger,Tennessee,47057,98,0
+2020-07-25,Greene,Tennessee,47059,261,5
+2020-07-25,Grundy,Tennessee,47061,78,2
+2020-07-25,Hamblen,Tennessee,47063,852,9
+2020-07-25,Hamilton,Tennessee,47065,4900,44
+2020-07-25,Hancock,Tennessee,47067,56,0
+2020-07-25,Hardeman,Tennessee,47069,647,11
+2020-07-25,Hardin,Tennessee,47071,282,7
+2020-07-25,Hawkins,Tennessee,47073,187,2
+2020-07-25,Haywood,Tennessee,47075,236,4
+2020-07-25,Henderson,Tennessee,47077,286,0
+2020-07-25,Henry,Tennessee,47079,95,1
+2020-07-25,Hickman,Tennessee,47081,167,0
+2020-07-25,Houston,Tennessee,47083,39,0
+2020-07-25,Humphreys,Tennessee,47085,71,3
+2020-07-25,Jackson,Tennessee,47087,93,0
+2020-07-25,Jefferson,Tennessee,47089,344,2
+2020-07-25,Johnson,Tennessee,47091,59,0
+2020-07-25,Knox,Tennessee,47093,3091,23
+2020-07-25,Lake,Tennessee,47095,706,0
+2020-07-25,Lauderdale,Tennessee,47097,313,6
+2020-07-25,Lawrence,Tennessee,47099,353,6
+2020-07-25,Lewis,Tennessee,47101,29,1
+2020-07-25,Lincoln,Tennessee,47103,181,1
+2020-07-25,Loudon,Tennessee,47105,503,3
+2020-07-25,Macon,Tennessee,47111,761,11
+2020-07-25,Madison,Tennessee,47113,585,10
+2020-07-25,Marion,Tennessee,47115,153,4
+2020-07-25,Marshall,Tennessee,47117,193,2
+2020-07-25,Maury,Tennessee,47119,821,4
+2020-07-25,McMinn,Tennessee,47107,413,20
+2020-07-25,McNairy,Tennessee,47109,216,2
+2020-07-25,Meigs,Tennessee,47121,66,0
+2020-07-25,Monroe,Tennessee,47123,252,7
+2020-07-25,Montgomery,Tennessee,47125,1350,9
+2020-07-25,Moore,Tennessee,47127,35,0
+2020-07-25,Morgan,Tennessee,47129,51,1
+2020-07-25,Obion,Tennessee,47131,245,4
+2020-07-25,Overton,Tennessee,47133,106,1
+2020-07-25,Perry,Tennessee,47135,58,0
+2020-07-25,Pickett,Tennessee,47137,17,1
+2020-07-25,Polk,Tennessee,47139,93,0
+2020-07-25,Putnam,Tennessee,47141,1349,11
+2020-07-25,Rhea,Tennessee,47143,434,1
+2020-07-25,Roane,Tennessee,47145,208,1
+2020-07-25,Robertson,Tennessee,47147,1236,16
+2020-07-25,Rutherford,Tennessee,47149,5202,47
+2020-07-25,Scott,Tennessee,47151,46,0
+2020-07-25,Sequatchie,Tennessee,47153,72,0
+2020-07-25,Sevier,Tennessee,47155,1330,4
+2020-07-25,Shelby,Tennessee,47157,18488,265
+2020-07-25,Smith,Tennessee,47159,278,2
+2020-07-25,Stewart,Tennessee,47161,54,0
+2020-07-25,Sullivan,Tennessee,47163,539,6
+2020-07-25,Sumner,Tennessee,47165,2833,67
+2020-07-25,Tipton,Tennessee,47167,912,8
+2020-07-25,Trousdale,Tennessee,47169,1559,6
+2020-07-25,Unicoi,Tennessee,47171,92,0
+2020-07-25,Union,Tennessee,47173,76,0
+2020-07-25,Unknown,Tennessee,,175,3
+2020-07-25,Van Buren,Tennessee,47175,21,0
+2020-07-25,Warren,Tennessee,47177,282,3
+2020-07-25,Washington,Tennessee,47179,626,0
+2020-07-25,Wayne,Tennessee,47181,178,1
+2020-07-25,Weakley,Tennessee,47183,133,1
+2020-07-25,White,Tennessee,47185,152,3
+2020-07-25,Williamson,Tennessee,47187,2812,21
+2020-07-25,Wilson,Tennessee,47189,1790,20
+2020-07-25,Anderson,Texas,48001,2140,4
+2020-07-25,Andrews,Texas,48003,225,4
+2020-07-25,Angelina,Texas,48005,1405,14
+2020-07-25,Aransas,Texas,48007,123,0
+2020-07-25,Archer,Texas,48009,15,0
+2020-07-25,Armstrong,Texas,48011,4,0
+2020-07-25,Atascosa,Texas,48013,393,3
+2020-07-25,Austin,Texas,48015,181,0
+2020-07-25,Bailey,Texas,48017,132,3
+2020-07-25,Bandera,Texas,48019,71,0
+2020-07-25,Bastrop,Texas,48021,1190,12
+2020-07-25,Baylor,Texas,48023,5,0
+2020-07-25,Bee,Texas,48025,369,1
+2020-07-25,Bell,Texas,48027,2990,18
+2020-07-25,Bexar,Texas,48029,35702,322
+2020-07-25,Blanco,Texas,48031,85,1
+2020-07-25,Bosque,Texas,48035,103,0
+2020-07-25,Bowie,Texas,48037,689,35
+2020-07-25,Brazoria,Texas,48039,5299,37
+2020-07-25,Brazos,Texas,48041,3688,43
+2020-07-25,Brewster,Texas,48043,176,1
+2020-07-25,Briscoe,Texas,48045,10,1
+2020-07-25,Brooks,Texas,48047,65,1
+2020-07-25,Brown,Texas,48049,311,16
+2020-07-25,Burleson,Texas,48051,217,0
+2020-07-25,Burnet,Texas,48053,395,7
+2020-07-25,Caldwell,Texas,48055,993,7
+2020-07-25,Calhoun,Texas,48057,393,3
+2020-07-25,Callahan,Texas,48059,38,2
+2020-07-25,Cameron,Texas,48061,7846,177
+2020-07-25,Camp,Texas,48063,184,2
+2020-07-25,Carson,Texas,48065,10,0
+2020-07-25,Cass,Texas,48067,134,4
+2020-07-25,Castro,Texas,48069,147,1
+2020-07-25,Chambers,Texas,48071,812,5
+2020-07-25,Cherokee,Texas,48073,638,2
+2020-07-25,Childress,Texas,48075,20,0
+2020-07-25,Clay,Texas,48077,25,0
+2020-07-25,Cochran,Texas,48079,11,0
+2020-07-25,Coke,Texas,48081,32,1
+2020-07-25,Coleman,Texas,48083,9,0
+2020-07-25,Collin,Texas,48085,5762,74
+2020-07-25,Collingsworth,Texas,48087,6,0
+2020-07-25,Colorado,Texas,48089,225,0
+2020-07-25,Comal,Texas,48091,1968,45
+2020-07-25,Comanche,Texas,48093,82,1
+2020-07-25,Concho,Texas,48095,22,0
+2020-07-25,Cooke,Texas,48097,172,0
+2020-07-25,Coryell,Texas,48099,525,3
+2020-07-25,Cottle,Texas,48101,7,1
+2020-07-25,Crane,Texas,48103,65,10
+2020-07-25,Crockett,Texas,48105,135,4
+2020-07-25,Crosby,Texas,48107,46,3
+2020-07-25,Culberson,Texas,48109,14,1
+2020-07-25,Dallam,Texas,48111,173,2
+2020-07-25,Dallas,Texas,48113,46013,604
+2020-07-25,Dawson,Texas,48115,122,1
+2020-07-25,DeWitt,Texas,48123,501,14
+2020-07-25,Deaf Smith,Texas,48117,510,19
+2020-07-25,Delta,Texas,48119,12,0
+2020-07-25,Denton,Texas,48121,6043,49
+2020-07-25,Dickens,Texas,48125,4,0
+2020-07-25,Dimmit,Texas,48127,87,0
+2020-07-25,Donley,Texas,48129,38,0
+2020-07-25,Duval,Texas,48131,119,0
+2020-07-25,Eastland,Texas,48133,39,0
+2020-07-25,Ector,Texas,48135,2819,35
+2020-07-25,Edwards,Texas,48137,22,0
+2020-07-25,El Paso,Texas,48141,12971,221
+2020-07-25,Ellis,Texas,48139,2268,21
+2020-07-25,Erath,Texas,48143,355,1
+2020-07-25,Falls,Texas,48145,103,0
+2020-07-25,Fannin,Texas,48147,186,8
+2020-07-25,Fayette,Texas,48149,281,5
+2020-07-25,Fisher,Texas,48151,23,1
+2020-07-25,Floyd,Texas,48153,65,4
+2020-07-25,Foard,Texas,48155,2,0
+2020-07-25,Fort Bend,Texas,48157,6530,90
+2020-07-25,Franklin,Texas,48159,78,1
+2020-07-25,Freestone,Texas,48161,128,0
+2020-07-25,Frio,Texas,48163,425,2
+2020-07-25,Gaines,Texas,48165,86,0
+2020-07-25,Galveston,Texas,48167,8046,68
+2020-07-25,Garza,Texas,48169,94,2
+2020-07-25,Gillespie,Texas,48171,156,0
+2020-07-25,Glasscock,Texas,48173,6,0
+2020-07-25,Goliad,Texas,48175,68,1
+2020-07-25,Gonzales,Texas,48177,569,6
+2020-07-25,Gray,Texas,48179,150,4
+2020-07-25,Grayson,Texas,48181,918,8
+2020-07-25,Gregg,Texas,48183,1207,17
+2020-07-25,Grimes,Texas,48185,801,2
+2020-07-25,Guadalupe,Texas,48187,1519,6
+2020-07-25,Hale,Texas,48189,1061,23
+2020-07-25,Hall,Texas,48191,6,1
+2020-07-25,Hamilton,Texas,48193,53,2
+2020-07-25,Hansford,Texas,48195,47,2
+2020-07-25,Hardeman,Texas,48197,11,0
+2020-07-25,Hardin,Texas,48199,682,6
+2020-07-25,Harris,Texas,48201,64113,637
+2020-07-25,Harrison,Texas,48203,562,34
+2020-07-25,Hartley,Texas,48205,81,2
+2020-07-25,Haskell,Texas,48207,30,0
+2020-07-25,Hays,Texas,48209,4133,24
+2020-07-25,Hemphill,Texas,48211,34,0
+2020-07-25,Henderson,Texas,48213,500,7
+2020-07-25,Hidalgo,Texas,48215,15153,456
+2020-07-25,Hill,Texas,48217,264,2
+2020-07-25,Hockley,Texas,48219,160,4
+2020-07-25,Hood,Texas,48221,308,5
+2020-07-25,Hopkins,Texas,48223,149,0
+2020-07-25,Houston,Texas,48225,236,0
+2020-07-25,Howard,Texas,48227,126,3
+2020-07-25,Hudspeth,Texas,48229,19,0
+2020-07-25,Hunt,Texas,48231,937,8
+2020-07-25,Hutchinson,Texas,48233,105,1
+2020-07-25,Irion,Texas,48235,7,0
+2020-07-25,Jack,Texas,48237,24,0
+2020-07-25,Jackson,Texas,48239,202,1
+2020-07-25,Jasper,Texas,48241,254,2
+2020-07-25,Jeff Davis,Texas,48243,8,0
+2020-07-25,Jefferson,Texas,48245,4880,57
+2020-07-25,Jim Hogg,Texas,48247,46,0
+2020-07-25,Jim Wells,Texas,48249,507,0
+2020-07-25,Johnson,Texas,48251,1234,7
+2020-07-25,Jones,Texas,48253,621,0
+2020-07-25,Karnes,Texas,48255,206,0
+2020-07-25,Kaufman,Texas,48257,1440,5
+2020-07-25,Kendall,Texas,48259,137,0
+2020-07-25,Kenedy,Texas,48261,4,0
+2020-07-25,Kent,Texas,48263,2,0
+2020-07-25,Kerr,Texas,48265,324,1
+2020-07-25,Kimble,Texas,48267,13,0
+2020-07-25,Kinney,Texas,48271,14,0
+2020-07-25,Kleberg,Texas,48273,300,2
+2020-07-25,Knox,Texas,48275,44,0
+2020-07-25,La Salle,Texas,48283,351,0
+2020-07-25,Lamar,Texas,48277,537,15
+2020-07-25,Lamb,Texas,48279,175,7
+2020-07-25,Lampasas,Texas,48281,68,0
+2020-07-25,Lavaca,Texas,48285,545,1
+2020-07-25,Lee,Texas,48287,143,3
+2020-07-25,Leon,Texas,48289,128,1
+2020-07-25,Liberty,Texas,48291,733,3
+2020-07-25,Limestone,Texas,48293,144,2
+2020-07-25,Lipscomb,Texas,48295,15,0
+2020-07-25,Live Oak,Texas,48297,115,1
+2020-07-25,Llano,Texas,48299,81,0
+2020-07-25,Lubbock,Texas,48303,5014,68
+2020-07-25,Lynn,Texas,48305,59,3
+2020-07-25,Madison,Texas,48313,240,0
+2020-07-25,Marion,Texas,48315,116,7
+2020-07-25,Martin,Texas,48317,42,1
+2020-07-25,Mason,Texas,48319,38,0
+2020-07-25,Matagorda,Texas,48321,566,5
+2020-07-25,Maverick,Texas,48323,1390,23
+2020-07-25,McCulloch,Texas,48307,35,0
+2020-07-25,McLennan,Texas,48309,3957,35
+2020-07-25,McMullen,Texas,48311,6,0
+2020-07-25,Medina,Texas,48325,546,8
+2020-07-25,Menard,Texas,48327,16,0
+2020-07-25,Midland,Texas,48329,1805,33
+2020-07-25,Milam,Texas,48331,273,2
+2020-07-25,Mills,Texas,48333,13,0
+2020-07-25,Mitchell,Texas,48335,41,0
+2020-07-25,Montague,Texas,48337,45,1
+2020-07-25,Montgomery,Texas,48339,5597,53
+2020-07-25,Moore,Texas,48341,978,15
+2020-07-25,Morris,Texas,48343,77,0
+2020-07-25,Motley,Texas,48345,4,0
+2020-07-25,Nacogdoches,Texas,48347,866,37
+2020-07-25,Navarro,Texas,48349,772,11
+2020-07-25,Newton,Texas,48351,77,0
+2020-07-25,Nolan,Texas,48353,122,2
+2020-07-25,Nueces,Texas,48355,10351,137
+2020-07-25,Ochiltree,Texas,48357,75,2
+2020-07-25,Oldham,Texas,48359,12,1
+2020-07-25,Orange,Texas,48361,827,8
+2020-07-25,Palo Pinto,Texas,48363,142,2
+2020-07-25,Panola,Texas,48365,255,24
+2020-07-25,Parker,Texas,48367,824,2
+2020-07-25,Parmer,Texas,48369,289,8
+2020-07-25,Pecos,Texas,48371,194,1
+2020-07-25,Polk,Texas,48373,601,1
+2020-07-25,Potter,Texas,48375,3353,42
+2020-07-25,Presidio,Texas,48377,35,0
+2020-07-25,Rains,Texas,48379,37,1
+2020-07-25,Randall,Texas,48381,1442,17
+2020-07-25,Reagan,Texas,48383,51,5
+2020-07-25,Real,Texas,48385,71,0
+2020-07-25,Red River,Texas,48387,131,12
+2020-07-25,Reeves,Texas,48389,106,2
+2020-07-25,Refugio,Texas,48391,138,0
+2020-07-25,Roberts,Texas,48393,6,0
+2020-07-25,Robertson,Texas,48395,195,0
+2020-07-25,Rockwall,Texas,48397,673,17
+2020-07-25,Runnels,Texas,48399,78,2
+2020-07-25,Rusk,Texas,48401,294,3
+2020-07-25,Sabine,Texas,48403,36,1
+2020-07-25,San Augustine,Texas,48405,147,12
+2020-07-25,San Jacinto,Texas,48407,135,2
+2020-07-25,San Patricio,Texas,48409,666,0
+2020-07-25,San Saba,Texas,48411,19,0
+2020-07-25,Schleicher,Texas,48413,33,1
+2020-07-25,Scurry,Texas,48415,387,1
+2020-07-25,Shackelford,Texas,48417,16,0
+2020-07-25,Shelby,Texas,48419,348,14
+2020-07-25,Sherman,Texas,48421,35,0
+2020-07-25,Smith,Texas,48423,2107,14
+2020-07-25,Somervell,Texas,48425,46,0
+2020-07-25,Starr,Texas,48427,1559,22
+2020-07-25,Stephens,Texas,48429,23,0
+2020-07-25,Stonewall,Texas,48433,4,0
+2020-07-25,Sutton,Texas,48435,54,0
+2020-07-25,Swisher,Texas,48437,72,1
+2020-07-25,Tarrant,Texas,48439,25146,344
+2020-07-25,Taylor,Texas,48441,1080,14
+2020-07-25,Terrell,Texas,48443,2,0
+2020-07-25,Terry,Texas,48445,86,0
+2020-07-25,Throckmorton,Texas,48447,2,0
+2020-07-25,Titus,Texas,48449,1178,6
+2020-07-25,Tom Green,Texas,48451,1922,13
+2020-07-25,Travis,Texas,48453,19401,241
+2020-07-25,Trinity,Texas,48455,117,0
+2020-07-25,Tyler,Texas,48457,94,0
+2020-07-25,Upshur,Texas,48459,158,1
+2020-07-25,Upton,Texas,48461,13,0
+2020-07-25,Uvalde,Texas,48463,401,5
+2020-07-25,Val Verde,Texas,48465,1167,8
+2020-07-25,Van Zandt,Texas,48467,297,4
+2020-07-25,Victoria,Texas,48469,2870,27
+2020-07-25,Walker,Texas,48471,2697,28
+2020-07-25,Waller,Texas,48473,348,0
+2020-07-25,Ward,Texas,48475,74,2
+2020-07-25,Washington,Texas,48477,441,34
+2020-07-25,Webb,Texas,48479,5042,99
+2020-07-25,Wharton,Texas,48481,499,1
+2020-07-25,Wheeler,Texas,48483,31,0
+2020-07-25,Wichita,Texas,48485,808,9
+2020-07-25,Wilbarger,Texas,48487,35,0
+2020-07-25,Willacy,Texas,48489,557,4
+2020-07-25,Williamson,Texas,48491,5246,92
+2020-07-25,Wilson,Texas,48493,403,6
+2020-07-25,Winkler,Texas,48495,65,0
+2020-07-25,Wise,Texas,48497,272,5
+2020-07-25,Wood,Texas,48499,241,6
+2020-07-25,Yoakum,Texas,48501,63,1
+2020-07-25,Young,Texas,48503,101,1
+2020-07-25,Zapata,Texas,48505,122,1
+2020-07-25,Zavala,Texas,48507,155,5
+2020-07-25,Beaver,Utah,49001,23,0
+2020-07-25,Box Elder,Utah,49003,296,2
+2020-07-25,Cache,Utah,49005,1751,3
+2020-07-25,Carbon,Utah,49007,25,0
+2020-07-25,Davis,Utah,49011,2660,11
+2020-07-25,Duchesne,Utah,49013,57,0
+2020-07-25,Emery,Utah,49015,13,0
+2020-07-25,Garfield,Utah,49017,37,2
+2020-07-25,Grand,Utah,49019,37,0
+2020-07-25,Iron,Utah,49021,464,2
+2020-07-25,Juab,Utah,49023,47,0
+2020-07-25,Kane,Utah,49025,47,0
+2020-07-25,Millard,Utah,49027,103,0
+2020-07-25,Morgan,Utah,49029,41,0
+2020-07-25,Piute,Utah,49031,4,0
+2020-07-25,Rich,Utah,49033,6,0
+2020-07-25,Salt Lake,Utah,49035,18013,159
+2020-07-25,San Juan,Utah,49037,582,19
+2020-07-25,Sanpete,Utah,49039,88,0
+2020-07-25,Sevier,Utah,49041,71,2
+2020-07-25,Summit,Utah,49043,663,1
+2020-07-25,Tooele,Utah,49045,481,0
+2020-07-25,Uintah,Utah,49047,68,0
+2020-07-25,Unknown,Utah,,7,0
+2020-07-25,Utah,Utah,49049,7098,31
+2020-07-25,Wasatch,Utah,49051,512,4
+2020-07-25,Washington,Utah,49053,2151,18
+2020-07-25,Weber,Utah,49057,2278,24
+2020-07-25,Addison,Vermont,50001,71,2
+2020-07-25,Bennington,Vermont,50003,81,1
+2020-07-25,Caledonia,Vermont,50005,25,0
+2020-07-25,Chittenden,Vermont,50007,711,39
+2020-07-25,Essex,Vermont,50009,4,0
+2020-07-25,Franklin,Vermont,50011,114,6
+2020-07-25,Grand Isle,Vermont,50013,13,0
+2020-07-25,Lamoille,Vermont,50015,42,1
+2020-07-25,Orange,Vermont,50017,14,0
+2020-07-25,Orleans,Vermont,50019,14,0
+2020-07-25,Rutland,Vermont,50021,83,1
+2020-07-25,Unknown,Vermont,,7,0
+2020-07-25,Washington,Vermont,50023,47,1
+2020-07-25,Windham,Vermont,50025,101,3
+2020-07-25,Windsor,Vermont,50027,69,2
+2020-07-25,St. Croix,Virgin Islands,78010,223,4
+2020-07-25,St. John,Virgin Islands,78020,15,0
+2020-07-25,St. Thomas,Virgin Islands,78030,114,3
+2020-07-25,Accomack,Virginia,51001,1060,15
+2020-07-25,Albemarle,Virginia,51003,695,10
+2020-07-25,Alexandria city,Virginia,51510,2687,57
+2020-07-25,Alleghany,Virginia,51005,56,2
+2020-07-25,Amelia,Virginia,51007,65,1
+2020-07-25,Amherst,Virginia,51009,76,0
+2020-07-25,Appomattox,Virginia,51011,56,0
+2020-07-25,Arlington,Virginia,51013,2801,135
+2020-07-25,Augusta,Virginia,51015,238,3
+2020-07-25,Bath,Virginia,51017,3,0
+2020-07-25,Bedford,Virginia,51019,224,4
+2020-07-25,Bland,Virginia,51021,7,0
+2020-07-25,Botetourt,Virginia,51023,172,4
+2020-07-25,Bristol city,Virginia,51520,39,0
+2020-07-25,Brunswick,Virginia,51025,172,1
+2020-07-25,Buchanan,Virginia,51027,62,0
+2020-07-25,Buckingham,Virginia,51029,591,6
+2020-07-25,Buena Vista city,Virginia,51530,40,0
+2020-07-25,Campbell,Virginia,51031,101,1
+2020-07-25,Caroline,Virginia,51033,170,4
+2020-07-25,Carroll,Virginia,51035,295,10
+2020-07-25,Charles City,Virginia,51036,45,3
+2020-07-25,Charlotte,Virginia,51037,46,0
+2020-07-25,Charlottesville city,Virginia,51540,412,8
+2020-07-25,Chesapeake city,Virginia,51550,2079,24
+2020-07-25,Chesterfield,Virginia,51041,3702,66
+2020-07-25,Clarke,Virginia,51043,63,0
+2020-07-25,Colonial Heights city,Virginia,51570,171,20
+2020-07-25,Covington city,Virginia,51580,8,0
+2020-07-25,Craig,Virginia,51045,11,0
+2020-07-25,Culpeper,Virginia,51047,916,12
+2020-07-25,Cumberland,Virginia,51049,60,0
+2020-07-25,Danville city,Virginia,51590,241,3
+2020-07-25,Dickenson,Virginia,51051,12,0
+2020-07-25,Dinwiddie,Virginia,51053,175,2
+2020-07-25,Emporia city,Virginia,51595,156,15
+2020-07-25,Essex,Virginia,51057,73,1
+2020-07-25,Fairfax,Virginia,51059,15265,515
+2020-07-25,Fairfax city,Virginia,51600,74,7
+2020-07-25,Falls Church city,Virginia,51610,55,6
+2020-07-25,Fauquier,Virginia,51061,557,8
+2020-07-25,Floyd,Virginia,51063,27,1
+2020-07-25,Fluvanna,Virginia,51065,157,8
+2020-07-25,Franklin,Virginia,51067,138,1
+2020-07-25,Franklin city,Virginia,51620,103,4
+2020-07-25,Frederick,Virginia,51069,634,7
+2020-07-25,Fredericksburg city,Virginia,51630,318,2
+2020-07-25,Galax city,Virginia,51640,317,16
+2020-07-25,Giles,Virginia,51071,18,0
+2020-07-25,Gloucester,Virginia,51073,123,1
+2020-07-25,Goochland,Virginia,51075,144,6
+2020-07-25,Grayson,Virginia,51077,113,4
+2020-07-25,Greene,Virginia,51079,119,2
+2020-07-25,Greensville,Virginia,51081,404,9
+2020-07-25,Halifax,Virginia,51083,118,1
+2020-07-25,Hampton city,Virginia,51650,848,4
+2020-07-25,Hanover,Virginia,51085,557,30
+2020-07-25,Harrisonburg city,Virginia,51660,1021,29
+2020-07-25,Henrico,Virginia,51087,3261,177
+2020-07-25,Henry,Virginia,51089,429,5
+2020-07-25,Highland,Virginia,51091,3,0
+2020-07-25,Hopewell city,Virginia,51670,239,5
+2020-07-25,Isle of Wight,Virginia,51093,306,9
+2020-07-25,James City,Virginia,51095,490,16
+2020-07-25,King George,Virginia,51099,113,4
+2020-07-25,King William,Virginia,51101,70,2
+2020-07-25,King and Queen,Virginia,51097,33,1
+2020-07-25,Lancaster,Virginia,51103,26,0
+2020-07-25,Lee,Virginia,51105,66,0
+2020-07-25,Lexington city,Virginia,51678,28,0
+2020-07-25,Loudoun,Virginia,51107,4796,106
+2020-07-25,Louisa,Virginia,51109,160,2
+2020-07-25,Lunenburg,Virginia,51111,46,0
+2020-07-25,Lynchburg city,Virginia,51680,312,1
+2020-07-25,Madison,Virginia,51113,53,1
+2020-07-25,Manassas Park city,Virginia,51685,482,7
+2020-07-25,Manassas city,Virginia,51683,1561,20
+2020-07-25,Martinsville city,Virginia,51690,149,2
+2020-07-25,Mathews,Virginia,51115,11,0
+2020-07-25,Mecklenburg,Virginia,51117,293,30
+2020-07-25,Middlesex,Virginia,51119,22,1
+2020-07-25,Montgomery,Virginia,51121,239,3
+2020-07-25,Nelson,Virginia,51125,32,0
+2020-07-25,New Kent,Virginia,51127,106,1
+2020-07-25,Newport News city,Virginia,51700,1385,15
+2020-07-25,Norfolk city,Virginia,51710,2661,20
+2020-07-25,Northampton,Virginia,51131,293,28
+2020-07-25,Northumberland,Virginia,51133,56,1
+2020-07-25,Norton city,Virginia,51720,9,0
+2020-07-25,Nottoway,Virginia,51135,159,6
+2020-07-25,Orange,Virginia,51137,192,3
+2020-07-25,Page,Virginia,51139,328,24
+2020-07-25,Patrick,Virginia,51141,89,3
+2020-07-25,Petersburg city,Virginia,51730,390,9
+2020-07-25,Pittsylvania,Virginia,51143,263,2
+2020-07-25,Poquoson city,Virginia,51735,32,0
+2020-07-25,Portsmouth city,Virginia,51740,1225,21
+2020-07-25,Powhatan,Virginia,51145,111,3
+2020-07-25,Prince Edward,Virginia,51147,246,6
+2020-07-25,Prince George,Virginia,51149,304,2
+2020-07-25,Prince William,Virginia,51153,8417,167
+2020-07-25,Pulaski,Virginia,51155,63,2
+2020-07-25,Radford city,Virginia,51750,22,0
+2020-07-25,Rappahannock,Virginia,51157,39,1
+2020-07-25,Richmond,Virginia,51159,320,4
+2020-07-25,Richmond city,Virginia,51760,2695,36
+2020-07-25,Roanoke,Virginia,51161,390,6
+2020-07-25,Roanoke city,Virginia,51770,698,10
+2020-07-25,Rockbridge,Virginia,51163,57,0
+2020-07-25,Rockingham,Virginia,51165,850,16
+2020-07-25,Russell,Virginia,51167,39,1
+2020-07-25,Salem city,Virginia,51775,119,3
+2020-07-25,Scott,Virginia,51169,34,3
+2020-07-25,Shenandoah,Virginia,51171,657,40
+2020-07-25,Smyth,Virginia,51173,88,2
+2020-07-25,Southampton,Virginia,51175,219,11
+2020-07-25,Spotsylvania,Virginia,51177,1212,32
+2020-07-25,Stafford,Virginia,51179,1176,7
+2020-07-25,Staunton city,Virginia,51790,131,0
+2020-07-25,Suffolk city,Virginia,51800,886,45
+2020-07-25,Surry,Virginia,51181,35,1
+2020-07-25,Sussex,Virginia,51183,256,7
+2020-07-25,Tazewell,Virginia,51185,65,0
+2020-07-25,Virginia Beach city,Virginia,51810,3448,43
+2020-07-25,Warren,Virginia,51187,341,7
+2020-07-25,Washington,Virginia,51191,136,4
+2020-07-25,Waynesboro city,Virginia,51820,163,2
+2020-07-25,Westmoreland,Virginia,51193,188,2
+2020-07-25,Williamsburg city,Virginia,51830,101,6
+2020-07-25,Winchester city,Virginia,51840,385,4
+2020-07-25,Wise,Virginia,51195,62,3
+2020-07-25,Wythe,Virginia,51197,88,3
+2020-07-25,York,Virginia,51199,270,3
+2020-07-25,Adams,Washington,53001,342,1
+2020-07-25,Asotin,Washington,53003,22,2
+2020-07-25,Benton,Washington,53005,3304,107
+2020-07-25,Chelan,Washington,53007,894,10
+2020-07-25,Clallam,Washington,53009,75,0
+2020-07-25,Clark,Washington,53011,1634,39
+2020-07-25,Columbia,Washington,53013,12,0
+2020-07-25,Cowlitz,Washington,53015,390,3
+2020-07-25,Douglas,Washington,53017,619,7
+2020-07-25,Ferry,Washington,53019,7,0
+2020-07-25,Franklin,Washington,53021,3129,45
+2020-07-25,Garfield,Washington,53023,2,0
+2020-07-25,Grant,Washington,53025,1111,9
+2020-07-25,Grays Harbor,Washington,53027,79,2
+2020-07-25,Island,Washington,53029,228,15
+2020-07-25,Jefferson,Washington,53031,50,0
+2020-07-25,King,Washington,53033,14274,663
+2020-07-25,Kitsap,Washington,53035,495,3
+2020-07-25,Kittitas,Washington,53037,314,8
+2020-07-25,Klickitat,Washington,53039,88,3
+2020-07-25,Lewis,Washington,53041,145,3
+2020-07-25,Lincoln,Washington,53043,10,0
+2020-07-25,Mason,Washington,53045,102,1
+2020-07-25,Okanogan,Washington,53047,575,5
+2020-07-25,Pacific,Washington,53049,27,1
+2020-07-25,Pend Oreille,Washington,53051,32,0
+2020-07-25,Pierce,Washington,53053,4790,132
+2020-07-25,San Juan,Washington,53055,28,0
+2020-07-25,Skagit,Washington,53057,736,19
+2020-07-25,Skamania,Washington,53059,45,1
+2020-07-25,Snohomish,Washington,53061,5280,194
+2020-07-25,Spokane,Washington,53063,3197,49
+2020-07-25,Stevens,Washington,53065,55,1
+2020-07-25,Thurston,Washington,53067,567,7
+2020-07-25,Unknown,Washington,,2,2
+2020-07-25,Wahkiakum,Washington,53069,5,0
+2020-07-25,Walla Walla,Washington,53071,346,4
+2020-07-25,Whatcom,Washington,53073,840,48
+2020-07-25,Whitman,Washington,53075,75,1
+2020-07-25,Yakima,Washington,53077,9958,207
+2020-07-25,Barbour,West Virginia,54001,28,1
+2020-07-25,Berkeley,West Virginia,54003,608,10
+2020-07-25,Boone,West Virginia,54005,70,0
+2020-07-25,Braxton,West Virginia,54007,8,0
+2020-07-25,Brooke,West Virginia,54009,48,0
+2020-07-25,Cabell,West Virginia,54011,268,2
+2020-07-25,Calhoun,West Virginia,54013,5,0
+2020-07-25,Clay,West Virginia,54015,17,1
+2020-07-25,Doddridge,West Virginia,54017,1,0
+2020-07-25,Fayette,West Virginia,54019,114,5
+2020-07-25,Gilmer,West Virginia,54021,14,0
+2020-07-25,Grant,West Virginia,54023,39,0
+2020-07-25,Greenbrier,West Virginia,54025,81,3
+2020-07-25,Hampshire,West Virginia,54027,56,1
+2020-07-25,Hancock,West Virginia,54029,83,0
+2020-07-25,Hardy,West Virginia,54031,50,0
+2020-07-25,Harrison,West Virginia,54033,157,1
+2020-07-25,Jackson,West Virginia,54035,153,19
+2020-07-25,Jefferson,West Virginia,54037,280,4
+2020-07-25,Kanawha,West Virginia,54039,667,20
+2020-07-25,Lewis,West Virginia,54041,25,2
+2020-07-25,Lincoln,West Virginia,54043,48,0
+2020-07-25,Logan,West Virginia,54045,76,1
+2020-07-25,Marion,West Virginia,54049,157,2
+2020-07-25,Marshall,West Virginia,54051,97,0
+2020-07-25,Mason,West Virginia,54053,40,1
+2020-07-25,McDowell,West Virginia,54047,15,0
+2020-07-25,Mercer,West Virginia,54055,84,0
+2020-07-25,Mineral,West Virginia,54057,95,3
+2020-07-25,Mingo,West Virginia,54059,87,2
+2020-07-25,Monongalia,West Virginia,54061,816,5
+2020-07-25,Monroe,West Virginia,54063,19,0
+2020-07-25,Morgan,West Virginia,54065,25,0
+2020-07-25,Nicholas,West Virginia,54067,23,1
+2020-07-25,Ohio,West Virginia,54069,228,3
+2020-07-25,Pendleton,West Virginia,54071,28,1
+2020-07-25,Pleasants,West Virginia,54073,7,0
+2020-07-25,Pocahontas,West Virginia,54075,40,0
+2020-07-25,Preston,West Virginia,54077,119,2
+2020-07-25,Putnam,West Virginia,54079,136,0
+2020-07-25,Raleigh,West Virginia,54081,130,0
+2020-07-25,Randolph,West Virginia,54083,205,0
+2020-07-25,Ritchie,West Virginia,54085,3,0
+2020-07-25,Roane,West Virginia,54087,14,1
+2020-07-25,Summers,West Virginia,54089,4,0
+2020-07-25,Taylor,West Virginia,54091,39,0
+2020-07-25,Tucker,West Virginia,54093,8,0
+2020-07-25,Tyler,West Virginia,54095,11,0
+2020-07-25,Upshur,West Virginia,54097,35,0
+2020-07-25,Wayne,West Virginia,54099,175,9
+2020-07-25,Webster,West Virginia,54101,3,0
+2020-07-25,Wetzel,West Virginia,54103,40,0
+2020-07-25,Wirt,West Virginia,54105,6,0
+2020-07-25,Wood,West Virginia,54107,221,3
+2020-07-25,Wyoming,West Virginia,54109,15,0
+2020-07-25,Adams,Wisconsin,55001,60,2
+2020-07-25,Ashland,Wisconsin,55003,14,0
+2020-07-25,Barron,Wisconsin,55005,99,2
+2020-07-25,Bayfield,Wisconsin,55007,16,1
+2020-07-25,Brown,Wisconsin,55009,3735,50
+2020-07-25,Buffalo,Wisconsin,55011,36,2
+2020-07-25,Burnett,Wisconsin,55013,9,1
+2020-07-25,Calumet,Wisconsin,55015,214,2
+2020-07-25,Chippewa,Wisconsin,55017,188,0
+2020-07-25,Clark,Wisconsin,55019,156,7
+2020-07-25,Columbia,Wisconsin,55021,187,1
+2020-07-25,Crawford,Wisconsin,55023,51,0
+2020-07-25,Dane,Wisconsin,55025,3781,33
+2020-07-25,Dodge,Wisconsin,55027,609,5
+2020-07-25,Door,Wisconsin,55029,82,3
+2020-07-25,Douglas,Wisconsin,55031,89,0
+2020-07-25,Dunn,Wisconsin,55033,85,0
+2020-07-25,Eau Claire,Wisconsin,55035,433,3
+2020-07-25,Florence,Wisconsin,55037,5,0
+2020-07-25,Fond du Lac,Wisconsin,55039,480,6
+2020-07-25,Forest,Wisconsin,55041,57,4
+2020-07-25,Grant,Wisconsin,55043,282,14
+2020-07-25,Green,Wisconsin,55045,119,1
+2020-07-25,Green Lake,Wisconsin,55047,49,0
+2020-07-25,Iowa,Wisconsin,55049,56,0
+2020-07-25,Iron,Wisconsin,55051,47,1
+2020-07-25,Jackson,Wisconsin,55053,37,1
+2020-07-25,Jefferson,Wisconsin,55055,504,4
+2020-07-25,Juneau,Wisconsin,55057,98,1
+2020-07-25,Kenosha,Wisconsin,55059,2229,50
+2020-07-25,Kewaunee,Wisconsin,55061,99,1
+2020-07-25,La Crosse,Wisconsin,55063,725,1
+2020-07-25,Lafayette,Wisconsin,55065,98,0
+2020-07-25,Langlade,Wisconsin,55067,26,1
+2020-07-25,Lincoln,Wisconsin,55069,52,0
+2020-07-25,Manitowoc,Wisconsin,55071,228,1
+2020-07-25,Marathon,Wisconsin,55073,466,4
+2020-07-25,Marinette,Wisconsin,55075,226,3
+2020-07-25,Marquette,Wisconsin,55077,66,1
+2020-07-25,Menominee,Wisconsin,55078,17,0
+2020-07-25,Milwaukee,Wisconsin,55079,17861,427
+2020-07-25,Monroe,Wisconsin,55081,174,1
+2020-07-25,Oconto,Wisconsin,55083,137,0
+2020-07-25,Oneida,Wisconsin,55085,62,0
+2020-07-25,Outagamie,Wisconsin,55087,922,12
+2020-07-25,Ozaukee,Wisconsin,55089,473,17
+2020-07-25,Pepin,Wisconsin,55091,38,0
+2020-07-25,Pierce,Wisconsin,55093,146,0
+2020-07-25,Polk,Wisconsin,55095,95,2
+2020-07-25,Portage,Wisconsin,55097,318,0
+2020-07-25,Price,Wisconsin,55099,19,0
+2020-07-25,Racine,Wisconsin,55101,2881,72
+2020-07-25,Richland,Wisconsin,55103,21,4
+2020-07-25,Rock,Wisconsin,55105,1412,25
+2020-07-25,Rusk,Wisconsin,55107,13,1
+2020-07-25,Sauk,Wisconsin,55111,273,3
+2020-07-25,Sawyer,Wisconsin,55113,21,0
+2020-07-25,Shawano,Wisconsin,55115,127,0
+2020-07-25,Sheboygan,Wisconsin,55117,464,5
+2020-07-25,St. Croix,Wisconsin,55109,386,2
+2020-07-25,Taylor,Wisconsin,55119,39,0
+2020-07-25,Trempealeau,Wisconsin,55121,256,1
+2020-07-25,Unknown,Wisconsin,,3714,7
+2020-07-25,Vernon,Wisconsin,55123,47,0
+2020-07-25,Vilas,Wisconsin,55125,22,0
+2020-07-25,Walworth,Wisconsin,55127,1024,21
+2020-07-25,Washburn,Wisconsin,55129,9,0
+2020-07-25,Washington,Wisconsin,55131,679,20
+2020-07-25,Waukesha,Wisconsin,55133,2863,43
+2020-07-25,Waupaca,Wisconsin,55135,275,14
+2020-07-25,Waushara,Wisconsin,55137,62,0
+2020-07-25,Winnebago,Wisconsin,55139,931,16
+2020-07-25,Wood,Wisconsin,55141,161,1
+2020-07-25,Albany,Wyoming,56001,78,0
+2020-07-25,Big Horn,Wyoming,56003,33,0
+2020-07-25,Campbell,Wyoming,56005,107,1
+2020-07-25,Carbon,Wyoming,56007,61,1
+2020-07-25,Converse,Wyoming,56009,30,0
+2020-07-25,Crook,Wyoming,56011,9,0
+2020-07-25,Fremont,Wyoming,56013,448,10
+2020-07-25,Goshen,Wyoming,56015,11,0
+2020-07-25,Hot Springs,Wyoming,56017,17,0
+2020-07-25,Johnson,Wyoming,56019,22,1
+2020-07-25,Laramie,Wyoming,56021,412,3
+2020-07-25,Lincoln,Wyoming,56023,85,0
+2020-07-25,Natrona,Wyoming,56025,192,1
+2020-07-25,Niobrara,Wyoming,56027,2,0
+2020-07-25,Park,Wyoming,56029,98,0
+2020-07-25,Platte,Wyoming,56031,5,0
+2020-07-25,Sheridan,Wyoming,56033,40,0
+2020-07-25,Sublette,Wyoming,56035,26,0
+2020-07-25,Sweetwater,Wyoming,56037,214,2
+2020-07-25,Teton,Wyoming,56039,275,1
+2020-07-25,Uinta,Wyoming,56041,233,0
+2020-07-25,Washakie,Wyoming,56043,44,5
+2020-07-25,Weston,Wyoming,56045,4,0
