@@ -33,7 +33,7 @@ html, body { height: 100%;
 
   .navigation-bar li{
     display: inline-block;
-    margin: 15px 20px 0 0;
+    margin: 32px 20px 0 0;
   }
 
   .navigation-bar ul{
@@ -110,7 +110,7 @@ html, body { height: 100%;
     margin: -5px auto;
     /* -height/2 */
     width: 600px;
-    height: 600px;
+    height: 550px;
 }
 
 #myForm{
@@ -199,7 +199,7 @@ html, body { height: 100%;
     color:#707070;
     font-size:15px;
     padding: 10px 20px;
-    margin:15px 15px 15px 45.5%;
+    margin:0px 15px 15px 45.5%;
     border-radius:4px;
     outline:none;
   }
