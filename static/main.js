@@ -9,3 +9,14 @@ $(function() {
         return false;
     });
 });
+
+var dropdown = document.getElementsByClassName('wrapper-dropdown-1')[0];
+dropdown.addEventListener("click", dropDown);
+
+function dropDown(){
+    if (dropdown.classList.contains("active")){
+        dropdown.classList.remove('active');
+    } else {
+        dropdown.classList.add('active');
+    }
+  }

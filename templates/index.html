@@ -5,6 +5,11 @@
     <title>COVID Risk Calculator</title>
     <link rel="stylesheet" href="../static/main.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="../static/modernizr.custom.79639.js"></script>
+    <link rel="stylesheet" type="text/css" href="../static/style.css" />
+    <noscript><link rel="stylesheet" type="text/css" href="css/noJS.css" /></noscript>
 </head>  
 <body>
     <nav class="navigation-bar">
@@ -24,6 +29,22 @@
             <a href='#' id=process_input> <button id="submit_button" class="button" type="submit">Search</button></a>
         </form>
     </div>
+
+    <section class="main">
+        <div class="wrapper-demo">
+            <div id="dd" class="wrapper-dropdown-1 active" tabindex="1">
+                <span>Time Range</span>
+                <ul class="dropdown">
+                    <li><a href="#"><i class="icon-envelope icon-large today"></i>Today</a></li>
+                    <li><a href="#"><i class="icon-truck icon-large one-week"></i>One Week</a></li>
+                    <li><a href="#"><i class="icon-plane icon-large one-month"></i>One Month</a></li>
+                    <li><a href="#"><i class="icon-plane icon-large total"></i>Total</a></li>
+                </ul>
+            </div>
+        ​</div>
+    <button class="heat-map-button" type="submit">Generate Heat Map</button>
+    </section>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="../static/main.js"></script> 
 
 </body>
