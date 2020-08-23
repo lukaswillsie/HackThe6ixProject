@@ -45,6 +45,8 @@ def background_process():
     try:
         location = request.args.get('location', 0, type=str).split(" ")
         lst = obj.getKeyMetrics(location[0], location[1])
+        map_loc = obj.get_graphs(location[0], location[1])
+        print(map_loc)
         for i in range(len(lst)):
             if lst[i] < 0:
                 lst[i] = 0

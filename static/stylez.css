@@ -531,6 +531,17 @@ ul.notika-menu-wrap li a{
 /*----------------------------------------*/
 /*  5.  statistics CSS
 /*----------------------------------------*/
+
+.my-chart{
+    height: 349px;
+    width: 807px;
+}
+
+.my-chart img{
+    width: 100%;
+    height: 100%;
+}
+
 .flot-chart {
     height: 319px;
 }
