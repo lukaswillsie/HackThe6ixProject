@@ -18,6 +18,7 @@ class HistoricalDataAccessor:
 
         date_index = historical_columns.index("date")
         county_index = historical_columns.index("county")
+        state_index = historical_columns.index("state")
         fips_index = historical_columns.index("fips")
         cases_index = historical_columns.index("cases")
         deaths_index = historical_columns.index("deaths")
@@ -25,7 +26,7 @@ class HistoricalDataAccessor:
         counties_added = 0
 
         # We set up our dictionary to hold the following key-value pairs:
-        # <fips> (as a string) : {"county" : <county name>, "data" : {date: (cases, deaths) (for all dates in our data set)} }
+        # <fips> (as a string) : {"county" : <county name>, "state" : <state>, "data" : {date: (cases, deaths) (for all dates in our data set)} }
         for filename in files:
             # Each file is of the form <date>.csv; we get rid of the .csv part
             i = 0
@@ -46,13 +47,14 @@ class HistoricalDataAccessor:
                 # Haven't seen the county before
                 if fips not in self.historical_data:
                     counties_added += 1
-                    self.historical_data[fips] = {"county": data[county_index], "data": {}}
+                    self.historical_data[fips] = {"county": data[county_index], "state" : data[state_index], "data": {}}
 
                 self.historical_data[fips]["data"][data[date_index]] = (
                         int(data[cases_index]), int(data[deaths_index]))
 
         date_index = live_columns.index("date")
         county_index = live_columns.index("county")
+        state_index = live_columns.index("state")
         fips_index = live_columns.index("fips")
         cases_index = live_columns.index("cases")
         deaths_index = live_columns.index("deaths")
@@ -69,7 +71,7 @@ class HistoricalDataAccessor:
 
             if fips not in self.historical_data:
                 counties_added += 1
-                self.historical_data[fips] = {"county": data[county_index], "data": {}}
+                self.historical_data[fips] = {"county": data[county_index], "state" : data[state_index], "data": {}}
 
             try:
                 self.historical_data[fips]["data"][data[date_index]] = (
@@ -100,7 +102,7 @@ class HistoricalDataAccessor:
             file = open(path_to_data_dir + "/" + "total_day_deaths.csv", "w")
 
         now = datetime.datetime.now()
-        today = datetime.datetime(now.year, now.month, now.day)
+        today = datetime.datetime(2020, 8, 22)
         prev = today - datetime.timedelta(1)
         for fips in self.historical_data:
             if cases:
@@ -173,6 +175,57 @@ class HistoricalDataAccessor:
                 file.write(fips + "," + str(self.historical_data[fips]["data"][today.strftime(FORMAT_STRING)][0]) + "\n")
             else:
                 file.write(fips + "," + str(self.historical_data[fips]["data"][today.strftime(FORMAT_STRING)][1]) + "\n")
+
+    def getKeyMetrics(self, county, state):
+        """
+        Given the specified county (we need state because county names are not unique, nationally), return a list with
+        the following data:
+        [All-time cases, All-time deaths, Daily new cases, Daily new deaths, Weekly new cases, Weekly new deaths, New
+        cases in last 30 days, Deaths in last 30 days]
+
+        Returns an empty list if the specified county can't be found.
+
+        :param county:
+        :param state:
+        :return:
+        """
+        data = {}
+        for fips in self.historical_data:
+            if self.historical_data[fips]["county"] == county and self.historical_data[fips]["state"] == "state":
+                data = self.historical_data[fips]["data"]
+                break
+
+        if not data:
+            return []
+
+        now = datetime.datetime.now()
+        today = datetime.datetime(now.year, now.month, now.day)
+        daily_prev = today - datetime.timedelta(1)
+        weekly_prev = today - datetime.timedelta(7)
+        thirty_day_prev = today - datetime.timedelta(30)
+
+        metrics = []
+
+        metrics.append(data[today.strftime(FORMAT_STRING)][0])
+        metrics.append(data[today.strftime(FORMAT_STRING)][1])
+
+        cases_today = data[today.strftime(FORMAT_STRING)][0]
+        deaths_today = data[today.strftime(FORMAT_STRING)][1]
+
+        daily_cases_prev = data[daily_prev.strftime(FORMAT_STRING)][0]
+        daily_deaths_prev = data[daily_prev.strftime(FORMAT_STRING)][1]
+
+        weekly_cases_prev = data[weekly_prev.strftime(FORMAT_STRING)][0]
+        weekly_deaths_prev = data[weekly_prev.strftime(FORMAT_STRING)][1]
+
+        thirty_day_cases_prev = data[thirty_day_prev.strftime(FORMAT_STRING)][0]
+        thirty_day_deaths_prev = data[thirty_day_prev.strftime(FORMAT_STRING)][1]
+
+        metrics.extend([cases_today - daily_cases_prev, deaths_today - daily_deaths_prev])
+        metrics.extend([cases_today - weekly_cases_prev, deaths_today - weekly_deaths_prev])
+        metrics.extend([cases_today - thirty_day_cases_prev, deaths_today - thirty_day_deaths_prev])
+
+        return metrics
 
 
 if __name__ == "__main__":
