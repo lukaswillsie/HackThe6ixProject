@@ -91,6 +91,6 @@ class Queue:
 
 
 if __name__ == "__main__":
-    # get_historical()
-    # get_live()
-    get_historical_in_one()
+    get_historical()
+    get_live()
+    # get_historical_in_one()

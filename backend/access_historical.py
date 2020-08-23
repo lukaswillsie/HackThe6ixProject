@@ -80,8 +80,7 @@ class HistoricalDataAccessor:
                 self.historical_data[fips]["data"][data[date_index]] = (
                     int(data[cases_index]), int(data[deaths_index]))
             except ValueError:
-                print(f"One of \"{data[cases_index]}\" or \"{data[deaths_index]}\" couldn't be converted to int. Skipping,"
-                      f"and will assume that values are the same as the day before")
+                continue
 
         print(f"Total Counties: {counties_added}")
         now = datetime.datetime.now()
@@ -107,7 +106,7 @@ class HistoricalDataAccessor:
             file.write("fips,deaths\n")
 
         now = datetime.datetime.now()
-        today = datetime.datetime(2020, 8, 22)
+        today = datetime.datetime(2020, 8, 21)
         prev = today - datetime.timedelta(1)
         for fips in self.historical_data:
             if cases:
@@ -195,10 +194,6 @@ class HistoricalDataAccessor:
         cases in last 30 days, Deaths in last 30 days]
 
         Returns an empty list if the specified county can't be found.
-
-        :param county:
-        :param state:
-        :return:
         """
         data = {}
         for fips in self.historical_data:
@@ -210,7 +205,7 @@ class HistoricalDataAccessor:
             return []
 
         now = datetime.datetime.now()
-        today = datetime.datetime(now.year, now.month, now.day)
+        today = datetime.datetime(now.year, now.month, 21)
         daily_prev = today - datetime.timedelta(1)
         weekly_prev = today - datetime.timedelta(7)
         thirty_day_prev = today - datetime.timedelta(30)
@@ -243,7 +238,7 @@ class HistoricalDataAccessor:
         Creates and saves as a .png a graph displaying the last n days of new cases, including today.
 
         The saved file is called "<n>_days_graph.png" and is located in the same directory that the program calling this
-        method is running in.
+        method is running in. This filename is returned.
         """
         data = {}
         for fips in self.historical_data:
@@ -253,11 +248,11 @@ class HistoricalDataAccessor:
 
         if not data:
             print(f"Couldn't create graph for {county}, {state} because not valid combination")
-            return
+            return ""
 
         now = datetime.datetime.now()
-        today = datetime.datetime(now.year, now.month, 22)
-        date = today - datetime.timedelta(n)
+        today = datetime.datetime(now.year, now.month, 21)
+        date = today - datetime.timedelta(n-1)
         prev = date - datetime.timedelta(1)
 
         days = []
@@ -270,20 +265,21 @@ class HistoricalDataAccessor:
             prev = prev + datetime.timedelta(1)
 
         x_pos = np.arange(len(days))
+        plt.figure(figsize=(10, 7))
         plt.style.use('Solarize_Light2')
         plt.bar(x_pos, vals, color="#CF95D4")
         plt.ylabel("New Cases")
         plt.title(f"New Cases in the Last {n} days")
         plt.xticks(x_pos, [])
-        plt.savefig("kek.png")
-        plt.show()
+        plt.savefig(f"{n}_days_graph.png")
+        return f"{n}_days_graph.png"
 
     def create_all_time_graph(self, county, state):
         """
         Creates and saves as a .png a graph displaying new case data since the beginning of the pandemic, January 21st.
 
         The saved file is called "all_time_graph.png" and is located in the same directory that the program calling this
-        method is running in.
+        method is running in. This filename is returned.
         """
         data = {}
         for fips in self.historical_data:
@@ -293,10 +289,10 @@ class HistoricalDataAccessor:
 
         if not data:
             print(f"Coudln't create graph for {county}, {state} because not valid combination")
-            return
+            return ""
 
         now = datetime.datetime.now()
-        today = datetime.datetime(now.year, now.month, 22)
+        today = datetime.datetime(now.year, now.month, 21)
         date = datetime.datetime(now.year, 1, 22)
         prev = date - datetime.timedelta(1)
 
@@ -310,22 +306,32 @@ class HistoricalDataAccessor:
             prev = prev + datetime.timedelta(1)
 
         x_pos = np.arange(len(days))
+        plt.figure(figsize=(10, 7))
         plt.style.use('Solarize_Light2')
-        plt.bar(x_pos, vals, color="#CF95D4")
+        plt.plot(x_pos, vals, color="#CF95D4")
         plt.ylabel("New Cases")
         plt.title("New Cases All-Time")
         plt.xticks(x_pos, [])
         plt.savefig("all_time_graph.png")
-        plt.show()
+        return "all_time_graph.png"
+
+    def get_graphs(self, county, state):
+        """
+        Returns the following list:
+        [Weekly Graph, Monthly Graph, All-Time Graph]
+
+        """
+        return [self.create_graph(county, state, 7), self.create_graph(county, state, 30), self.create_all_time_graph(county, state)]
 
 if __name__ == "__main__":
     acc = HistoricalDataAccessor()
     acc.build()
 
-    # bools = [True, False]
-    # for boolean in bools:
-    #     acc.total_day(boolean)
-    #     acc.total_week(boolean)
-    #     acc.total_month(boolean)
-    #     acc.total_total(boolean)
-    acc.create_graph("Monterey", "California", 7)
+    bools = [True, False]
+    for boolean in bools:
+        acc.total_day(boolean)
+        acc.total_week(boolean)
+        acc.total_month(boolean)
+        acc.total_total(boolean)
+
+    acc.get_graphs("Monterey", "California")
