@@ -271,8 +271,8 @@ class HistoricalDataAccessor:
         plt.ylabel("New Cases")
         plt.title(f"New Cases in the Last {n} days")
         plt.xticks(x_pos, [])
-        plt.savefig(f"{n}_days_graph.png")
-        return f"{n}_days_graph.png"
+        plt.savefig(f"static/{n}_days_graph.png")
+        return f"static/{n}_days_graph.png"
 
     def create_all_time_graph(self, county, state):
         """
@@ -312,14 +312,13 @@ class HistoricalDataAccessor:
         plt.ylabel("New Cases")
         plt.title("New Cases All-Time")
         plt.xticks(x_pos, [])
-        plt.savefig("all_time_graph.png")
-        return "all_time_graph.png"
+        plt.savefig("static/all_time_graph.png")
+        return "static/all_time_graph.png"
 
     def get_graphs(self, county, state):
         """
         Returns the following list:
         [Weekly Graph, Monthly Graph, All-Time Graph]
-
         """
         return [self.create_graph(county, state, 7), self.create_graph(county, state, 30), self.create_all_time_graph(county, state)]
 
@@ -334,4 +333,4 @@ if __name__ == "__main__":
         acc.total_month(boolean)
         acc.total_total(boolean)
 
-    acc.get_graphs("Monterey", "California")
+    print(acc.get_graphs("Monterey", "California"))
