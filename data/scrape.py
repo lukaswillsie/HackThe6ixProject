@@ -1,5 +1,4 @@
 import requests
-import datetime
 from typing import Optional
 
 historical_url = "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"
@@ -16,7 +15,8 @@ def get_historical():
     while text[i] != '\n':
         i += 1
 
-    columns = text[0:i].split(",")
+    first = text[0:i]
+    columns = first.split(",")
     date_column = columns.index('date')
     text = text[i+1:]
 
@@ -31,7 +31,6 @@ def get_historical():
             line += char
 
     kek = lines.dequeue()
-    print(kek)
     f = None
     root = "historical"
     while kek is not None:
@@ -45,6 +44,11 @@ def get_historical():
         kek = lines.dequeue()
 
     f.close()
+
+def get_historical_in_one():
+    request = requests.get(historical_url)
+    f = open("all_historical.csv", "w")
+    f.write(request.text)
 
 
 def get_live():
@@ -87,5 +91,6 @@ class Queue:
 
 
 if __name__ == "__main__":
-    get_historical()
-    get_live()
+    # get_historical()
+    # get_live()
+    get_historical_in_one()
