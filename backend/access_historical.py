@@ -101,11 +101,16 @@ class HistoricalDataAccessor:
 
         now = datetime.datetime.now()
         today = datetime.datetime(now.year, now.month, now.day)
+        prev = today - datetime.timedelta(1)
         for fips in self.historical_data:
             if cases:
-                file.write(fips + "," + str(self.historical_data[fips]["data"][today.strftime(FORMAT_STRING)][0]) + "\n")
+                prev_val = self.historical_data[fips]["data"][prev.strftime(FORMAT_STRING)][0]
+                val = self.historical_data[fips]["data"][today.strftime(FORMAT_STRING)][0]
             else:
-                file.write(fips + "," + str(self.historical_data[fips]["data"][today.strftime(FORMAT_STRING)][1]) + "\n")
+                prev_val = self.historical_data[fips]["data"][prev.strftime(FORMAT_STRING)][1]
+                val = self.historical_data[fips]["data"][today.strftime(FORMAT_STRING)][1]
+
+            file.write(fips + "," + str(val - prev_val) + "\n")
 
         file.close()
 
