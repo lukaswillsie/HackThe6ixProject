@@ -1,5 +1,7 @@
 import datetime
 import os
+import matplotlib.pyplot as plt
+import numpy as np
 
 path_to_data_dir = "./data"
 path_to_historical_data_dir = "data/historical"
@@ -236,14 +238,94 @@ class HistoricalDataAccessor:
 
         return metrics
 
+    def create_graph(self, county, state, n):
+        """
+        Creates and saves as a .png a graph displaying the last n days of new cases, including today.
+
+        The saved file is called "<n>_days_graph.png" and is located in the same directory that the program calling this
+        method is running in.
+        """
+        data = {}
+        for fips in self.historical_data:
+            if self.historical_data[fips]["county"] == county and self.historical_data[fips]["state"] == state:
+                data = self.historical_data[fips]["data"]
+                break
+
+        if not data:
+            print(f"Couldn't create graph for {county}, {state} because not valid combination")
+            return
+
+        now = datetime.datetime.now()
+        today = datetime.datetime(now.year, now.month, 22)
+        date = today - datetime.timedelta(n)
+        prev = date - datetime.timedelta(1)
+
+        days = []
+        vals = []
+        while date <= today:
+            days.append(date.strftime("%m/%d"))
+            vals.append(data[date.strftime(FORMAT_STRING)][0] - data[prev.strftime(FORMAT_STRING)][0])
+
+            date = date + datetime.timedelta(1)
+            prev = prev + datetime.timedelta(1)
+
+        x_pos = np.arange(len(days))
+        plt.style.use('Solarize_Light2')
+        plt.bar(x_pos, vals, color="#CF95D4")
+        plt.ylabel("New Cases")
+        plt.title(f"New Cases in the Last {n} days")
+        plt.xticks(x_pos, [])
+        plt.savefig("kek.png")
+        plt.show()
+
+    def create_all_time_graph(self, county, state):
+        """
+        Creates and saves as a .png a graph displaying new case data since the beginning of the pandemic, January 21st.
+
+        The saved file is called "all_time_graph.png" and is located in the same directory that the program calling this
+        method is running in.
+        """
+        data = {}
+        for fips in self.historical_data:
+            if self.historical_data[fips]["county"] == county and self.historical_data[fips]["state"] == state:
+                data = self.historical_data[fips]["data"]
+                break
+
+        if not data:
+            print(f"Coudln't create graph for {county}, {state} because not valid combination")
+            return
+
+        now = datetime.datetime.now()
+        today = datetime.datetime(now.year, now.month, 22)
+        date = datetime.datetime(now.year, 1, 22)
+        prev = date - datetime.timedelta(1)
+
+        days = []
+        vals = []
+        while date <= today:
+            days.append(date.strftime("%m/%d"))
+            vals.append(data[date.strftime(FORMAT_STRING)][0] - data[prev.strftime(FORMAT_STRING)][0])
+
+            date = date + datetime.timedelta(1)
+            prev = prev + datetime.timedelta(1)
+
+        x_pos = np.arange(len(days))
+        plt.style.use('Solarize_Light2')
+        plt.bar(x_pos, vals, color="#CF95D4")
+        plt.ylabel("New Cases")
+        plt.title("New Cases All-Time")
+        plt.xticks(x_pos, [])
+        plt.savefig("all_time_graph.png")
+        plt.show()
 
 if __name__ == "__main__":
     acc = HistoricalDataAccessor()
     acc.build()
 
-    bools = [True, False]
-    for boolean in bools:
-        acc.total_day(boolean)
-        acc.total_week(boolean)
-        acc.total_month(boolean)
-        acc.total_total(boolean)
+    # bools = [True, False]
+    # for boolean in bools:
+    #     acc.total_day(boolean)
+    #     acc.total_week(boolean)
+    #     acc.total_month(boolean)
+    #     acc.total_total(boolean)
+    acc.create_graph("Monterey", "California", 7)
