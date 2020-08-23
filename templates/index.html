@@ -2,7 +2,8 @@
 <html>
 <head>
     <meta charset="UFT-8">
-    <title>COVID Risk Calculator</title>
+    <title>COVISTICS</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../static/logo.png">
     <link rel="stylesheet" href="../static/main.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
@@ -20,13 +21,13 @@
         </ul>
     </nav>
     <div class='search-bar'>
-        <form id='myForm'>
+        <form id='myForm' action="result.html">
             <img class='logo' src="../static/logo.png" alt="">
             <div class="bar">
                 <input type="text" class='search' id="location" name="location" placeholder="Enter your location"><br>
                 <img class="voice" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/716px-Google_mic.svg.png" title="Search by Voice">
             </div>
-            <a href='#' id=process_input> <button id="submit_button" class="button" type="submit">Search</button></a>
+            <a href="{{ url_for('result') }}" id=process_input> <button id="submit_button" class="button" type="submit">Search</button></a>
         </form>
     </div>
 
