@@ -38,10 +38,17 @@ var arr3 = [act1, act2, act3, act4]
 
 var i;
 for (i = 8; i < 12; i++) {
+
+  if  (arr3[i - 8].classList.contains("success")) {
+    arr3[i - 8].classList.remove("success");
+  }
+  if  (arr3[i - 8].classList.contains("warning")) {
+    arr3[i - 8].classList.remove("warning");
+  }
   if (data[i] == 'Yes') {
-      arr3[i - 8].id = arr2.pop()
+      arr3[i - 8].classList.add("success")
   } else if (data[i] == 'No') {
-    arr3[i - 8].id = arr1.pop()
+    arr3[i - 8].classList.add("warning")
   }
 }
 

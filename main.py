@@ -3,6 +3,8 @@ import json
 import sys
 sys.path.append('./backend')
 from access_historical import HistoricalDataAccessor
+import random
+
 
 app = Flask(__name__)
 
@@ -48,11 +50,33 @@ def background_process():
                 lst[i] = 0
             else:
                 lst[i] = place_value(lst[i])
+        
+
+        f1 = open('data/data5.json', 'r')
+        f2 = open('data/data25.json', 'r') 
+        f3 = open('data/data50.json', 'r') 
+        f4 = open('data/data200.json', 'r')  
+        data5 = json.load(f1)
+        data25 = json.load(f2) 
+        data50 = json.load(f3) 
+        data200 = json.load(f4)  
+
+
+        temp = [data5, data25, data50, data200]
+
+        for data in temp:
+            if location[0] in data:
+                prob = data[location[0]]
+                print(prob)
+            else:
+                print('County not found')
+                prob = random.uniform(0, 0.12)
+            if prob > 0.03:
+                lst.append('No')
+            else:
+                lst.append('Yes')
+        
         print(lst)
-        # d = {}
-        # d['data'] = lst
-        # fp = open('static/stats.json', 'w')
-        # json.dump(d, fp)
         # Backend process go here
         return jsonify(result=lst)
     except Exception as e:
