@@ -3,9 +3,9 @@ import os
 import matplotlib.pyplot as plt
 import numpy as np
 
-path_to_data_dir = "../data"
-path_to_historical_data_dir = "../data/historical"
-path_to_live_data_file = "../data/live.csv"
+path_to_data_dir = "./data"
+path_to_historical_data_dir = "data/historical"
+path_to_live_data_file = "data/live.csv"
 historical_columns = ["date", "county", "state", "fips", "cases", "deaths"]
 live_columns = ["date", "county", "state", "fips", "cases", "deaths", "confirmed_cases", "confirmed_deaths", "probable_cases", "probable_deaths"]
 
@@ -36,7 +36,7 @@ class HistoricalDataAccessor:
                 i += 1
             date = filename[0:i]
 
-            file = open(path_to_historical_data_dir + "/" + filename, "r")
+            file = open(path_to_historical_data_dir + "/" + filename, "r", encoding='latin-1')
             for line in file:
                 data = line.strip().split(",")
                 fips = data[fips_index]

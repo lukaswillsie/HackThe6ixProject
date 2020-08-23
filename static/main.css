@@ -46,7 +46,7 @@ html, body { height: 100%;
     padding: 16px 20px;
     letter-spacing: 1px;
     border-radius: 3px;
-    font-size: 1.0vw;
+    font-size: 18px;
     overflow: hidden;
     text-decoration: none;
     transition-duration: 500ms;
@@ -59,46 +59,6 @@ html, body { height: 100%;
       text-decoration: inherit;
 }
 
-   @media screen and (max-width: 1320px){
-        header{
-          background: #ffffff;
-          background-attachment: fixed;
-          background-repeat: no-repeat;
-          height: 100%;
-          width: 100%;
-          text-align: right;
-        }
-      
-        .navigation-bar li{
-          width: 100%;
-          display: block;
-          text-align: left;
-          margin-top: 10px;
-          padding: 0px;
-        }
-      
-        .navigation-bar ul{
-          padding-inline-start: 10px;
-        }
-      
-        .navigation-bar a {
-          color: white;
-          text-transform: uppercase;
-          padding: 16px 20px;
-          letter-spacing: 1px;
-          border-radius: 3px;
-          font-size: 1.5vw;
-          overflow: hidden;
-          text-decoration: none;
-          transition-duration: 500ms;
-        }
-      
-          .navigation-bar a:hover, .logo a:hover {
-            color: white;
-            font-size: 1.8vw;
-            text-decoration: inherit;
-          }
-    }
 
 .logo{
   height: 80%;
