@@ -7,8 +7,9 @@ import matplotlib.pyplot as plt
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
     counties = json.load(response)
 
-df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/fips-unemp-16.csv",
-                   dtype={"fips": str})
+df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/fips-unemp-16.csv", 
+                        dtype={"fips": str})
+
 
 def generate_map(df):
     fig = px.choropleth(df, geojson=counties, locations='fips', color='unemp',
