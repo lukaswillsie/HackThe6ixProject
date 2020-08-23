@@ -3,9 +3,9 @@ import os
 import matplotlib.pyplot as plt
 import numpy as np
 
-path_to_data_dir = "../data"
-path_to_historical_data_dir = "../data/historical"
-path_to_live_data_file = "../data/live.csv"
+path_to_data_dir = "data"
+path_to_historical_data_dir = "data/historical"
+path_to_live_data_file = "data/live.csv"
 historical_columns = ["date", "county", "state", "fips", "cases", "deaths"]
 live_columns = ["date", "county", "state", "fips", "cases", "deaths", "confirmed_cases", "confirmed_deaths", "probable_cases", "probable_deaths"]
 
@@ -271,8 +271,8 @@ class HistoricalDataAccessor:
         plt.ylabel("New Cases")
         plt.title(f"New Cases in the Last {n} days")
         plt.xticks(x_pos, [])
-        plt.savefig(f"../static/{n}_days_graph.png")
-        return f"../static/{n}_days_graph.png"
+        plt.savefig(f"static/{n}_days_graph.png")
+        return f"static/{n}_days_graph.png"
 
     def create_all_time_graph(self, county, state):
         """
@@ -312,8 +312,8 @@ class HistoricalDataAccessor:
         plt.ylabel("New Cases")
         plt.title("New Cases All-Time")
         plt.xticks(x_pos, [])
-        plt.savefig("../static/all_time_graph.png")
-        return "../static/all_time_graph.png"
+        plt.savefig("static/all_time_graph.png")
+        return "static/all_time_graph.png"
 
     def get_graphs(self, county, state):
         """
