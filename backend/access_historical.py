@@ -266,13 +266,12 @@ class HistoricalDataAccessor:
 
         x_pos = np.arange(len(days))
         plt.figure(figsize=(23, 10))
-        for style in plt.style.available:
-            plt.style.use(style)
-            plt.bar(x_pos, vals, color="#00C292")
-            plt.xticks([])
-            plt.yticks(fontsize=50)
-            plt.savefig(f"static/{n}_days_graph.png")
-            plt.show()
+        plt.style.use("Solarize_Light2")
+        plt.bar(x_pos, vals, color="#00C292")
+        plt.xticks([])
+        plt.yticks(fontsize=50)
+        plt.savefig(f"static/{n}_days_graph.png")
+        plt.show()
         return f"static/{n}_days_graph.png"
 
     def create_all_time_graph(self, county, state):
@@ -308,13 +307,12 @@ class HistoricalDataAccessor:
 
         x_pos = np.arange(len(days))
         plt.figure(figsize=(23, 10))
-        for style in plt.style.available:
-            plt.style.use(style)
-            plt.plot(x_pos, vals, color="#00C292")
-            plt.xticks([])
-            plt.yticks(fontsize=40)
-            plt.savefig("static/all_time_graph.png")
-            plt.show()
+        plt.style.use("Solarize_Light2")
+        plt.plot(x_pos, vals, color="#00C292")
+        plt.xticks([])
+        plt.yticks(fontsize=40)
+        plt.savefig("static/all_time_graph.png")
+        plt.show()
         return "static/all_time_graph.png"
 
     def get_graphs(self, county, state):
