@@ -271,7 +271,6 @@ class HistoricalDataAccessor:
         plt.xticks([])
         plt.yticks(fontsize=50)
         plt.savefig(f"static/{n}_days_graph.png")
-        plt.show()
         return f"static/{n}_days_graph.png"
 
     def create_all_time_graph(self, county, state):
@@ -312,7 +311,6 @@ class HistoricalDataAccessor:
         plt.xticks([])
         plt.yticks(fontsize=40)
         plt.savefig("static/all_time_graph.png")
-        plt.show()
         return "static/all_time_graph.png"
 
     def get_graphs(self, county, state):
