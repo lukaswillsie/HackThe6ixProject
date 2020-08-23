@@ -52,6 +52,16 @@ for (i = 8; i < 12; i++) {
   }
 }
 
+console.log("changing image")
+var chart = document.getElementsByClassName('my-chart')[0];
+console.log(chart)
+chart.children.pop()
+console.log()
+var img = document.createElement('img');
+img.src = '../static/all_time_graph.png';
+document.getElementById('chart').appendChild(img);
+
+
 
 
 

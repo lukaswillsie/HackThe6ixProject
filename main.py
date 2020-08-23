@@ -7,6 +7,8 @@ import random
 
 
 app = Flask(__name__)
+app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+
 
 obj = HistoricalDataAccessor()
 obj.build()
@@ -77,7 +79,7 @@ def background_process():
                 lst.append('No')
             else:
                 lst.append('Yes')
-        
+        result()
         print(lst)
         # Backend process go here
         return jsonify(result=lst)
@@ -97,6 +99,14 @@ def heat_map_process():
     except Exception as e:
         print(str(e))
         return str(e)
+
+@app.after_request
+def add_header(response):
+    # response.cache_control.no_store = True
+    response.headers['Cache-Control'] = 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0, max-age=0'
+    response.headers['Pragma'] = 'no-cache'
+    response.headers['Expires'] = '-1'
+    return response
 
 
 if __name__ == "__main__":
