@@ -4,11 +4,12 @@ $(function() {
         place = autocomplete.getPlace()
         console.log(place)
         if(!place) {
-            return;
+            return false;
         }
         else {
             var val = getDataFromSelection(place);
         }
+        console.log(place)
 
         $.getJSON('/background_process', {
             location: val,
