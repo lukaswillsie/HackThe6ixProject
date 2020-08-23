@@ -1,8 +1,17 @@
 
 $(function() {
     $('a#process_input').bind('click', function(){
+        place = autocomplete.getPlace()
+        console.log(place)
+        if(!place) {
+            return;
+        }
+        else {
+            var val = getDataFromSelection(place);
+        }
+
         $.getJSON('/background_process', {
-            location: $('input[name="location"]').val(),
+            location: val,
         }, function(data) {
             console.log('got here')
             var testArray = data.result.join(' ')
@@ -80,3 +89,27 @@ function totalz(){
 
 
 
+var autocomplete;
+
+function initAutoComplete() {
+  var input = document.getElementById('searchTextField');
+  autocomplete = new google.maps.places.Autocomplete(input, {types : ["geocode"]});
+  autocomplete.setFields(["address_component"]);
+  console.log("Got here")
+}
+
+function getDataFromSelection(place) {
+  for(const component of place.address_components) {
+    if(component.types[0] == "administrative_area_level_2") {
+      var name = component.long_name
+      var pos = name.indexOf(" County")
+      var county = name.substring(0, pos)
+    }
+    else if(component.types[0] == "administrative_area_level_1") {
+      var state = component.long_name
+    }
+  }
+
+  console.log(county + "," + state)
+  return county + "," + state
+}
