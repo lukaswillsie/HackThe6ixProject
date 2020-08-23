@@ -102,7 +102,7 @@ class HistoricalDataAccessor:
             file = open(path_to_data_dir + "/" + "total_day_deaths.csv", "w")
 
         now = datetime.datetime.now()
-        today = datetime.datetime(now.year, now.month, now.day)
+        today = datetime.datetime(2020, 8, 22)
         prev = today - datetime.timedelta(1)
         for fips in self.historical_data:
             if cases:
