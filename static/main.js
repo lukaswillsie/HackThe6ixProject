@@ -5,6 +5,9 @@ $(function() {
             location: $('input[name="location"]').val(),
         }, function(data) {
             console.log('got here')
+            var testArray = data.result.join(' ')
+            sessionStorage.setItem('myArray', testArray);
+            window.location.href = "/result/";
         });
         return false;
     });
@@ -18,7 +21,16 @@ $(function() {
         $.getJSON('/heat_map_process', {
             time_range: time_range.textContent,
         }, function(data) {
-            console.log('got here')
+            if (time_range.textContent == 'Time Range: Today'){
+                window.location.href = "/map_day/";
+            } else if (time_range.textContent == 'Time Range: One Week'){
+                window.location.href = "/map_week/";
+            } else if (time_range.textContent == 'Time Range: One Month'){
+                window.location.href = "/map_month/";
+            } else if (time_range.textContent == 'Time Range: Total'){
+                window.location.href = "/map_total/";
+            }
+            console.log('got-here')
         });
         return false;
     });
@@ -49,7 +61,7 @@ one_month.addEventListener('click', one_monthz);
 total.addEventListener('click', totalz);
 
 function todayz(){
-    console.log('got-here')
+    console.log('got-here');
     time_range.textContent = 'Time Range: Today';
 }
 
@@ -65,16 +77,6 @@ function totalz(){
     time_range.textContent = 'Time Range: Total';
 }
 
-$(function() {
-    $('a#process_input').bind('click', function(){
-        $.getJSON('/background_process', {
-            location: $('input[name="location"]').val(),
-        }, function(data) {
-            console.log('got here')
-        });
-        return false;
-    });
-});
 
 
 

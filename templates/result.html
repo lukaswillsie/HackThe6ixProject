@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon
 		============================================ -->
-    <link rel="shortcut icon" type="image/x-icon" href="../static/logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../static/logo-head.png">
     <!-- Google Fonts
 		============================================ -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,900" rel="stylesheet">
@@ -43,7 +43,13 @@
 		============================================ -->
     <link rel="stylesheet" href="../static/css/notika-custom-icon.css">
     <!-- wave CSS
+    ============================================ -->
+        <!-- dialog CSS
 		============================================ -->
+    <link rel="stylesheet" href="../static/css/dialog/sweetalert2.min.css">
+    <link rel="stylesheet" href="../static/css/dialog/dialog.css">
+
+
     <link rel="stylesheet" href="../static/css/wave/waves.min.css">
     <!-- main CSS
 		============================================ -->
@@ -57,6 +63,7 @@
     <!-- modernizr JS
 		============================================ -->
     <script src="../static/js/vendor/modernizr-2.8.3.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </head>
 
 <body>
@@ -72,7 +79,7 @@
     <!-- Start Status area -->
 
   <div class="header curved-ctn">
-      <h2>Data Near You</h2>
+      <h2>Your Local Statistics</h2>
    </div>
 
     <br/>
@@ -82,7 +89,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="wb-traffic-inner notika-shadow sm-res-mg-t-30 tb-res-mg-t-30">
                         <div class="website-traffic-ctn">
-                            <h2><span class="counter total-cases">50,000</span></h2>
+                            <h2><span id="total-cases" class="total-cases">50,000</span></h2>
                             <p>Total Cases</p>
                         </div>
                         <div class="sparkline-bar-stats1">9,4,8,6,5,6,4,8,3,5,9,5</div>
@@ -91,7 +98,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="wb-traffic-inner notika-shadow sm-res-mg-t-30 tb-res-mg-t-30">
                         <div class="website-traffic-ctn">
-                            <h2><span class="counter total-deaths">90,000</span></h2>
+                            <h2><span class="total-deaths">90,000</span></h2>
                             <p>Total Deaths</p>
                         </div>
                         <div class="sparkline-bar-stats2">1,4,8,3,5,6,4,8,3,3,9,5</div>
@@ -100,7 +107,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="wb-traffic-inner notika-shadow sm-res-mg-t-30 tb-res-mg-t-30 dk-res-mg-t-30">
                         <div class="website-traffic-ctn">
-                            <h2><span class="counter daily-cases">40,000</span></h2>
+                            <h2><span class="daily-cases">40,000</span></h2>
                             <p>Daily New Cases</p>
                         </div>
                         <div class="sparkline-bar-stats3">4,2,8,2,5,6,3,8,3,5,9,5</div>
@@ -109,7 +116,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="wb-traffic-inner notika-shadow sm-res-mg-t-30 tb-res-mg-t-30 dk-res-mg-t-30">
                         <div class="website-traffic-ctn">
-                            <h2><span class="counter daily-deaths">1,000</span></h2>
+                            <h2><span class="daily-deaths">1,000</span></h2>
                             <p>Daily New Deaths</p>
                         </div>
                         <div class="sparkline-bar-stats4">2,4,8,4,5,7,4,7,3,5,7,5</div>
@@ -143,7 +150,7 @@
 						<div class="dash-widget-visits"></div>
                         <div class="past-statistic-an">
                             <div class="past-statistic-ctn">
-                                <h3><span class="counter monthly-cases">3000</span></h3>
+                                <h3><span class="monthly-cases">3000</span></h3>
                                 <p>Monthly Cases</p>
                             </div>
                             <div class="past-statistic-graph">
@@ -152,7 +159,7 @@
                         </div>
                         <div class="past-statistic-an">
                             <div class="past-statistic-ctn">
-                                <h3><span class="counter monthly-deaths">103,000</span></h3>
+                                <h3><span class="monthly-deaths">103,000</span></h3>
                                 <p>Monthly Deaths</p>
                             </div>
                             <div class="past-statistic-graph">
@@ -161,7 +168,7 @@
                         </div>
                         <div class="past-statistic-an">
                             <div class="past-statistic-ctn">
-                                <h3><span class="counter weekly-cases">2,000,000</span></h3>
+                                <h3><span class="weekly-cases">2,000,000</span></h3>
                                 <p>Weekly Cases</p>
                             </div>
                             <div class="past-statistic-graph">
@@ -170,7 +177,7 @@
                         </div>
                         <div class="past-statistic-an">
                           <div class="past-statistic-ctn">
-                              <h3><span class="counter weekly-deaths">24,00,000</span></h3>
+                              <h3><span class="weekly-deaths">24,00,000</span></h3>
                               <p>Weekly Deaths</p>
                           </div>
                           <div class="past-statistic-graph">
@@ -182,13 +189,72 @@
             </div>
         </div>
     </div>
+
+    <div class="header curved-ctn">
+      <h2>Activity Risks</h2>
+   </div>
+
+    <div class="dialog-area">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div class="dialog-inner mg-t-30">
+                      <div class="contact-hd dialog-hd">
+                          <h2>Get some Excercise</h2>
+                          <p>We will tell you if it is safe to run in your neighbourhood</p>
+                      </div>
+                      <div class="dialog-pro dialog">
+                          <button class="btn btn-info activity1" id="sa-success1">TELL ME!</button>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div class="dialog-inner mg-t-30">
+                      <div class="contact-hd dialog-hd">
+                          <h2>Feast at a Restaurant</h2>
+                          <p>If you are wondering if it is safe to dine at your favorite spot, we will let you know</p>
+                      </div>
+                      <div class="dialog-pro dialog">
+                          <button class="btn btn-info activity2" id="sa-warning1">TELL ME!</button>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="dialog-inner mg-t-30">
+                    <div class="contact-hd dialog-hd">
+                        <h2>Shop till you Drop</h2>
+                        <p>Is it safe to visit you nearest mall to get the latest drip?</p>
+                    </div>
+                    <div class="dialog-pro dialog">
+                        <button class="btn btn-info activity3" id="sa-warning2">TELL ME!</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="dialog-inner mg-t-30">
+                    <div class="contact-hd dialog-hd">
+                        <h2>Clubbing</h2>
+                        <p>It is time to show of your latest moves at the club?</p>
+                    </div>
+                    <div class="dialog-pro dialog">
+                        <button class="btn btn-info activity4" id="sa-warning3">TELL ME!</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+  </div>
+
     <!-- End Sale Statistic area-->
     <!-- Start Email Statistic area-->
     <!-- End Email Statistic area-->
     <!-- Start Realtime sts area-->
     <!-- End Footer area-->
     <!-- jquery
-		============================================ -->
+    ============================================ -->
+    
     <script src="../static/js/vendor/jquery-1.12.4.min.js"></script>
     <!-- bootstrap JS
 		============================================ -->
@@ -241,7 +307,19 @@
     <script src="../static/js/wave/waves.min.js"></script>
     <script src="../static/js/wave/wave-active.js"></script>
     <!--  todo JS
+    ============================================ -->
+    
+        <!--  wave JS
 		============================================ -->
+    <script src="../static/js/wave/waves.min.js"></script>
+    <script src="../static/js/wave/wave-active.js"></script>
+    <!--  Chat JS
+		============================================ -->
+    <script src="../static/js/dialog/sweetalert2.min.js"></script>
+    <script src="../static/js/dialog/dialog-active.js"></script>
+    <!--  Chat JS
+		============================================ -->
+    
     <script src="../static/js/todo/jquery.todo.js"></script>
     <!-- plugins JS
 		============================================ -->
