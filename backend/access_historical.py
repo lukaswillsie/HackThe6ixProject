@@ -47,7 +47,8 @@ class HistoricalDataAccessor:
                 # Haven't seen the county before
                 if fips not in self.historical_data:
                     counties_added += 1
-                    self.historical_data[fips] = {"county": data[county_index], "state" : data[state_index], "data": {}}
+                    state = data[state_index]
+                    self.historical_data[fips] = {"county": data[county_index], "state" : state, "data": {}}
 
                 self.historical_data[fips]["data"][data[date_index]] = (
                         int(data[cases_index]), int(data[deaths_index]))
@@ -98,8 +99,10 @@ class HistoricalDataAccessor:
     def total_day(self, cases: bool):
         if cases:
             file = open(path_to_data_dir + "/" + "total_day_cases.csv", "w")
+            file.write("fips,cases\n")
         else:
             file = open(path_to_data_dir + "/" + "total_day_deaths.csv", "w")
+            file.write("fips,deaths\n")
 
         now = datetime.datetime.now()
         today = datetime.datetime(2020, 8, 22)
@@ -119,8 +122,10 @@ class HistoricalDataAccessor:
     def total_week(self, cases: bool):
         if cases:
             file = open(path_to_data_dir + "/" + "total_week_cases.csv", "w")
+            file.write("fips,cases\n")
         else:
             file = open(path_to_data_dir + "/" + "total_week_deaths.csv", "w")
+            file.write("fips,deaths\n")
 
         now = datetime.datetime.now()
         today = datetime.datetime(now.year, now.month, now.day)
@@ -142,8 +147,10 @@ class HistoricalDataAccessor:
     def total_month(self, cases: bool):
         if cases:
             file = open(path_to_data_dir + "/" + "total_month_cases.csv", "w")
+            file.write("fips,cases\n")
         else:
             file = open(path_to_data_dir + "/" + "total_month_deaths.csv", "w")
+            file.write("fips,deaths\n")
 
         now = datetime.datetime.now()
         today = datetime.datetime(now.year, now.month, now.day)
@@ -165,8 +172,10 @@ class HistoricalDataAccessor:
     def total_total(self, cases: bool):
         if cases:
             file = open(path_to_data_dir + "/" + "total_total_cases.csv", "w")
+            file.write("fips,cases\n")
         else:
             file = open(path_to_data_dir + "/" + "total_total_deaths.csv", "w")
+            file.write("fips,deaths\n")
 
         now = datetime.datetime.now()
         today = datetime.datetime(now.year, now.month, now.day)
@@ -191,7 +200,7 @@ class HistoricalDataAccessor:
         """
         data = {}
         for fips in self.historical_data:
-            if self.historical_data[fips]["county"] == county and self.historical_data[fips]["state"] == "state":
+            if self.historical_data[fips]["county"] == county and self.historical_data[fips]["state"] == state:
                 data = self.historical_data[fips]["data"]
                 break
 
